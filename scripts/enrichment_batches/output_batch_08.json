@@ -1,0 +1,327 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "University of Illinois Chicago (UIC)",
+   "Estado": "IL",
+   "Cidade": "Chicago"
+  },
+  "updates": {
+   "Business School": "UIC Business (Liautaud Graduate School of Business)",
+   "Formato": "Presencial",
+   "Início": "Fall e Spring (Summer opcional para pré-requisitos)",
+   "Destaques Currículo": "32 créditos (16 obrigatórios + 16 eletivas); core: Advanced Database Management, Analytics Strategy and Practice, Data Mining for Business, Machine Learning and Statistical Methods; capstone com organização cliente; joint degrees com MBA/MS MIS/MS Finance",
+   "Custo/Crédito (Intl) USD": 1517,
+   "Custo/Crédito (Residente) USD": 925,
+   "Tuition Total (Intl) USD": 48544,
+   "Tuition Total (Residente) USD": 29600,
+   "Fees Adicionais USD": 5078,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsa de mérito (consideração automática após admissão, sem aplicação separada, valores variáveis); número limitado de Liautaud Graduate School Scholar full tuition waivers (incluem waiver parcial de fees); empregos horistas no campus (8+ créditos)",
+   "Quão Realista (Intl)": "Moderada — mérito automático aberto a todos os admitidos, mas fundos limitados; full tuition waivers existem porém são poucos; GMAT/GRE competitivo ajuda no mérito",
+   "TA/RA Disponível": "Limitado — posições horistas na escola/campus; waivers de tuition via Liautaud Scholar; sem programa formal de TA/RA divulgado para o MSBA",
+   "Processo TA/RA": "Mérito/waivers: automático após admissão; posições no campus via jobs.uic.edu (exige 8+ créditos em fall/spring); TA exige TOEFL/IELTS ou English Proficiency Interview",
+   "Caminho Tuition Residente": "Não aplicável na prática para internacional (F-1 paga tarifa out-of-state)",
+   "Graduate Assistantships": "Sem GA formal divulgado para o MSBA; UIC tem assistantships (TA/GA) em nível de campus, candidatura direta aos departamentos",
+   "Principais Empregadores": "Accenture, Blue Cross Blue Shield, CDW, Deloitte, Discover Financial, PwC, RSM, SAP, United Airlines, Zurich North America",
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Não (test-optional); score competitivo ajuda na admissão e no mérito",
+   "Matérias Pré-Requisito": "Sem pré-requisito para admissão; após admissão, pré-requisitos técnicos (banco de dados, programação, estatística) e 2 cursos de business para quem não tem formação na área — não contam nos 32 créditos e podem ser dispensados por disciplina equivalente/experiência",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 (ou 4.5 na nova escala); IELTS Academic 6.5; PTE Academic 54; Duolingo 130 (sub-scores 125; aceito a partir do Fall 2027) — mínimos da Graduate College; scores válidos por 2 anos",
+   "Deadline Aplicação": "Fall internacional: 1 abr (1 abr 2026 no ciclo Fall 2026; data do Fall 2027/2028 ainda não publicada); Spring internacional: ~1 set; domésticos: Spring 1 nov 2026, Summer 15 mar 2027",
+   "Rounds Aplicação": "Sem rounds; prazo único por semestre (internacional mais cedo que doméstico); taxa US$80 (waiver só para ex-alunos UIC) + US$100 de avaliação de credencial internacional",
+   "Documentos Necessários": "Aplicação via UIC Apply + taxa US$80; transcripts/diplomas (PDF) com tradução certificada; 2 cartas de recomendação (profissionais ou de professores); personal statement sobre objetivos de carreira; resume/CV; teste de inglês; GMAT/GRE opcional; taxa de avaliação de credencial internacional US$100",
+   "Entrevista": "Não — entrevista só para candidatos de MBA",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://business.uic.edu/graduate/degrees/master-science-business-analytics/",
+   "https://business.uic.edu/graduate/admissions/",
+   "https://admissions.uic.edu/graduate-professional/requirements-deadlines/international-requirements",
+   "https://registrar.uic.edu/financial-matters/graduate-tuition-and-fees/ (PDF Fall 2026 and Spring 2027 Graduate Tuition and Fees)"
+  ],
+  "observacoes": "Tuition 2026-27: MSBA cobrado por crédito, US$1,517 out-of-state / US$925 in-state (32 créditos). A tabela do registrar também lista um diferencial 'Business' de US$5,000/semestre — não ficou claro se soma aos programas por crédito; confirmar com admissões. Fees = US$1,773 fees + US$636 assessments por semestre x2 + international fee US$130x2 (sem CampusCare, U-Pass opcional). DET só é aceito para Fall 2027+ (vale para Fall 2028). Prazo internacional do Fall 2027 não publicado na página do programa (antes 1 abr). Dificuldade 'Moderada' é estimativa (sem taxa de aceitação publicada)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "DePaul University",
+   "Estado": "IL",
+   "Cidade": "Chicago"
+  },
+  "updates": {
+   "Formato": "Presencial (formato flexível: aulas presenciais ou online por disciplina; F-1 deve cursar presencial, mín. 2 cursos/trimestre)",
+   "Início": "Fall, Winter e Spring (sistema trimestral)",
+   "Custo/Crédito (Intl) USD": 1252,
+   "Custo/Crédito (Residente) USD": 1252,
+   "Tuition Total (Intl) USD": 60096,
+   "Tuition Total (Residente) USD": 60096,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Kellstadt Dean's Scholarship (para não cidadãos/não residentes dos EUA; triagem automática, valor variável conforme perfil, não acumulável); Kellstadt Graduate Scholarship (só cidadãos/residentes); bolsas privadas pós-admissão via Scholarship Connect (ex.: C.V. Starr Foundation — internacionais full-time, preferência América Latina); Double Demon 25% (só ex-alunos DePaul); Kellstadt concedeu >US$3 milhões a ingressantes de MBA/MS no último ano",
+   "Quão Realista (Intl)": "Moderada — existe bolsa de mérito específica para internacionais (Dean's Scholarship, automática) e a C.V. Starr prioriza latino-americanos; valores não divulgados; aplicar até abril para concorrer a bolsas",
+   "TA/RA Disponível": "Não divulgado para o MSBAI (sem programa formal de TA/RA publicado pela Kellstadt)",
+   "Caminho Tuition Residente": "N/A (privada, tarifa única)",
+   "GMAT/GRE Obrigatório": "Não (não listado entre os requisitos do MSBAI)",
+   "Matérias Pré-Requisito": "Sem pré-requisitos formais para admissão; possibilidade de course waivers com base em formação/experiência prévia",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 com todas as seções ≥17 (ou 4.0 na nova escala, nenhuma sub-nota <3.5, para testes a partir de 21 jan 2026); IELTS 6.5; Duolingo 115; PTE 53 (mínimos para admissão direta)",
+   "Deadline Aplicação": "Prioridade para bolsas: abr (aplicar até abril); Fall internacional: 15 jun (página de admissão internacional) ou 15 ago (página do programa — inconsistência); Winter internacional 15 out; Spring internacional 15 jan; Summer 15 abr",
+   "Rounds Aplicação": "Admissão por trimestre (Fall/Winter/Spring/Summer), sem rounds numerados; aplicar até abril para consideração de bolsa; após o prazo, análise se houver vaga",
+   "Documentos Necessários": "Aplicação online + taxa; essay sobre interesse no programa e objetivos profissionais; resume; transcripts oficiais de todas as instituições que concederam grau (avaliação de credencial para internacionais); teste de inglês; cartas de recomendação OPCIONAIS (0 exigidas)",
+   "Entrevista": "Não exigida (não consta nos requisitos do MSBAI)",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://business.depaul.edu/academics/management-entrepreneurship/graduate/business-analytics-ms/Pages/admission-requirements.aspx",
+   "https://www.depaul.edu/academics/programs/business-analytics-ms",
+   "https://business.depaul.edu/admission-aid/international-student-admission",
+   "https://www.depaul.edu/tuition-and-aid/graduate-and-professional-tuition-and-fees",
+   "https://business.depaul.edu/admission-aid/tuition-aid/scholarships"
+  ],
+  "observacoes": "Tuition 2026-27 Kellstadt: US$1,252/crédito (antes US$1,228 em 2025-26); 48 créditos trimestrais = US$60,096. Prazo Fall internacional conflita entre páginas oficiais (15 jun na página de admissão internacional vs 15 ago na página do programa) — usar 15 jun por segurança e abril para bolsas. Programa é 'flexível' (online ou presencial); confirmar que F-1 fará todas as aulas presenciais. Taxa de aplicação (US$75) não reconfirmada. Dificuldade 'Acessível' é estimativa (sem GMAT, cartas opcionais, sem dados de aceitação)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Cornell University (SC Johnson)",
+   "Estado": "NY",
+   "Cidade": "New York City (NYC)"
+  },
+  "updates": {
+   "STEM Designated": "Sim",
+   "Formato": "Presencial (full-time, campus Cornell Tech, Roosevelt Island — NYC)",
+   "Início": "Meados de agosto",
+   "Destaques Currículo": "Mesmo currículo do Online+; IA integrada ao currículo; capstone projects, corporate treks, workshops de carreira; conhecimento de programação altamente recomendado para o formato NYC",
+   "Seguro Saúde (programa) USD": "Verificar",
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsa de mérito limitada (consideração automática para todos, domésticos e internacionais, sem aplicação separada); Yellow Ribbon para veteranos dos EUA; empréstimos privados",
+   "Quão Realista (Intl)": "Baixa — internacionais são elegíveis ao mérito automático, mas os fundos são limitados (sem valores divulgados) e a escola recomenda aplicar nos primeiros rounds; tuition ~US$90k",
+   "TA/RA Disponível": "Não divulgado para o MSBA (programa profissional de 10 meses)",
+   "Graduate Assistantships": "Não divulgado para o MSBA",
+   "GMAT/GRE Obrigatório": "Não exigido",
+   "Matérias Pré-Requisito": "Proficiência quantitativa comprovada em cálculo ou estatística de nível universitário; programação não obrigatória, mas altamente recomendada para o formato NYC",
+   "Testes Inglês Aceitos": "IELTS Academic 7.0 overall; TOEFL iBT com sub-scores Speaking 22 / Reading 20 / Listening 15 / Writing 20 (ou nova escala: Speaking 4 / Reading 4 / Listening 3.5 / Writing 4); Duolingo mín. 130 (aceito pelo MSBA, enviar para a SC Johnson); TOEFL My Best Score não aceito; testes válidos até 2 anos antes do deadline; mínimos podem subir para admissão 2027",
+   "Deadline Aplicação": "Round 1: 1 dez 2026; Round 2: 15 jan 2027; Round 3: 1 mar 2027; Round 4: 15 abr 2027 (formato NYC, ciclo Fall 2027)",
+   "Rounds Aplicação": "4 rounds para o NYC (1 dez, 15 jan, 1 mar, 15 abr); aplicar nos rounds iniciais por causa das bolsas limitadas; taxa US$105 (waiver só para militares dos EUA e alunos/ex-alunos recentes da Cornell); depósito de US$1,500 após aceite",
+   "Documentos Necessários": "Aplicação Cornell Graduate School + taxa US$105; transcripts não-oficiais de todas as instituições (tradução certificada; avaliação WES recomendada se o diploma não constar na lista de equivalência); resume/CV; 2 cartas de recomendação (mín. 1 de supervisor atual/recente); academic statement of purpose (até 500 palavras); personal statement (300-500 palavras); teste de inglês; video interview assíncrono pós-submissão",
+   "Dificuldade Entrada": "Alta"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://business.cornell.edu/admissions/graduate/msba/application-guide/",
+   "https://business.cornell.edu/admissions/graduate/msba/tuition/",
+   "https://business.cornell.edu/programs/msba/",
+   "https://gradschool.cornell.edu/admissions/application-steps/required-tests/english-language-proficiency-requirement-2/",
+   "https://business.cornell.edu/admissions/graduate/msba/career-outlook/"
+  ],
+  "observacoes": "Tuition 2026-27 (NYC): US$89,864 (2 x US$44,932), igual ao valor atual; custo da turma 2027-28 sai em mar 2027. COA oficial NYC: activity/health fee US$466, moradia US$25,856, alimentação US$6,404, livros US$2,464, transporte US$1,364, diversos US$4,658 (total US$131,076) — seguro saúde não incluso. Conflito: a Graduate School diz não aceitar Duolingo, mas a página do MSBA aceita DET 130 explicitamente (vale a regra do programa). Sem relatório de empregabilidade publicado para o MSBA. Dificuldade 'Alta' removeu '(Ivy)' para seguir a escala."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Rensselaer Polytechnic Institute (RPI)",
+   "Estado": "NY",
+   "Cidade": "Troy"
+  },
+  "updates": {
+   "Destaques Currículo": "Modelagem quantitativa/estatística, predictive analytics, machine learning, NLP, big data/IA e visualização; marketing e supply chain analytics; datasets reais; mentoria do Lally Advisory Board; Center for Supply Networks and Analytics",
+   "Custo/Crédito (Intl) USD": 2210,
+   "Custo/Crédito (Residente) USD": 2210,
+   "Fees Adicionais USD": 1467,
+   "Seguro Saúde (programa) USD": 2160,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas de mérito 'generosas' com consideração automática para todos os candidatos de MS/MBA (valores não divulgados); fellowships nomeadas (Bozzone e Reinert-Rader só para cidadãos dos EUA; Best Fellowship para membros Tau Beta Pi); Yellow Ribbon para veteranos",
+   "Quão Realista (Intl)": "Moderada — internacionais recebem mérito automático (confirmado no FAQ oficial), mas sem valores publicados; principais fellowships nomeadas são só para cidadãos dos EUA; Round 1 sem taxa",
+   "TA/RA Disponível": "Não divulgado para o MSBA (TA/RA da RPI concentrados em doutorado)",
+   "Caminho Tuition Residente": "N/A (privada, tarifa única)",
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Opcional (pode fortalecer a candidatura)",
+   "Testes Inglês Aceitos": "TOEFL iBT 88 (ou 4.5 na nova escala 1-6); IELTS Academic 6.5; Duolingo 120; PTE 59 (mínimos institucionais da RPI; Lally pode exigir mais)",
+   "Deadline Aplicação": "Round 1: 1 nov 2026; Round 2: 15 dez 2026; Round 3: 1 fev 2027; Round 4: 1 mar 2027; Round 5: 15 abr 2027",
+   "Taxa Aplicação USD": 75,
+   "Rounds Aplicação": "5 rounds (ciclo Fall 2027, calendário oficial para MBA e MS em Business Analytics/QFRA/SCM); aplicações tardias aceitas com prioridade menor; internacionais devem aplicar cedo e enviar documentação financeira cedo para o I-20; taxa US$75 (Round 1 historicamente sem taxa — não reconfirmado)",
+   "Documentos Necessários": "Aplicação online + taxa US$75; personal statement (objetivos, experiência, e por que merece fellowship); resume/CV; 2 cartas de recomendação (acadêmicas ou profissionais); transcripts; teste de inglês; GMAT/GRE opcional; documentação financeira (internacionais)",
+   "Entrevista": "Não listada como requisito",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://lally.rpi.edu/admissions/graduate-admissions/graduate-requirements",
+   "https://gradadmissions.rpi.edu/deadlines-and-requirements",
+   "https://lallyschool.rpi.edu/ms-business-analytics",
+   "https://lally.rpi.edu/admissions/graduate-admissions/financial-aid-scholarships",
+   "https://finance.rpi.edu/bursar/tuition-and-fee-amounts-and-tuition-adjustments"
+  ],
+  "observacoes": "Tuition 2026-27: US$33,150/semestre full-time (até 16 créditos) = US$66,300 por 2 semestres (igual ao valor atual); ~US$2,210/crédito implícito em 30 créditos. Fees = Health & Wellness US$535 + Union US$191 + Grad Council US$7.50 por semestre x2; seguro saúde US$1,080/semestre (dispensável com waiver). DET: página institucional de pós da RPI lista 120 (um resultado de busca citava 115; vale 120). O FAQ da Lally menciona só TOEFL/IELTS para internacionais, mas a Graduate Admissions aceita DET/PTE. Salário médio US$99,400 e ranking #1 da TFE Times (não é US News/QS) conforme página do programa. Dificuldade 'Moderada' é estimativa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Rutgers University–Camden",
+   "Estado": "NJ",
+   "Cidade": "Camden"
+  },
+  "updates": {
+   "STEM Designated": "Sim",
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas de mérito para internacionais F-1/J-1 não patrocinados no On-Campus MSBA/MBA (sem aplicação separada; avaliadas na admissão; exigem score oficial de GMAT ou GRE; valores não divulgados); Corporate Partner Scholarship Program; ajuda financeira federal só para domésticos",
+   "Quão Realista (Intl)": "Moderada — há bolsa específica para internacionais no MSBA presencial, mas exige GMAT/GRE oficial e valores não são publicados; sem ajuda federal para internacionais",
+   "TA/RA Disponível": "Não divulgado para o MSBA",
+   "Caminho Tuition Residente": "Não aplicável na prática — internacionais são considerados 'out of state'",
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Não para admissão (recomendado se GPA <2.75 ou <3 anos de experiência full-time); obrigatório (score oficial) para concorrer a bolsa de internacionais",
+   "Experiência Profissional": "Não obrigatória, mas vista favoravelmente",
+   "Deadline Aplicação": "Fall internacional: 1 jun; Fall doméstico: 1 ago; Spring internacional: 1 out; Spring doméstico: 1 dez; Summer doméstico: 1 mai",
+   "Entrevista": "Não mencionada nos requisitos",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://business.camden.rutgers.edu/prospective-students/tuition_fees/",
+   "https://business.camden.rutgers.edu/on-campus-msba-2025/",
+   "https://business.camden.rutgers.edu/graduate/ms-in-business-analytics/master-of-science-in-business-analytics-msba-faqs/",
+   "https://business.camden.rutgers.edu/graduate/ms-in-business-analytics/"
+  ],
+  "observacoes": "Tuition 2026-27 confirmada: US$1,944/crédito out-of-state (internacional) e US$1,149 in-state, + fees (inalterado). Taxa US$70 confirmada. Conflito no inglês: o FAQ oficial ainda lista TOEFL 79 iBT / IELTS 6.5 / Duolingo 115 (e a página do MSBA presencial, TOEFL 550/79), enquanto o valor atual da planilha registra DET 120 efetivo Fall 2026 — mantido o mais exigente (120). GPA mínimo 3.0 do overview mantido como número; FAQ só cita 2.75 como limiar para recomendar GMAT/GRE. Programa também existe online (não STEM para F-1); a versão presencial é STEM. Dificuldade 'Acessível' é estimativa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Rutgers Business School (Newark)",
+   "Estado": "NJ",
+   "Cidade": "Newark"
+  },
+  "updates": {
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsa única de US$5,000 para 4 alunos (turma de Fall) e 2 alunos (turma de Spring), por nomeação após análise das aplicações (sem aplicação separada); sem outra ajuda financeira do programa; 5 centros de pesquisa associados podem empregar alunos",
+   "Quão Realista (Intl)": "Baixa — só 6 bolsas/ano de US$5,000 (one-time), sem TA/RA; eventual emprego em centros de pesquisa do programa",
+   "Processo TA/RA": "Não há TA/RA pelo programa; alunos podem ser empregados pelos centros de pesquisa associados (contato direto)",
+   "GMAT/GRE Obrigatório": "Opcional (test-optional; MITA dispensa para todos) — médias de admitidos recentes: GMAT 618, GRE 307 (148 V / 159 Q)",
+   "Testes Inglês Aceitos": "TOEFL, IELTS, PTE Academic ou Duolingo aceitos, sem mínimo publicado — médias de admitidos: TOEFL 90+ (FAQ: 95), IELTS 6.5, PTE 68, Duolingo 120; dispensa com diploma de país anglófono ou 3+ anos de trabalho full-time nos EUA",
+   "Deadline Aplicação": "Fall internacional: 1 mai (consideração garantida para aplicações completas até 1 mai; prazo internacional publicado antes: 15 mai); Fall doméstico: 15 jul; Spring internacional: 15 out; Spring doméstico: 15 dez",
+   "Rounds Aplicação": "Sem rounds numerados; dois ciclos (Fall/Spring), prazos diferentes para domésticos e internacionais; taxa de aplicação dispensada (US$0)",
+   "Documentos Necessários": "Aplicação online (sem taxa); transcripts não-oficiais (oficiais com conferral após aceite; avaliação só se solicitada); GMAT/GRE opcional; teste de inglês (não-nativos); 1 carta de recomendação; resume; personal statement (300-500 palavras); documentos adicionais para internacionais (financeiros/I-20)",
+   "Entrevista": "Não exigida (não consta no checklist)",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.business.rutgers.edu/masters-information-technology-analytics/tuition",
+   "https://www.business.rutgers.edu/masters-information-technology-analytics/admissions",
+   "https://www.business.rutgers.edu/masters-information-technology-analytics/application-checklist",
+   "https://www.business.rutgers.edu/masters-information-technology-analytics/international-applicants",
+   "https://www.business.rutgers.edu/masters-information-technology-analytics/frequently-asked-questions"
+  ],
+  "observacoes": "Tuition 2026-27 confirmada (inalterada): full-time US$22,020/semestre out-of-state/internacional e US$15,444 NJ; fees/semestre = student US$979.50 + tech US$221 + off-site US$1,119.50 + school US$594.50 (total US$5,829 por 2 semestres). DET aceito sem mínimo oficial (média de admitidos 120). Prazo Fall internacional: FAQ garante consideração até 1 mai; valor anterior de 15 mai não reconfirmado (página atual só mostra Spring). Observação: MITA é mais de TI+analytics que um MSBA puro. Dificuldade 'Moderada' é estimativa. Taxa Empregabilidade mantida Verificar (não alterada)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Seton Hall University",
+   "Estado": "NJ",
+   "Cidade": "South Orange"
+  },
+  "updates": {
+   "Formato": "Híbrido (aulas presenciais noturnas no campus de South Orange, 18h30, 1-2x/semana + disciplinas online)",
+   "Duração (meses)": 18,
+   "Início": "Fall, Spring e Summer (rolling)",
+   "Destaques Currículo": "30 créditos: 21 obrigatórios + 9 de eletivas de TI/Análise Quantitativa (10 cursos de 3 créditos); R/Python, SQL, JSON/XML, data models, dados não estruturados; pré-qualificação online sem crédito (estatística/Excel) para quem não tem base",
+   "Custo/Crédito (Intl) USD": 1585,
+   "Custo/Crédito (Residente) USD": 1585,
+   "Tuition Total (Intl) USD": 47550,
+   "Tuition Total (Residente) USD": 47550,
+   "Fees Adicionais USD": 2380,
+   "Tipos de Bolsa": "Bolsas de mérito competitivas (podem reduzir até 50% do custo do curso) e Graduate Assistantships — aplicar até o priority deadline de cada semestre; GMAT/GRE altamente recomendado para concorrer",
+   "Quão Realista (Intl)": "Moderada — mérito de até 50% e GA divulgados, sem restrição explícita a internacionais; competitivo, exige aplicar até o priority deadline e GMAT/GRE ajuda",
+   "GMAT/GRE Obrigatório": "Opcional (altamente recomendado para quem busca bolsa de mérito, tem pouca base técnica ou GPA <3.0)",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 (PBT 607); IELTS 6.0; Duolingo 110 (mínimos para candidatos competitivos, página de internacionais da Stillman)",
+   "Deadline Aplicação": "Fall priority: 31 mai; Spring priority: 31 out; Summer priority: 31 mar (admissão rolling; priority deadline vale para bolsas de mérito e GA)",
+   "Rounds Aplicação": "Rolling, com priority deadline por semestre (Fall 31 mai, Spring 31 out, Summer 31 mar) para bolsas/GA; taxa US$75 (não reconfirmada)",
+   "Documentos Necessários": "Aplicação online + taxa; transcripts; resume; personal statement (250-500 palavras sobre objetivos profissionais e fit com a Stillman); carta(s) de recomendação (número não especificado); teste de inglês; GMAT/GRE opcional; documentos bancários originais para I-20 (internacionais)",
+   "Entrevista": "Não listada como requisito",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://www.shu.edu/academics/master-of-science-in-business-analytics.html",
+   "https://www.shu.edu/business/international-graduate-students.html",
+   "https://www.shu.edu/business/graduate-applying.html",
+   "https://www.shu.edu/bursar/tuition-and-fees.html"
+  ],
+  "observacoes": "Tuition 2026-27 (AY2027): graduate US$1,585/crédito (antes US$1,570) x 30 = US$47,550. Fees estimados: technology US$495 + university US$215 por semestre full-time (9+ créditos) x3 semestres = US$2,130 + international student fee único US$250 = US$2,380. Programa oficial leva 18-24 meses (usado 18 = mínimo). Formato é híbrido (noturno presencial + online) — confirmar se atende às regras F-1 de presença. 95% de empregabilidade não reconfirmado em fonte oficial nesta rodada. Dificuldade 'Acessível' é estimativa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Southern Connecticut State University (SCSU)",
+   "Estado": "CT",
+   "Cidade": "New Haven"
+  },
+  "updates": {
+   "STEM Designated": "Sim",
+   "Formato": "Presencial (disponível também híbrido ou online; F-1 deve cursar on-ground)",
+   "Destaques Currículo": "30 créditos: 18 de core + 9 de eletivas + capstone de 3 créditos; até 3 créditos de pré-requisito dispensáveis (estatística de negócios/banco de dados); analytics avançado, aplicações de IA, statistical modeling; career services (workshops, colocação); AACSB",
+   "Custo/Crédito (Intl) USD": 702.1,
+   "Custo/Crédito (Residente) USD": 484.2,
+   "Tuition Total (Intl) USD": 21063,
+   "Tuition Total (Residente) USD": 14526,
+   "Fees Adicionais USD": 10619,
+   "TA/RA Disponível": "Sim (Graduate Assistantships existem na SCSU; GA full-time tem waiver de University Fee, University General Fee e Student Activity Fee, mas paga tuition)",
+   "Graduate Assistantships": "Sim, em nível de universidade (School of Graduate & Professional Studies); GA dispensa parte dos fees, não a tuition; vagas para o MSBA não divulgadas",
+   "Caminho Tuition Residente": "Não aplicável para F-1; desde o Fall 2026 out-of-state/internacionais pagam a tarifa NEBHE",
+   "Principais Empregadores": "Capital One, Raytheon Technologies, Cigna, Travelers, CVS Health (citados pela universidade como empregadores que buscam o perfil; não é relatório de colocação)",
+   "GPA Mínimo": 3.0,
+   "Matérias Pré-Requisito": "Business Statistics (ECO 500) e banco de dados — até 3 créditos de pré-requisito, dispensáveis com formação prévia",
+   "Taxa Aplicação USD": 50,
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://www.southernct.edu/academics/programs/business-analytics-ms",
+   "https://catalog.southernct.edu/graduate/programs-and-degrees/business-analytics-ms.html",
+   "https://inside.southernct.edu/onestop/bill-payment/tuition-fees",
+   "https://go.southernct.edu/docs/drupal/tuition-fees-fulltime-2026-2027.pdf",
+   "https://go.southernct.edu/docs/drupal/tuition-fees-parttime-2026-2027.pdf"
+  ],
+  "observacoes": "Tuition 2026-27 (tabela oficial): graduate full-time (9+ créditos) out-of-state/internacional US$6,537/semestre (tarifa NEBHE desde Fall 2026) e in-state US$4,358; fees full-time US$3,122/semestre (general US$2,547 + university US$528 + activity US$27 + writing US$20). Totais estimados para 30 créditos = 3 semestres full-time + 3 créditos part-time (US$484/crédito, igual para residente/não residente): intl US$21,063 tuition + US$10,619 fees; residente US$14,526. Per crédito é implícito (total/30). Não ficou claro se o MSBA usa a tarifa 'Graduate' ou a do MBA on-ground (US$9,349/semestre intl) — assumido Graduate. Duração oficial: 'tipicamente 2 anos'. DET 105 (regra geral de pós) não reconfirmado nesta rodada. Taxa de aplicação US$50 (catálogo). Sem dados oficiais de empregabilidade/bolsas de mérito para o MSBA."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Bentley University",
+   "Estado": "MA",
+   "Cidade": "Waltham"
+  },
+  "updates": {
+   "STEM Designated": "Sim",
+   "Formato": "Presencial (aulas majoritariamente noturnas; full-time exige mín. 3 cursos por semestre para F-1)",
+   "Início": "Fall (30 ago 2027) e Spring (19 jan 2027)",
+   "Destaques Currículo": "10 cursos (30 créditos): core de 7 cursos + 3 eletivas em um cluster (data science, finance, information management, management ou marketing); curso de fundamentos dispensável; crédito por internship/projeto (MA 795); Center for Analytics and Data Science (CADS)",
+   "Fees Adicionais USD": 250,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsa de mérito competitiva (tuition remission que reduz o preço por curso durante todo o programa; consideração automática para domésticos e internacionais; exige manter GPA 3.0); ~30 Graduate Assistantships/ano para top alunos de MBA/MS full-time de Fall (stipend, ~15h/semana, 1º ano, não renovável); empregos no campus (5-20h/semana); empréstimos Prodigy/MPower",
+   "Quão Realista (Intl)": "Moderada — mérito automático aberto a internacionais e ~30 GAs/ano (competitivos, não cobrem tuition integral); valores médios não divulgados",
+   "TA/RA Disponível": "Sim (Graduate Assistantships pagas; ~30/ano para MBA e MS)",
+   "Processo TA/RA": "Indicar interesse em GA na aplicação (só full-time de Fall); revisão separada a partir do início de março; até 15-20h/semana; stipend; não renovável",
+   "Graduate Assistantships": "Sim — ~30 por ano, stipend por 15h/semana no 1º ano acadêmico; não cobrem tuition integral",
+   "Caminho Tuition Residente": "N/A (privada, tarifa única)",
+   "Principais Empregadores": "Adidas, Boston Children's Hospital, Fidelity Investments, Citi, Amica Mutual, Deloitte, Google, PwC, BCG, Epsilon, Liberty Mutual, State Street",
+   "Testes Inglês Aceitos": "TOEFL, IELTS ou Duolingo aceitos (mínimos para o MS não publicados; referência do PhD: TOEFL 100 / IELTS 7.0 / DET 130); dispensa se o inglês foi língua principal de instrução (com comprovação)",
+   "Deadline Aplicação": "Round 1: 1 nov 2026; Round 2: 14 dez 2026; Round 3: 1 fev 2027; rolling depois; internacionais fora dos EUA: recomendado até 1 jun (Fall) / 1 out (Spring)",
+   "Rounds Aplicação": "Full-time: Round 1 1 nov (decisão 4 dez), Round 2 14 dez (decisão 12 fev), Round 3 1 fev (decisão 19 mar), depois rolling (decisão em ~2 semanas); taxa US$133 (descontos via conselheiro/eventos)",
+   "Documentos Necessários": "Aplicação (BusinessCAS) + taxa US$133; resume atual com datas; 1 carta de recomendação; essay; statement of purpose (opcional); transcripts não-oficiais (oficiais após depósito); avaliação curso-a-curso NACES para diplomas estrangeiros; teste de inglês; GMAT/GMAT Focus/GRE/EA opcional",
+   "Entrevista": "Não exigida em regra; candidatos sem teste padronizado podem ser chamados para entrevista de admissão para demonstrar proficiência analítica",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.bentley.edu/graduate/apply/deadlines",
+   "https://www.bentley.edu/graduate/tuition-aid",
+   "https://www.bentley.edu/graduate/apply/frequently-asked-questions",
+   "https://www.bentley.edu/graduate/apply/international/applicants",
+   "https://www.bentley.edu/academics/graduate-programs/masters-business-analytics"
+  ],
+  "observacoes": "Tuition 2026-27: US$6,335/curso x 10 = US$63,350 (inalterado; ~US$2,111.67/crédito). COA internacional anual (9 meses): moradia+alimentação US$20,655, livros US$1,980, pessoais US$1,550, international student fee US$250, seguro saúde obrigatório US$2,650 (inalterado). DET aceito mas sem nota mínima publicada para o MS. Taxa de empregabilidade 94% e salário US$80,000 não reconfirmados nesta rodada. Dificuldade 'Moderada' é estimativa."
+ }
+]

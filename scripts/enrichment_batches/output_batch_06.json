@@ -1,0 +1,270 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "ASU",
+   "Estado": "AZ",
+   "Cidade": "Tempe"
+  },
+  "updates": {
+   "Fees Adicionais USD": 0,
+   "GPA Mínimo": 3.0,
+   "Tipos de Bolsa": "Bolsas de mérito W. P. Carey em número limitado ('extremely competitive'; aplicação curta após a admissão; sem valores publicados); bolsas de parcerias corporativas de US$2,000-25,000 (só para funcionários de empresas parceiras); página de Cost and Aid cita graduate assistantships como opção, sem detalhes",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 (antes de 21 jan 2026) ou 4 (nova escala) / IELTS 6.5 / PTE 60 / Duolingo 105 (mínimos gerais da ASU, para os quais a página do MSBA remete); NÃO aceita TOEFL iBT Paper Edition nem PTE Academic Online",
+   "Deadline Aplicação": "Round 1: 1 dez 2026 (Early Decision); Round 2: 1 fev 2027 (prioridade internacional); Round 3: 1 abr 2027 (final internacional); Round 4: 1 jul 2027 (final); rolling até 15 jul 2027; Spring 2027: 1 jul 2026, 1 set 2026, 1 nov 2026, 1 dez 2026",
+   "Rounds Aplicação": "4 rounds por entrada (Fall e Spring); decisão em até 3 semanas após aplicação completa; taxa US$115 internacional / US$70 doméstico (página do MSBA); isenção só para militares dos EUA, Teach for America, Peace Corps, AmeriCorps e parcerias corporativas",
+   "Documentos Necessários": "Aplicação online ASU; resume (datas em Mês/Ano); respostas curtas de ensaio (personal statement genérico NÃO aceito); contato de 1 recomendador (nome/e-mail, sem carta anexada na aplicação); transcripts não-oficiais na aplicação (oficiais após admissão) + tradução oficial; GMAT/GRE opcional; comprovante de inglês (internacionais); garantia financeira para o visto após admissão"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://wpcarey.asu.edu/masters-programs/business-analytics",
+   "https://admission.asu.edu/international/graduate/english-proficiency"
+  ],
+  "observacoes": "Deadlines Fall 2027 e Spring 2027 reconfirmados; taxa intl US$115 confirmada. Fees Adicionais = 0 porque o total oficial já é 'estimated tuition and fees' (há depósito de matrícula único de US$500). Página do MSBA remete ao requisito geral de inglês da ASU (DET 105), sem mínimo próprio do W. P. Carey. Tuition confirmada (Big Data: US$71,000 intl / US$41,000 residente; demais trilhas de 16 meses: US$98,000 intl / US$59,000 residente). GPA mínimo 3.0 nos últimos 60 créditos. Salário/empregadores não reconfirmados."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Arizona",
+   "Estado": "AZ",
+   "Cidade": "Tucson"
+  },
+  "updates": {
+   "Início": "Summer (só entrada de verão: cursos de background online no verão, core presencial em Fall/Spring)",
+   "Destaques Currículo": "33 units; trilha de 10 meses (Summer+Fall+Spring) ou de 16 meses; cursos de background online (Python, dados) antes do core; R no core; projetos com dados reais de empresas e capstone patrocinado; sem aulas noturnas em Tucson (há versão em Chandler)",
+   "Fees Adicionais USD": 0,
+   "Tipos de Bolsa": "Todas as aplicações são avaliadas automaticamente para bolsas de mérito (priorizadas para quem aplica cedo; valores não publicados); graduate assistantships abertas após confirmar matrícula",
+   "Quão Realista (Intl)": "Moderada -- avaliação automática de mérito para todos (inclui internacionais), mas sem valores publicados; GA só após commit, vagas limitadas",
+   "Salário Médio Pós USD": "Verificar",
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Não -- substituído por entrevista virtual curta (15-25 min) que avalia preparo quantitativo",
+   "Testes Inglês Aceitos": "TOEFL iBT 85 (antes de 21 jan 2026) ou 4.5 (nova escala 1-6); IELTS 7 (nenhuma sub-área <6); PTE 60 (Graduate College); Duolingo NÃO aceito ('The Graduate College does not accept Duolingo scores')",
+   "Deadline Aplicação": "Round 1: 19 out 2026; Round 2: 14 dez 2026; Round 3: 1 fev 2027 (= deadline internacional); Round 4: 31 mar 2027; final doméstico: 14 jun 2027",
+   "Taxa Aplicação USD": 90,
+   "Rounds Aplicação": "4 rounds + deadline doméstico final: 19 out, 14 dez, 1 fev (+ final intl), 31 mar, 14 jun; decisão antes do round seguinte; entre 1 fev e 31 mai análise rolling; extensão do prazo intl possível falando com a program manager; taxa da Graduate College US$90, sem isenção",
+   "Documentos Necessários": "Graduate College Application; transcripts/diploma (cópias na aplicação, oficiais só após admissão, com tradução); GPA calculado na UA GPA Calculator (internacionais, com print); resume; statement of purpose; 2-3 recomendações de associados profissionais (formulário curto online); TOEFL/IELTS (internacionais)"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://eller.arizona.edu/programs/masters/business-analytics",
+   "https://eller.arizona.edu/programs/masters/business-analytics/admissions",
+   "https://eller.arizona.edu/programs/masters/business-analytics/roi",
+   "https://eller.arizona.edu/programs/masters/business-analytics/careers",
+   "https://grad.arizona.edu/node/208",
+   "https://grad.arizona.edu/admissions/procedures/application-fees"
+  ],
+  "observacoes": "Programa é 'Summer Start Only' (corrigido Início). Tuition confirmada: US$56,167.50 non-resident / US$33,845.50 resident (10 meses, já inclui program fees e fees; 16 meses: US$73,618 / US$46,130). Salário: página oficial dá só faixa de US$65,000-105,000 (sem mediana) -> numérico ficou 'Verificar'. 90% empregados em 6 meses. U.S. News 2026: #13 entre programas públicos de Business Analytics (posição geral não publicada na página). Taxa de aplicação US$90 (Graduate College, sem waiver). DET não aceito pela Graduate College."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "CU Boulder",
+   "Estado": "CO",
+   "Cidade": "Boulder"
+  },
+  "updates": {
+   "Início": "June (Summer) -- turma inicia em jun 2027",
+   "Tamanho Turma": 52,
+   "Destaques Currículo": "33 créditos em 3 semestres (summer, fall, spring), 10 meses presencial; trilhas Decision Science, Healthcare Analytics e Marketing Analytics + eletiva de IA; ML, IA, data engineering, visualização, modelagem estatística; capstone com parceiros da indústria; não exige background em programação",
+   "Tipos de Bolsa": "Bolsas de mérito com consideração automática de todos os aplicantes pelo comitê (ex.: Graph Foundation MSBA Scholarship, Pyle Family STEM Scholarship); bolsas especiais com essay separado (Hummel, Balaguer) são só para cidadãos/residentes dos EUA; valores não publicados; informações 2026-27 'coming soon'",
+   "Quão Realista (Intl)": "Baixa-Moderada -- internacionais entram na avaliação automática de mérito, mas valores não são publicados, as bolsas com essay separado excluem internacionais e a escola NÃO oferece assistantships/TA/RA para MS",
+   "TA/RA Disponível": "Não",
+   "Processo TA/RA": "Não se aplica -- Leeds: 'We do not offer assistantships, TA positions or research opportunities for our MS Programs'",
+   "Graduate Assistantships": "Não oferecidas para MS da Leeds",
+   "Ranking US News": 39,
+   "GPA Médio Admitidos": 3.36,
+   "Matérias Pré-Requisito": "Nenhum curso pré-requisito exigido; não requer background em programação",
+   "Rounds Aplicação": "3 rounds + deadlines finais: Round 1 5 out 2026, Round 2 30 nov 2026, Round 3 1 fev 2027, final internacional 3 fev 2027, final doméstico 10 mai 2027. Taxa: checklist oficial diz US$70 'currently waived', mas a mesma página diz que só militares/veteranos dos EUA e ex-alunos da CU têm isenção -- confirmar ao aplicar",
+   "Documentos Necessários": "Resume; 1 carta de recomendação obrigatória (pode enviar 2), preferencialmente de supervisor/relação profissional; essay até 750 palavras; transcripts não-oficiais de todas as instituições com tradução certificada (oficiais só após admissão; não aceita WES/ECE); GMAT/GRE opcional; teste de inglês (internacionais)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://www.colorado.edu/business/ms-programs/masters-program-business-analytics",
+   "https://www.colorado.edu/business/ms-programs/masters-programs-admissions",
+   "https://www.colorado.edu/business/ms-programs/admissions/international-applicants",
+   "https://www.colorado.edu/business/ms-programs/tuition-financial-support-ms-programs",
+   "https://www.colorado.edu/business/ms-programs/masters-program-business-analytics/msba-msma-and-mssca-estimated-cost-attendance",
+   "https://www.colorado.edu/business/ms-programs/masters-program-business-analytics/msba-class-profile",
+   "https://www.colorado.edu/business/ms-programs/masters-program-business-analytics/career-success"
+  ],
+  "observacoes": "Tuition/fees/COA confirmados (intl US$57,853 + US$1,424 fees; saúde US$8,136). Ranking US News convertido para número (#39 Best Business Analytics, 2026). Class of 2027: 52 alunos, GPA médio 3.36, 4 anos de experiência média, 13% internacionais. Leeds declara oficialmente que NÃO oferece assistantships/TA/RA para MS (corrigido). Taxa de aplicação: conflito na página oficial (US$70 'currently waived' vs. isenção só para militares/alumni) -- mantido 0. Salário médio US$83,885 é da turma de 2023. Taxa de empregabilidade 90% não reconfirmada em página oficial atual."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Cal Poly SLO",
+   "Estado": "CA",
+   "Cidade": "San Luis Obispo"
+  },
+  "updates": {
+   "STEM Designated": "Sim",
+   "Início": "Summer (meados de julho; coorte única anual summer+fall+spring)",
+   "Destaques Currículo": "Learn by doing; programa acelerado de 10 meses com currículo 'AI-first' (ML, text mining, RAG, bancos vetoriais, IA generativa e agêntica, AWS); projetos com dados reais via Business Analytics Agency (AT&T, Oracle, World Bank); conselho consultivo com Google, Oracle, Tesla, Netflix",
+   "Custo/Crédito (Intl) USD": 1226.87,
+   "Custo/Crédito (Residente) USD": 1226.87,
+   "Tuition Total (Intl) USD": 36806,
+   "Tuition Total (Residente) USD": 36806,
+   "Fees Adicionais USD": 2827,
+   "Seguro Saúde (programa) USD": 1855,
+   "Bolsas Disponíveis": "Não",
+   "Tipos de Bolsa": "Sem bolsa institucional do MSBA: FAQ oficial diz que em geral só há ajuda na forma de empréstimos; aceitam bolsas privadas/externas e benefícios de veteranos",
+   "Quão Realista (Intl)": "Baixa -- não há bolsa nem assistantship do programa; internacionais não têm acesso a empréstimos federais",
+   "TA/RA Disponível": "Não (não mencionado; FAQ oficial cita só empréstimos)",
+   "Principais Empregadores": "Amazon, Apple, Google, Microsoft, Meta, Oracle, Salesforce, Adobe, SpaceX, Deloitte, Accenture, EY, KPMG, PwC, Booz Allen Hamilton, Kaiser Permanente, NFL",
+   "GMAT/GRE Obrigatório": "Não -- dispensado para todos os candidatos neste ciclo; envio fortemente recomendado se GPA <3.0 ou histórico sem escala de 4 pontos (código 4038)",
+   "Matérias Pré-Requisito": "1 curso de cálculo + 2 de estatística (ou probabilidade/econometria) em nível universitário; conhecimento de álgebra linear (senão, workshop curto obrigatório antes do início); admissão condicional possível",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 (antes de 21 jan 2026) ou 4.5 (nova escala); IELTS 6.5; Duolingo 115 (mínimos de Cal Poly Graduate Admissions, aos quais o MSBA remete); PTE não listado",
+   "Deadline Aplicação": "Prioridade: 1 fev 2027; internacional: 1 abr 2027; doméstico: 1 jun 2027; aplicação abre 1 out 2026",
+   "Rounds Aplicação": "Sem rounds formais: deadline prioritário 1 fev 2027, depois internacional 1 abr e doméstico 1 jun; decisões rolling; aplicação via Cal State Apply; taxa US$70 sem isenção",
+   "Documentos Necessários": "Aplicação no Cal State Apply; statement of purpose; resume; 2 cartas de recomendação (enviadas pelos recomendadores no sistema); transcripts oficiais enviados diretamente pela instituição (aplicação só é revisada após recebê-los); GMAT/GRE opcional; teste de inglês (internacionais)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://orfalea.calpoly.edu/graduate-programs/ms-business-analytics",
+   "https://orfalea.calpoly.edu/graduate-programs/ms-business-analytics/apply",
+   "https://orfalea.calpoly.edu/graduate-programs/ms-business-analytics/faqs",
+   "https://orfalea.calpoly.edu/graduate-programs/ms-business-analytics/msba-career-paths",
+   "https://www.calpoly.edu/admissions/international-student/selection-criteria/english-exam-requirements"
+  ],
+  "observacoes": "Custos 2026-27 oficiais: tuition & registration US$36,806 (igual residente/internacional); fees = union US$962 + health services US$835 + commencement US$130 + international fee US$900 (residente paga US$1,927 sem a international fee); seguro intl US$1,855; total intl US$41,488. Custo/crédito = 36,806/30 (CSU cobra por semestre; total de créditos 30 não reconfirmado). STEM confirmado pelo FAQ com CIP 30.7102 (não 52.1301). 'Bolsas Disponíveis' corrigido para 'Não' (antes texto livre). Salário mediano US$95,375 confirmado (só 13 respondentes, relatório 2025). Taxa de empregabilidade 88% não reconfirmada. Programa diz que a maioria dos admitidos tem GPA >3.0."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "SF State",
+   "Estado": "CA",
+   "Cidade": "San Francisco"
+  },
+  "updates": {
+   "Duração (meses)": 16,
+   "Início": "Fall (fim de agosto) ou Spring (fim de janeiro)",
+   "Destaques Currículo": "10 cursos / 30 units: Business Intelligence, Data Mining, Database Management, Programming for Business Analysts, Multivariate Methods, Machine Learning, Research Project + 3 eletivas (podem virar Graduate Certificate); practicum obrigatório com cliente real (BUS 895); Python e SQL; aulas à tarde/noite (seg-qui); full-time ou part-time",
+   "Custo/Crédito (Intl) USD": 1366.67,
+   "Custo/Crédito (Residente) USD": 1033.33,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas gerais do Lam Family College of Business e do Office of Student Financial Aid (aplicação própria); nenhuma bolsa específica do MSBA nem valores publicados",
+   "Quão Realista (Intl)": "Baixa -- só bolsas gerais do college/universidade, sem valores publicados; ajuda financeira oficial é centrada em FAFSA (não disponível para internacionais)",
+   "Principais Empregadores": "Exemplos oficiais (programa novo, 1ª turma grande em dez 2020): Cisco Meraki, EY, LexisNexis, Marin County IST, Zabble, Motive Metrics, TDK; sem relatório de empregabilidade publicado",
+   "GMAT/GRE Obrigatório": "Não requerido; fortemente recomendado se GPA <3.0 (GRE médio dos admitidos: 155 Q / 150 V; GMAT código F87HP42, GRE 4684)",
+   "Matérias Pré-Requisito": "Pré-requisitos de fundamentos (ex.: Data Analysis/estatística, contabilidade financeira, microeconomia) que podem ser cumpridos no 1º semestre com nota B- (admissão condicional); programação não exigida, mas recomendada (CS50/MIT online)",
+   "Testes Inglês Aceitos": "TOEFL iBT 88 (antes de jan 2026) ou 4.5 (depois); IELTS 6.5; PTE 59; Duolingo 120 (aceito, mas a escola recomenda fortemente TOEFL/IELTS/PTE e DET só se nenhum outro estiver disponível)",
+   "Deadline Aplicação": "Round 1: 15 jan 2027; Round 2: 15 mar 2027; Round 3: 1 mai 2027 (final Fall); Spring: 1 nov",
+   "Rounds Aplicação": "Fall: 3 rounds (15 jan, 15 mar, 1 mai); Spring: deadline único 1 nov; admissão rolling -- aplicar cedo; via Cal State Apply, taxa US$70",
+   "Documentos Necessários": "Aplicação Cal State Apply; transcripts não-oficiais (oficiais só após aceitar oferta); resume; statement of purpose; pelo menos 1 carta de recomendação (obrigatória para o MSBA); GMAT/GRE opcional; teste de inglês (graduação em país de língua não inglesa)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://cob.sfsu.edu/graduate-programs/business-analytics",
+   "https://cob.sfsu.edu/admissions/grad-criteria",
+   "https://cob.sfsu.edu/admissions/faq",
+   "https://cob.sfsu.edu/admissions",
+   "https://cob.sfsu.edu/graduate-programs/business-analytics/msba-application-checklist"
+  ],
+  "observacoes": "Deadlines Fall corrigidos: agora há 3 rounds (15 jan, 15 mar, 1 mai). Tuition: página dá total estimado US$41,000 não-residente/intl e US$31,000 residente (tuition+fees); por semestre full-time = US$5,481 + US$666/unit (não-residente) ou + US$270/unit (residente). Custo/crédito = total/30 units. Duração: 3-4 semestres full-time (16 meses assumido para 3 semestres). DET aceito (120) mas 'strongly recommends' outros testes. Turma média 15-30 alunos por classe (não é tamanho de coorte). PTE corrigido de 65 para 59. Carta de recomendação: 1 obrigatória para MSBA."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Cal Poly Pomona",
+   "Estado": "CA",
+   "Cidade": "Pomona"
+  },
+  "updates": {
+   "STEM Designated": "Sim",
+   "Formato": "Presencial (aulas noturnas seg-qui e aos sábados, com conteúdo híbrido)",
+   "Início": "Fall (sem entrada de Spring para o MSBA no ciclo 2026-27)",
+   "Destaques Currículo": "34 units, 12 cursos (11 core + culminating experience/capstone); módulos Business, Data, Analytics e Experiential; Python, R, SQL, ML, NLP, Big Data; trilha expedita de 1 ano ou padrão de 2 anos; full-time ou part-time; AACSB",
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Só bolsas gerais via Office of Financial Aid & Scholarships (FAQ: alunos de pós são elegíveis a bolsas e ajuda financeira); nenhuma bolsa própria do MSBA nem valores publicados",
+   "Quão Realista (Intl)": "Baixa -- sem bolsa específica do programa; ajuda oficial centrada em FAFSA/empréstimos federais (indisponíveis para internacionais)",
+   "Taxa Empregabilidade %": "Verificar",
+   "Salário Médio Pós USD": "Verificar",
+   "GMAT/GRE Obrigatório": "Não requerido para admissão",
+   "Matérias Pré-Requisito": "Domínio de álgebra universitária, estatística e programação, com nota C ou superior em cursos relevantes",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 (escala antiga) ou 4.5 (nova escala, a partir de 21 jan 2026); IELTS 6.5; Duolingo 105; CPELI nível 6 (Cal Poly Pomona English Language Institute); PTE não listado",
+   "Deadline Aplicação": "Internacional: 1 mai 2027 (limite da CPP para internacionais em programas com prazo após 1 mai); doméstico: 1 jul 2027 (datas estimadas pelo ciclo Fall 2026); aplicações Fall 2027 abrem 1 ago 2026",
+   "Rounds Aplicação": "Sem rounds; deadline único Fall (Fall 2026: 1 jul, com internacionais até 1 mai); Spring 2027 fechado para o MSBA; aplicação via Cal State Apply, taxa US$70",
+   "Documentos Necessários": "Aplicação Cal State Apply; 2 cartas de recomendação; resume; personal statement/statement of purpose; transcripts; certificados/outros documentos de apoio; comprovante de inglês (internacionais); GMAT/GRE não exigido"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://www.cpp.edu/cba/masters-business-analytics.shtml",
+   "https://www.cpp.edu/programs/cba/gp/masters-business-analytics-msba.shtml",
+   "https://www.cpp.edu/cba/graduate-business-programs/costs/msba-costs.shtml",
+   "https://www.cpp.edu/cba/graduate-business-programs/faqs.shtml",
+   "https://www.cpp.edu/admissions/international/graduate.shtml",
+   "https://www.cpp.edu/admissions/graduate/masters-explore.shtml"
+  ],
+  "observacoes": "Tuition confirmada: US$825/unit para todos (inclusive internacionais), ~US$28,050 no programa; há fees auxiliares obrigatórias da CSU (union, ASI, health center, student success) não somadas na página -> Fees Adicionais 'Verificar'. Taxa de empregabilidade 88% e salário US$95,375 eram cópia dos dados da Cal Poly SLO (outra universidade) -> revertidos para 'Verificar'; a CPP só cita a média nacional GMAC de US$105,000, não dado próprio. Página cita 'Best Business Analytics Master's Program -- U.S. News 2027' sem posição numérica. Deadlines Fall 2027 ainda não publicados; usei os do ciclo Fall 2026 (1 jul geral; internacionais até 1 mai)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Seattle U",
+   "Estado": "WA",
+   "Cidade": "Seattle"
+  },
+  "updates": {
+   "Duração (meses)": 12,
+   "Início": "Fall (agosto; entrada única anual)",
+   "Destaques Currículo": "Migração para semestres a partir de Fall 2027: 30 créditos semestrais (7 obrigatórias + 2 eletivas + capstone): Statistical Applications, Programming, Econometrics & Data Visualization, Machine Learning, Database Systems, Big Data Analytics & AI Tools, Ethics/Law; full-time em 1 ano ou part-time em ~24 meses; dual degree com PMBA/MSF; #19 U.S. News 2026 (Business Analytics)",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 1609.5,
+   "Custo/Crédito (Residente) USD": 1609.5,
+   "Tipos de Bolsa": "Albers Incoming Student Graduate Scholarship (principal; formulário enviado junto com a aplicação; valor até o teto da tuition, não cobre fees; pago em 3 semestres; exige 6+ créditos/semestre); Current Student Scholarships (2º ano, mérito+necessidade, internacionais podem aplicar); Genevieve Albers Graduate Fellowship (só ingressantes: US$15,000 de bolsa + RA de US$7,000 em 3 semestres); Redapt Scholarship (MSBA, até US$15,000) citada anteriormente, não reconfirmada",
+   "Quão Realista (Intl)": "Moderada -- internacionais podem concorrer à Incoming Scholarship (formulário junto com a aplicação) e às bolsas de 2º ano; valores não publicados; a Fellowship é muito concorrida",
+   "Processo TA/RA": "Research assistantship via Genevieve Albers Graduate Fellowship (só ingressantes, aplicação própria); página 'Graduate Assistantships, Internships and Fellowships' do Albers lista outras vagas, sem processo centralizado",
+   "Ranking QS": "Verificar",
+   "Testes Inglês Aceitos": "TOEFL iBT 86; IELTS 6.5; PTE 63; Duolingo 120 (isento com diploma de país anglófono listado ou instrução em inglês por 3+ anos)",
+   "Deadline Aplicação": "Final internacional: 1 mar 2027; doméstico: Early Review 1 fev 2027 (com prioridade de bolsa), final 1 abr 2027",
+   "Rounds Aplicação": "Só Fall. Doméstico: Early Review 1 fev (bolsa) e final 1 abr; internacional: deadline único 1 mar (internacionais já nos EUA podem ter prazo posterior); após o prazo, revisão conforme vagas e fundos; sem taxa de aplicação (isenta para todos)",
+   "Documentos Necessários": "Aplicação online; transcripts oficiais (SU faz a avaliação de diploma estrangeiro); resume; essay obrigatório de 300 palavras (emprego desejado ou problema resolvido com analytics); personal statement opcional; recomendações OPCIONAIS (formulário de 15 min; 0 cartas obrigatórias); formulário de bolsa opcional (enviar com a aplicação); GMAT/GRE opcional (obrigatório para diploma de 3 anos); teste de inglês",
+   "Matérias Pré-Requisito": "Statistics, Calculus e Programming -- cursos online gratuitos e self-paced da própria Seattle U, liberados após o depósito; Programming obrigatório antes do início para todos"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://www.seattleu.edu/academics/all-programs/business-analytics-ms/",
+   "https://www.seattleu.edu/academics/all-programs/business-analytics-ms/admissions-process/",
+   "https://www.seattleu.edu/business/graduate/scholarships/"
+  ],
+  "observacoes": "Seattle U passa de trimestres para semestres a partir de Fall 2027: agora 30 créditos (antes 45 quarter credits); tuition estimada US$48,285 (2026-27, sem fees) -> US$1,609.50/crédito. Duração: página de admissões diz 1 ano full-time (24 meses part-time); a página do programa diz '1.5 to 2.5 years' e o plano de exemplo tem 5 semestres de 6 créditos (ritmo part-time) -- conferir se o visto F-1 permite o ritmo de 1 ano. Deadlines atualizados (antes 20 jan/20 mar): internacional 1 mar 2027; a marca de prioridade de bolsa aparece só no Early Review doméstico de 1 fev. Recomendações agora são opcionais. PTE corrigido para 63. Ranking QS antigo era da universidade inteira, não do programa -> 'Verificar'. Formato: existe também versão online separada (Online MSBA). Fees, empregadores e custo de vida não reconfirmados."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Baylor",
+   "Estado": "TX",
+   "Cidade": "Waco"
+  },
+  "updates": {
+   "Destaques Currículo": "36 horas (27 core + eletivas, ex.: bioestatística); cross-disciplinar entre Information Systems (Hankamer) e Statistical Science; data mining, visualização, modelagem multivariada, preditiva/forecasting, programação profissional em Python, ética em big data; 1 ano (ou MBA/MSBA em 2 anos); campus de Waco",
+   "Total Créditos": 36,
+   "Custo/Crédito (Intl) USD": 2432.11,
+   "Custo/Crédito (Residente) USD": 2432.11,
+   "Tuition Total (Intl) USD": 87556,
+   "Tuition Total (Residente) USD": 87556,
+   "Fees Adicionais USD": 330,
+   "Tipos de Bolsa": "Tuition Scholarship de 65% FIXA para TODOS os admitidos no MSBA presencial (automática, crédito na conta após matrícula; igual para internacionais); student employment/graduate assistantship elegível após admissão; grants/loans/work-study via Student Financial Services; bolsas externas via Scholarship Universe",
+   "Quão Realista (Intl)": "Muito Alta -- os 65% de bolsa são automáticos para todo admitido, incluindo internacionais; valores extras (emprego estudantil) dependem de vaga",
+   "TA/RA Disponível": "Sim (student employment/graduate assistantship após admissão, sem garantia)",
+   "Processo TA/RA": "Após admissão, o aluno fica elegível a emprego estudantil na Baylor (candidatura pelo sistema de student employment); sem valores publicados para o MSBA",
+   "Graduate Assistantships": "Student employment após admissão (sem detalhes de stipend/remissão publicados)",
+   "Matérias Pré-Requisito": "Mínimo 3 horas de Estatística ou QBA + 'working knowledge' de Python (curso, experiência de trabalho ou curso livre)",
+   "Testes Inglês Aceitos": "Duolingo 125; TOEFL 4.0 (nova escala, mestrado); IELTS 7.0 (programas de Business); PTE não listado pela Graduate School; isento com diploma dos EUA ou de instituição de língua inglesa; validade 2 anos",
+   "Deadline Aplicação": "Early Decision + prioridade de bolsa: 15 fev 2027 (internacional e EUA); General Admission: 15 abr 2027; final internacional: 15 abr 2027; final EUA: 15 jun 2027",
+   "Rounds Aplicação": "Fall: Round 1 (Early Decision/Scholarship Priority) 15 fev -> decisão 15 mar; Round 2 (General Admission/Scholarship) 15 abr -> decisão 15 mai; final 15 abr (intl) / 15 jun (EUA) -> decisão 15 jul; sem taxa de aplicação",
+   "Documentos Necessários": "Resume; essay (por que business analytics e por que Baylor); 1 carta de recomendação (pode indicar até 3 referências); transcripts não-oficiais (oficiais após admissão; só da instituição que conferiu o diploma); GMAT/GRE opcional; Duolingo/TOEFL/IELTS (internacionais)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 125,
+  "fontes": [
+   "https://hankamer.baylor.edu/msba",
+   "https://hankamer.baylor.edu/msba/programs",
+   "https://hankamer.baylor.edu/msba/admissions",
+   "https://hankamer.baylor.edu/msba/admissions/deadlines",
+   "https://hankamer.baylor.edu/msba/admissions/tuition-financial-awards",
+   "https://onestop.web.baylor.edu/cost-payment/tuition-other-fees/tuition",
+   "https://graduate.baylor.edu/admissions/international-applicants/english-proficiency-examination"
+  ],
+  "observacoes": "Tuition bruta ESTIMADA com as tabelas 2026-27 da One Stop: MBA/MSBA flat de US$33,878 por semestre (Fall e Spring, 12+ horas) + verão a US$1,650/hora; supondo 12+12+12 horas = US$87,556 (antes US$98,087, baseado em taxa antiga por crédito). Com a bolsa automática de 65%, custo líquido ~US$30,645. Fees = program fee de US$110/termo x 3 (sem contar course/lab fees de US$50/termo e matriculation fee). Programa tem 36 horas (antes 37). Deadlines Fall 2027 conforme a página (datas sem ano, assumidas 2027). DET 125 aceito pela Graduate School; IELTS de Business é 7.0; TOEFL mínimo 4.0 na nova escala. Empregabilidade/salário não publicados na página do MSBA."
+ }
+]

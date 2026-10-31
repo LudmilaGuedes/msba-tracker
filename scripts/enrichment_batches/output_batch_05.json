@@ -1,0 +1,225 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "Johns Hopkins",
+   "Estado": "DC",
+   "Cidade": "Washington"
+  },
+  "updates": {
+   "Nome Oficial do Programa": "MS in Business Analytics and Artificial Intelligence (full-time)",
+   "Destaques Currículo": "36 créditos (cursos de 2 créditos) em 3 semestres (fall, spring, summer); foco em AI/ML: Practical Machine Learning, AI-Driven Sequential Decision Making, Python for Data Analysis; Analytics Consulting Project (capstone); 7 eletivas (mín. 4 quantitativas); campus de Washington D.C.",
+   "Custo/Crédito (Intl) USD": 2625,
+   "Custo/Crédito (Residente) USD": 2625,
+   "Tuition Total (Intl) USD": 94500,
+   "Tuition Total (Residente) USD": 94500,
+   "Tipos de Bolsa": "Bolsas merit-based (todos os candidatos são considerados automaticamente, sem aplicação separada); bolsas privadas; employer tuition assistance; valores não publicados",
+   "Quão Realista (Intl)": "Moderada — internacionais são considerados automaticamente para bolsas de mérito, mas valores típicos não são divulgados; sem TA/RA para o MS",
+   "Principais Empregadores": "Amazon, AT&T, Deloitte, EY, Exelon, Geico, Johns Hopkins University, Johnson & Johnson, JPMorgan Chase, L'Oréal, Morgan Stanley, PwC, P&G, Wells Fargo, U.S. Department of Defense (lista de empregadores dos MS da Carey, não específica do programa)",
+   "GMAT/GRE Obrigatório": "Opcional (GMAT ou GRE não exigido)",
+   "Testes Inglês Aceitos": "TOEFL iBT / IELTS / PTE / Duolingo (DET) aceitos (página oficial do programa); mínimos citados anteriormente: TOEFL 100 / IELTS 7.0 / PTE 70 / DET 130 (não reconfirmados na página atual); exigido para não-cidadãos dos EUA cuja graduação não foi em inglês",
+   "Deadline Aplicação": "Round 1: 8 out 2025; Round 2: 14 jan 2026; Round 3: 11 mar 2026; Round 4: 20 mai 2026 (datas do ciclo Fall 2026; Fall 2027 ainda não publicado — internacionais devem aplicar até o Round 2)",
+   "Rounds Aplicação": "4 rounds (Fall 2026): decisões 3 dez / 25 fev / 22 abr / rolling; internacionais recomendados a aplicar até o Round 2 (visto); isenção de taxa só caso a caso, com aplicação completa",
+   "Documentos Necessários": "Aplicação online (plataforma JHU); resume (1 página); 2 essays; 1 carta de recomendação profissional; transcripts oficiais; TOEFL/IELTS/PTE/DET (não-cidadãos com graduação não em inglês); entrevista gravada; GMAT/GRE opcional; taxa US$100",
+   "Entrevista": "Sim — entrevista gravada (recorded interview) faz parte da aplicação"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://carey.jhu.edu/programs/master-science/business-analytics-artificial-intelligence/full-time",
+   "https://carey.jhu.edu/admissions/deadlines",
+   "https://carey.jhu.edu/admissions/tuition-fees",
+   "https://e-catalogue.jhu.edu/business/degrees-certificates/business-analytics-artificial-intelligence-master-science/",
+   "https://carey.jhu.edu/partnerships/employment-statistics/master-science-business-analytics-and-risk-management"
+  ],
+  "observacoes": "Site da Carey bloqueia curl (Cloudflare); lido via Wayback Machine (snapshot 2025/26). Tuition 2026-27: US$94,500 (programa de 12 meses; valores de Fall 2027 podem mudar). DET aceito conforme página do programa; nota mínima 130 não reconfirmada. Perfil Fall 2024 do antecessor (MS BARM): GPA 3.54, GMAT 718 (Focus), <1 ano de experiência — não aplicado por ser outro programa. Não há employment report público específico do MS BAAI."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Georgetown",
+   "Estado": "DC",
+   "Cidade": "Washington"
+  },
+  "updates": {
+   "Destaques Currículo": "30 créditos em 10 meses (~18 cursos): Data Analytics Tools 7.5cr, Computing & Technology 4.5cr (R, Python, SQL, Spark, AWS), Business Functions 7.5cr, Data-Empowered Managers 7.5cr (visualização, Data Ethics & Responsible AI), Capstone 3cr com empresa patrocinadora; NLP/LLMs; localização em Washington D.C.",
+   "Custo/Crédito (Intl) USD": 2379,
+   "Custo/Crédito (Residente) USD": 2379,
+   "Tuition Total (Intl) USD": 71370,
+   "Tuition Total (Residente) USD": 71370,
+   "Tipos de Bolsa": "Merit (consideração automática, sem aplicação separada; aluno recebe só um tipo): MSBA Distinguished Faculty Scholars (bolsa + mentoria), Innovation in Analytics and AI, Analytics for Social Impact, Global Citizen, Community in Diversity; até 10% para ex-alunos de graduação Georgetown (2023-2026) ou funcionários federais; valores não publicados",
+   "Quão Realista (Intl)": "Moderada — internacionais são considerados automaticamente para bolsas de mérito (Global Citizen é voltada a perfil internacional); valores não divulgados; aplicar cedo aumenta a chance de bolsa",
+   "TA/RA Disponível": "Verificar",
+   "Graduate Assistantships": "Verificar",
+   "Salário Médio Pós USD": "Verificar",
+   "GMAT/GRE Obrigatório": "Opcional (GMAT/GRE não exigido; pode fortalecer a aplicação)",
+   "Deadline Aplicação": "Early Application: rolling até 9 out 2026; Round 1: 6 nov 2026; Round 2: 22 jan 2027; Round 3: 12 mar 2027; Round 4: 14 mai 2027; Round 5: rolling até 25 jun 2027 (Rounds 1-3 recomendados para não-cidadãos dos EUA)",
+   "Rounds Aplicação": "Early rolling + 5 rounds (Fall 2027); decisões: 11 dez 2026 / 19 mar 2027 / 16 abr 2027 / 4 jun 2027 / rolling; internacionais: aplicar até o Round 3; 2 depósitos de US$1,000 se admitido",
+   "Documentos Necessários": "Application online; resume/CV; personal essay (máx. 500 palavras, 3 opções de tema); video essay (2 perguntas); 1 carta de recomendação (acadêmica ou profissional); histórico acadêmico (não-oficial na candidatura); TOEFL/IELTS (se aplicável); GMAT/GRE opcional; taxa US$175",
+   "Entrevista": "Não listada como componente obrigatório (video essay no lugar)"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://msb.georgetown.edu/msba/admissions-financing/application-process/",
+   "https://msb.georgetown.edu/msba/admissions/",
+   "https://msb.georgetown.edu/msba/master-of-science-in-business-analytics-full-time/",
+   "https://msb.georgetown.edu/msba/courses/",
+   "https://msb.georgetown.edu/msba/career/",
+   "https://msb.georgetown.edu/msba/master-of-science-in-business-analytics-faq/"
+  ],
+  "observacoes": "Tuition corrigida para US$71,370 (programa completo, coorte Fall 2026; Fall 2025 era US$69,960). Salário anterior (~US$123k) era do ONLINE MSBA Class of 2024 (profissionais experientes), não do full-time — marcado Verificar; employment report do full-time só no Issuu. Inglês: só TOEFL 100 (ou 5 na nova escala) / IELTS 7.5 — DET não aceito (confirmado). Sem GPA mínimo oficial."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "GWU",
+   "Estado": "DC",
+   "Cidade": "Washington"
+  },
+  "updates": {
+   "Duração (meses)": 18,
+   "Tamanho Turma": 70,
+   "Destaques Currículo": "30 créditos: 12 core + 9 específicos do programa + 9 eletivas; métodos descritivos/preditivos/prescritivos, machine learning, deep learning, AI deployment; aplicações em marketing, finanças, operações, saúde, esportes; practicum com empresas parceiras (IBM, Deloitte, SAS, Accenture, MITRE); AI Case Competition no último semestre; ~75-80% da turma é internacional",
+   "Custo/Crédito (Intl) USD": 2076,
+   "Custo/Crédito (Residente) USD": 2076,
+   "Tuition Total (Intl) USD": 62280,
+   "Tuition Total (Residente) USD": 62280,
+   "Fees Adicionais USD": 1815,
+   "Tipos de Bolsa": "Merit-based awards (a maioria dos alunos recebe; consideração na admissão, valores não publicados); graduate assistantships (via OGSAF); employer sponsorship; federal aid (só domésticos)",
+   "Quão Realista (Intl)": "Moderada — a página oficial diz que a maioria dos alunos recebe bolsa de mérito e ~75-80% da turma é internacional, mas valores não são divulgados; aplicar cedo é recomendado para quem busca auxílio",
+   "TA/RA Disponível": "Sim (graduate assistantships citadas como opção de financiamento; não garantidas)",
+   "Processo TA/RA": "Vagas via Office of Graduate Student Assistantships and Fellowships (OGSAF); não há processo específico do MSBA publicado",
+   "Graduate Assistantships": "Citadas pelo programa como opção (OGSAF); detalhes de stipend/tuition remission não publicados para o MSBA",
+   "GMAT/GRE Obrigatório": "Não (GMAT/GRE não exigido; pode ser enviado opcionalmente)",
+   "Matérias Pré-Requisito": "Obrigatórios: Estatística; Cálculo I; Cálculo II; Álgebra Linear/Matricial/Finita (substitutos: Equações Diferenciais, Física Matemática, Econometria); programação (Python ou similar) preferida, não exigida; curso online de R exigido antes do início; bootcamp preparatório recomendado",
+   "Testes Inglês Aceitos": "GW School of Business (2026): TOEFL iBT 81 (antigo) ou 4.0 (novo formato, a partir de 21/jan/2026) / IELTS 6.5 (nenhuma banda <5.5) / PTE 59 / Duolingo 115; isenção de cursos EAP com TOEFL 100 (ou 5) / IELTS 7.0 / PTE 68 / DET 125; scores de até 2 anos; dispensado para diploma de instituição dos EUA",
+   "Deadline Aplicação": "Round 1: 15 nov; Round 2: 15 jan; Round 3: 15 mar; Round 4: 1 mai; depois de 1 mai rolling (GW Bulletin 2026-27; datas exatas de Fall 2027 ainda não publicadas na página do programa)",
+   "Taxa Aplicação USD": 80,
+   "Rounds Aplicação": "4 rounds + rolling após 1 mai (GW Bulletin); só entrada em Fall; revisão rolling, aplicação cedo recomendada para internacionais e para quem busca auxílio financeiro; isenção de taxa possível (política de fee waiver da GWSB)",
+   "Documentos Necessários": "Application online; transcripts de todas as instituições; resume; statement of purpose (máx. 500 palavras); 1 carta de recomendação (profissional e/ou acadêmica) segundo a página do programa (o Bulletin genérico diz 2); teste de inglês (internacionais); taxa US$80; GMAT/GRE opcional"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://business.gwu.edu/academics/programs/masters/ms-in-business-analytics",
+   "https://bulletin.gwu.edu/business/decision-science/ms-business-analytics/",
+   "https://business.gwu.edu/admissions/masters-application-guide",
+   "https://studentaccounts.gwu.edu/school-business-FY27"
+  ],
+  "observacoes": "Site da GWSB bloqueia curl; lido via Wayback (snapshot abr/2026). Duração corrigida: 1.5 ano full-time (18 meses), não 12. Tuition FY27: US$2,076/crédito × 30 = US$62,280. Fees = enrollment fee US$1,500 + international fee US$60/semestre ×3 + SGA até US$45/semestre ×3 (estimativa). Deadline: valor anterior '1/nov/2026' não foi encontrado em fonte oficial; o Bulletin lista rounds 15 nov/15 jan/15 mar/1 mai e a página do programa (ciclo Fall 2026) mostrava deadline final 1 mai 2026 (guia geral: 1 jun). Página de Career Outcomes não capturada; salário/empregabilidade seguem Verificar. Tamanho de turma: 60-80 (usado 70)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UIUC",
+   "Estado": "IL",
+   "Cidade": "Champaign"
+  },
+  "updates": {
+   "Duração (meses)": 9,
+   "Tamanho Turma": 110,
+   "Destaques Currículo": "36 créditos; 2 trilhas: Traditional (2 semestres, ~9 meses, sem estágio de verão) ou Foundational (3 semestres, inclui curso de fundamentos e permite estágio de verão); 12cr de core analytics + Business Intelligence (4cr) + business practicum com clientes reais nos 2 semestres (4cr) + até 20cr de eletivas; #8 em Business Analytics no QS",
+   "Fees Adicionais USD": 5694,
+   "Tipos de Bolsa": "Bolsas parciais de mérito/necessidade (número limitado; nunca 50% ou mais da tuition); exige marcar 'Yes' em Financial Aid e assinar o scholarship acknowledgment na aplicação",
+   "Quão Realista (Intl)": "Baixa — internacionais podem concorrer, mas as bolsas são limitadas e sempre parciais (<50%); o programa não oferece TA/RA/GA que cubra tuition",
+   "TA/RA Disponível": "Não (o programa declara que não oferece TA/RA/GA com isenção de tuition)",
+   "Processo TA/RA": "N/A — o MSBA não oferece teaching/research/graduate assistant positions que cubram tuition e fees",
+   "Caminho Tuition Residente": "Não (F-1)",
+   "Graduate Assistantships": "Não oferecidas pelo programa (confirmado na página oficial)",
+   "Ranking QS": 8,
+   "GMAT/GRE Obrigatório": "Opcional (submissão de GMAT/GRE é opcional; comitê pode solicitar scores oficiais; GRE/GMAT forte pode compensar GPA <3.0)",
+   "GPA Mínimo": "Verificar",
+   "Testes Inglês Aceitos": "Full-Status: TOEFL 103 (antes de 21/jan/26) ou 5.0 (novo formato) / IELTS 7.5 / Duolingo 135; Limited-Status (admissão plena, mas com English Placement Test na chegada): TOEFL 79 ou 4.0 / IELTS 6.5 / Duolingo 115; scores posteriores a 1/ago/2025; PTE não listado",
+   "Deadline Aplicação": "Round 1: 28 out 2026; Round 2: 13 jan 2027; Round 3: 31 mar 2027; Round 4: 5 mai 2027 (final internacionais); Round 5: 9 jun 2027 (final domésticos, rolling)",
+   "Rounds Aplicação": "5 rounds (Fall 2027); decisões: 18 dez 2026 / 26 fev 2027 / 23 abr 2027 / 21 mai 2027 / rolling; internacionais que precisam de visto: até o Round 4; depósito de US$1,000 se admitido",
+   "Documentos Necessários": "Graduate College application (escolher trilha Traditional ou Foundational — definitiva); transcripts não-oficiais com legenda; diploma; coursework form (habilidades quantitativas, não eliminatório); resume (máx. 2 páginas); academic statement of purpose (máx. 500 palavras); 2 personal statements curtos (250 palavras cada); video essay (3 perguntas, 3 min); 2 cartas de referência (acadêmicas e/ou profissionais); essay opcional (recomendado para GPA ≤3.0); GMAT/GRE opcional; teste de inglês; taxa US$90"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://giesbusiness.illinois.edu/academics/graduate/business-analytics/admissions",
+   "https://giesbusiness.illinois.edu/academics/graduate/business-analytics/tuition-fees",
+   "https://giesbusiness.illinois.edu/academics/graduate/business-analytics/curriculum",
+   "https://giesbusiness.illinois.edu/academics/graduate/business-analytics/msba-career-outcomes",
+   "https://giesbusiness.illinois.edu/academics/graduate/business-analytics/common-questions",
+   "https://giesbusiness.illinois.edu/academics/graduate/business-analytics"
+  ],
+  "observacoes": "Tuition 2026-27 (trilha Traditional, intl) confirmada: US$52,212 + campus fees US$5,694; trilha Foundational (3 semestres) intl: US$66,148 + US$8,541. GMAT/GRE agora é opcional para todos (antes: dispensas condicionais). DET: 115 = limited status (admissão plena + teste de placement), 135 = full status. Empregabilidade 89.8% = internacionais (2025 Illini Success Report); domésticos 77.8%. Turma total ~100-120 (usado 110). Sem GPA mínimo formal."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Miami U Ohio",
+   "Estado": "OH",
+   "Cidade": "Oxford"
+  },
+  "updates": {
+   "Duração (meses)": 9,
+   "Destaques Currículo": "30 créditos em 9 meses (1 ano acadêmico, fall-spring), full-time presencial em Oxford; data management, machine learning, predictive analytics, Big Data Analytics and Modern AI (ISA 632); projetos experienciais com dados reais de empresas; aceita graduação de qualquer área",
+   "Seguro Saúde (programa) USD": 2226,
+   "Bolsas Disponíveis": "Não",
+   "Taxa Empregabilidade %": 100,
+   "Salário Médio Pós USD": 86000,
+   "GMAT/GRE Obrigatório": "Opcional (GRE e GMAT não exigidos)",
+   "Experiência Profissional": "Não obrigatória (pouca ou nenhuma experiência exigida)",
+   "Testes Inglês Aceitos": "Graduate School de Miami: TOEFL iBT 80 / IELTS 6.5 / Duolingo 110 para admissão regular (DET 90-109, TOEFL 65-79 ou IELTS 5.5-6.0 → admissão condicional via ACE-G); PTE aceito (mín. 54 citado anteriormente); English Placement Test obrigatório na chegada",
+   "Deadline Aplicação": "Prioridade: 1 dez; final: 1 mai (revisão rolling; decisão em 2-4 semanas)",
+   "Rounds Aplicação": "Prioridade 1 dez; deadline final 1 mai; revisão contínua (rolling) com decisão em 2-4 semanas; taxa de aplicação dispensada para quem assistir a uma info session antes de aplicar",
+   "Documentos Necessários": "Transcript de graduação; resume/CV; personal statement; 1 carta de recomendação (dispensada para Miami PRIME ou major/minor da Farmer School); GRE/GMAT opcional; teste de inglês (internacionais)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://programs.miamioh.edu/programs/business-analytics-ms/",
+   "https://miamioh.edu/onestop/costs/graduate-students.html",
+   "https://miamioh.edu/graduate-school/admission/english-language-proficiency/index.html"
+  ],
+  "observacoes": "Tuition 2026-27 confirmada: MSBA é programa market-driven com US$995/crédito flat (residente e não-residente); pode haver fee da Farmer School de US$142.76/crédito em cursos de negócios e fees gerais — não confirmado se se aplicam ao MSBA (Fees Adicionais segue Verificar). Duração corrigida para 9 meses. Empregabilidade 100% e salário médio US$86k (inclui signing bonus) são de alunos DOMÉSTICOS (página oficial). Seguro saúde universitário US$2,226/ano (salvo waiver). 'Bolsas Disponíveis' normalizado para 'Não' (sem bolsas/assistantships no programa, conforme dado anterior). Mínimos de inglês são da Graduate School (DET 110 inferido pelo intervalo condicional 90-109)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UW-Madison",
+   "Estado": "WI",
+   "Cidade": "Madison"
+  },
+  "updates": {
+   "Fees Adicionais USD": 1699.48,
+   "Tipos de Bolsa": "Bolsas de mérito do programa: 74% da Class of 2026 recebeu bolsa; oferta média US$9,000 (Classes 2025 e 2026)",
+   "Quão Realista (Intl)": "Alta — 74% dos alunos recebem bolsa (média US$9,000, ~20% da tuition); não há restrição a internacionais divulgada",
+   "TA/RA Disponível": "Sim (stipend + seguro saúde conforme % da nomeação, SEM tuition remission)",
+   "Graduate Assistantships": "Disponíveis, mas não elegíveis para tuition remission; stipend e seguro saúde proporcionais à nomeação",
+   "Principais Empregadores": "John Deere, Amazon, Zynga, Walt Disney Company, FedEx, Capital One, EY, Goldman Sachs, McKinsey & Company, Lenovo, Whole Foods Market, Nielsen",
+   "GMAT Médio": "Verificar",
+   "Documentos Necessários": "3 essays escritos (máx. 600 palavras cada) + 1 opcional; 3 video essays (1 de 2-3 min enviado na aplicação + 2 em até 72h); resume; transcripts (não-oficiais na aplicação); GMAT/GRE ou dispensa aprovada; teste de inglês (internacionais); cartas de recomendação opcionais (não exigidas); taxa US$75 (+US$6 intl)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 125,
+  "fontes": [
+   "https://business.wisc.edu/graduate/masters/business-analytics/tuition/",
+   "https://business.wisc.edu/graduate/masters/business-analytics/admissions/",
+   "https://business.wisc.edu/graduate/masters/business-analytics/careers/"
+  ],
+  "observacoes": "Dados principais (tuition US$1,500/crédito × 30 = US$45,000 flat, deadlines Summer 2027, inglês TOEFL 92/5.0, IELTS 7.0, DET 125) confirmados na página oficial. Segregated fees atualizados para US$1,699.48. ATENÇÃO: programa começa no VERÃO (julho) — para quem se forma no fim de 2027 o ciclo relevante é o de início em Summer 2028. 'GMAT Médio' tinha texto (só GRE divulgado: Verbal 154, Quant 165) — trocado por Verificar para respeitar schema numérico. Cartas de recomendação são opcionais. Custo de vida oficial: room & board US$16,956, misc US$6,500, livros US$700. Salário US$75,629 e 89% de empregabilidade (Class of 2025) confirmados."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Iowa",
+   "Estado": "IA",
+   "Cidade": "Iowa City"
+  },
+  "updates": {
+   "Duração (meses)": 9,
+   "Destaques Currículo": "33 créditos em 2 semestres (fall-spring), presencial em Iowa City; 24cr de core (Python, Data Management/SQL, Advanced Analytics, Applied Deep Learning, Generative AI, Analytics Experience — projeto de um semestre com empresa real) + 9cr de trilha: AI & Machine Learning, AI & Technology Management ou Finance Analytics; case competition",
+   "Quão Realista (Intl)": "Baixa — pacotes de mérito limitados e parciais (nunca tuition integral), com preferência para 12+ meses de experiência, GPA ≥3.50 e GMAT ≥600; exige aplicar até a prioridade de 15 dez; o programa pede que todos estejam preparados para autofinanciar",
+   "GPA Mínimo": 3,
+   "GMAT/GRE Obrigatório": "Opcional (GMAT/GRE não exigido; GMAT ≥600 favorece bolsa)",
+   "Rounds Aplicação": "Prioridade 15 dez (bolsas de mérito) + deadline final 15 mar (internacionais) / 15 jun (domésticos); decisões rolling; turmas costumam lotar antes do prazo final; taxa US$100 (intl) / US$60 (doméstico)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://tippie.uiowa.edu/masters-business-analytics/full-time",
+   "https://tippie.uiowa.edu/masters-business-analytics/full-time/admissions",
+   "https://tippie.uiowa.edu/masters-business-analytics/full-time/tuition-aid",
+   "https://tippie.uiowa.edu/masters-business-analytics/full-time/careers",
+   "https://catalog.registrar.uiowa.edu/tippie-business/business-analytics/business-analytics-ms/"
+  ],
+  "observacoes": "Tuition (2 semestres) confirmada: US$40,401 não-residente / US$28,069 residente. Duração corrigida para 9 meses (programa de 2 semestres). Inglês confirmado: TOEFL 100 (ou 5.0) / IELTS 7.0 (sub-scores ≥6.0) / DET 120; quem entra com DET ou PTE faz o English Proficiency Evaluation na chegada. Empregabilidade 78% e salário médio US$71,273 (grads 2023-24) confirmados; salário máximo US$107,000. Página 'application process' retornou 404 — documentos seguem Verificar."
+ }
+]

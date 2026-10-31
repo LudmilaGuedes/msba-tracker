@@ -1,0 +1,359 @@
+[
+  {
+    "match": {
+      "Nome da Universidade": "U of South Carolina",
+      "Estado": "SC",
+      "Cidade": "Columbia"
+    },
+    "updates": {
+      "Duração (meses)": 9,
+      "Destaques Currículo": "30 créditos: 5 disciplinas core, 4 eletivas (especialização em marketing, operações/supply chain, finanças, contabilidade ou negócios internacionais) e 1 practicum ou estágio data-intensive aprovado; capstone, consultoria e case competitions; departamento de Management Science venceu o 2024 INFORMS UPS Smith Prize",
+      "Fees Adicionais USD": 1192,
+      "Tipos de Bolsa": "Fellowships individuais de mérito (valores variáveis, consideração automática de todos os admitidos) + graduate assistantships no Moore School Data Lab",
+      "Quão Realista (Intl)": "Moderada -- todos os admitidos (inclusive internacionais) são considerados automaticamente para fellowships e GA do Data Lab, mas os valores não são publicados e não há tarifa in-state a ganhar (tuition já é única)",
+      "TA/RA Disponível": "Sim (GA no Moore School Data Lab)",
+      "Processo TA/RA": "Sem aplicação separada: consideração automática na admissão para awards de mérito (fellowships e GA do Data Lab); detalhes com o programa",
+      "Principais Empregadores": "NTT Data Services, Microsoft, EY, Harsco Rail, Stanley Black and Decker, TTI, Global Lending Services, G2O Technologies, Resurgent Capital Services, Epic, Makse, DXC Technology (página Career Impact do MSBA)",
+      "GMAT/GRE Obrigatório": "Waiver disponível -- GMAT ou GRE (até 5 anos) exigido, mas pode ser dispensado com essay suplementar (200-500 palavras) mostrando formação quantitativa forte e/ou experiência relevante; GRE esperado ≥305 (avaliação holística); pode haver admissão condicional com teste em até 2 meses",
+      "Matérias Pré-Requisito": "Pelo menos 1 semestre de cálculo ou formação quantitativa equivalente; preferência para STEM ou minor em business",
+      "Testes Inglês Aceitos": "TOEFL iBT mín. 5 (nova escala) / IELTS mín. 7.5 / TOEIC / PTE Academic (página do MSBA, que não cita Duolingo); a Graduate School aceita em geral Duolingo mín. 120 e PTE mín. 53; dispensa para diploma de programa ministrado em inglês (carta da instituição)",
+      "Deadline Aplicação": "Round 1: 1 dez 2026 (Priority, melhor consideração); Round 2: 1 mar 2027 (Normal Decision); Round 3: 15 mai 2027 (Late Decision, depois rolling até lotar) -- datas do ciclo Fall 2026, Fall 2027 a confirmar",
+      "Rounds Aplicação": "3 prazos (Priority, Normal, Late) + rolling; só intake de Fall; Moore não concede isenção de taxa de aplicação (salvo patrocinadores específicos)",
+      "Documentos Necessários": "Aplicação online da Moore School; transcripts (não oficiais na aplicação, oficiais até o fim do 1º semestre); 2 cartas de recomendação (recomendado 1 acadêmica + 1 profissional); resume/CV; statement of purpose (500 palavras); GMAT/GRE ou essay de waiver; TOEFL/IELTS/PTE",
+      "Entrevista": "Pode ser solicitada a critério do comitê"
+    },
+    "det_aceito": "nao_confirmado",
+    "det_nota_minima": 120,
+    "fontes": [
+      "https://sc.edu/study/colleges_schools/moore/study/management_science/degree_programs/masters_business_analytics/admission_requirements/index.php",
+      "https://sc.edu/study/colleges_schools/moore/study/management_science/degree_programs/masters_business_analytics/admission_requirements/msba_faqs.php",
+      "https://sc.edu/study/colleges_schools/moore/study/management_science/degree_programs/masters_business_analytics/tuition_fees.php",
+      "https://sc.edu/study/colleges_schools/moore/study/management_science/degree_programs/masters_business_analytics/career_impact.php",
+      "https://sc.edu/study/colleges_schools/graduate_school/apply/international_applicants/index.php"
+    ],
+    "observacoes": "Tuition confirmada (US$1,100/crédito x 30 = US$33,000, mesma para residente e não residente). Fees recalculados para 2 semestres (matrícula US$80 + taxa internacional única US$112 + por semestre: health US$100, tecnologia US$200, internacional US$200). Programa dura 2 semestres em média (pode estender ao verão), então 9 meses. DET: página do MSBA lista TOEFL/IELTS/TOEIC/PTE sem Duolingo e com mínimos acima do padrão; a Graduate School aceita DET 120 em geral -> nao_confirmado (confirmar com gradinfo@moore.sc.edu). Taxa de aplicação US$108 mantida sem confirmação (a Graduate School cobra US$50 desde 1 ago 2026, mas a aplicação é da Moore School). Empregabilidade 85% e salário US$83,000 confirmados (página Career Impact, sem ano)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "UConn",
+      "Estado": "CT",
+      "Cidade": "Hartford/Stamford"
+    },
+    "updates": {
+      "Duração (meses)": 16,
+      "Início": "Fall (aulas começam 30 ago 2027); Spring (só Hartford); Summer (não admite quem precisa de visto F-1)",
+      "Destaques Currículo": "37 créditos (9 core + 4 eletivas): AI, analytics e project management (Agile, PM); eletivas em deep learning, generative AI, AI governance, cloud big data, supply chain analytics, field study internship; concentrações (ex.: AI); presencial em Hartford ou Stamford, com parte das aulas híbridas",
+      "Bolsas Disponíveis": "Sim",
+      "Tipos de Bolsa": "Merit scholarships limitadas e únicas para ingressantes (consideração automática na aplicação, por ordem de chegada, valores não publicados); bolsas de mérito para alunos atuais (experiências acadêmicas/globais)",
+      "Quão Realista (Intl)": "Baixa -- bolsas de mérito limitadas, sem valores publicados e distribuídas por ordem de chegada; programa não elegível a tuition waiver de GA",
+      "Processo TA/RA": "N/A -- programa marcado como não elegível a GA waiver",
+      "Principais Empregadores": "Accenture, Amazon, Amtrak, Boehringer Ingelheim, Capgemini, Capital One, Cigna, Collins Aerospace, CVS Health, Hartford Healthcare, Nassau Financial Group, Optum, State Street, TD Bank, The Hartford, Walmart (página Careers do MSBAPM)",
+      "GPA Mínimo": 3,
+      "GMAT/GRE Obrigatório": "Opcional (sem nota mínima)",
+      "Matérias Pré-Requisito": "1 semestre de cálculo ou estatística em nível universitário com nota C ou melhor; bacharelado de 4 anos",
+      "Testes Inglês Aceitos": "TOEFL iBT mín. 79 (escala antiga) ou 4.5 (nova escala) / IELTS mín. 6.5 / PTE mín. 60 / Duolingo mín. 110; válidos por 2 anos; dispensa com documento oficial de graduação em currículo em inglês",
+      "Deadline Aplicação": "28 jul 2027 (prazo único do Fall 2027; início 30 ago 2027); Spring 2027 (só Hartford): 16 dez 2026; Summer 2027: 1 mai 2027 (não serve para visto)",
+      "Rounds Aplicação": "Sem rounds: um prazo por semestre; decisão em 4-6 semanas; bolsas por ordem de chegada (aplicar cedo); visto F-1 só para Fall/Spring e leva ~3 meses após a admissão; taxa de US$75 dispensada ao assistir a uma info session ao vivo",
+      "Documentos Necessários": "Aplicação online; transcripts não oficiais (oficiais após admissão); personal essay; resume; teste de inglês (internacionais); GMAT/GRE opcional; nenhuma carta de recomendação exigida; avaliação de credenciais por terceiros opcional",
+      "Entrevista": "Não (não faz parte do processo publicado)",
+      "GPA Médio Admitidos": 3.48,
+      "GMAT Médio": 632
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 110,
+    "fontes": [
+      "https://analytics.business.uconn.edu/apply/",
+      "https://analytics.business.uconn.edu/faq/",
+      "https://analytics.business.uconn.edu/ms-in-business-analytics-and-project-management-msbapm",
+      "https://analytics.business.uconn.edu/careers/",
+      "https://grad.uconn.edu/admissions/requirements/"
+    ],
+    "observacoes": "Tuition 2026-27 confirmada (US$1,250/crédito x 37 = US$46,250, igual para residentes, não residentes e internacionais). Fall 2027 agora publicado oficialmente: prazo 28 jul 2027. Duração: 3 semestres full-time (Fall/Spring), ~16 meses. GPA Mínimo convertido para número (3.0; UConn considera o maior entre GPA cumulativo e dos últimos 2 anos). Não exige cartas de recomendação. Sem taxa de empregabilidade/salário publicados. Programa também existe 100% online; a linha refere-se ao presencial (Hartford/Stamford). Perfil Fall 2025: GPA médio 3.48, idade média 25, 3.4 anos de experiência média, 49% mulheres. GMAT médio 632, GRE médio 314, TOEFL médio 98 (Fall 2025)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "CMU",
+      "Estado": "PA",
+      "Cidade": "Pittsburgh"
+    },
+    "updates": {
+      "Tamanho Turma": 120,
+      "Destaques Currículo": "AI-forward, 9 meses só no campus de Pittsburgh (4 minis); machine learning e modelagem preditiva, Python e R em larga escala, comunicação executiva e liderança; experiential learning com empresa real (apresentação a executivos); coach dedicado do Masters Career Center",
+      "Bolsas Disponíveis": "Sim",
+      "Tipos de Bolsa": "Merit scholarships da Tepper (consideração automática de todos os candidatos na admissão, valores não publicados; pedir waiver de teste não afeta a elegibilidade)",
+      "Quão Realista (Intl)": "Moderada -- bolsa de mérito automática sem restrição de cidadania (73% da turma é internacional), mas valores não publicados e custo total alto",
+      "TA/RA Disponível": "Não (nenhuma assistantship divulgada para o MSBA full-time de 9 meses)",
+      "Processo TA/RA": "N/A",
+      "Graduate Assistantships": "Não divulgadas para o MSBA",
+      "Salário Médio Pós USD": 90753,
+      "Principais Empregadores": "Amazon, American Express, Ant Group, BNY, BCG, Capital One, Deloitte, Eli Lilly, EY, Goldman Sachs, Google, JPMorgan Chase, McKinsey, TSMC, TikTok, Uber (contratantes 2023-2025 do MSBA full-time)",
+      "GPA Médio Admitidos": 3.54,
+      "GMAT/GRE Obrigatório": "Waiver disponível -- GMAT/GMAT Focus/GRE exigido, mas há test waiver caso a caso (formulário de elegibilidade antes de aplicar; resposta em até 10 dias úteis após o prazo; não afeta bolsa); GRE middle 80% da turma 2026: 163-170",
+      "Experiência Profissional": "Não obrigatória (programa voltado a recém-formados; média de 1,1 ano na turma 2026)",
+      "Matérias Pré-Requisito": "Matemática geral incluindo cálculo e álgebra linear; perfil quantitativo forte (majors mais comuns: business, economia, engenharia, matemática/ciências)",
+      "Testes Inglês Aceitos": "TOEFL iBT recomendado 25 em cada seção (nova escala: 5 geral e 5 por seção) / IELTS recomendado 7.0 geral e 7 em cada banda / Duolingo recomendado 120; sem mínimo formal; dispensa com bacharelado em instituição de instrução exclusivamente em inglês",
+      "Deadline Aplicação": "Round 1: 14 out 2026; Round 2: 13 jan 2027; Round 3: 3 mar 2027 (último round para internacionais); Round 4 Priority: 5 mai 2027; Round 4 Final: 16 jun 2027 (Round 4 só para não internacionais, rolling)",
+      "Rounds Aplicação": "4 rounds; internacionais só podem aplicar até o Round 3 (3 mar 2027); decisões em 10 dez 2026, 11 mar 2027 e 22 abr 2027; Round 4 rolling",
+      "Documentos Necessários": "Aplicação online; resume (1-2 páginas); 1 essay escrito (máx. 500 palavras, escolher 1 de 2 temas) + 1 video essay; 1 carta de recomendação profissional (GMAC Common LOR); transcripts não oficiais e diploma (com tradução); GMAT/GRE oficial (ou waiver); TOEFL/IELTS/Duolingo; taxa de US$125",
+      "Entrevista": "Sim -- obrigatória, por convite (entrevista comportamental com a equipe de admissões)"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 120,
+    "fontes": [
+      "https://www.cmu.edu/tepper/programs/master-business-analytics/admissions/apply",
+      "https://www.cmu.edu/tepper/programs/master-business-analytics/full-time",
+      "https://www.cmu.edu/tepper/programs/master-business-analytics/careers/compensation-highlights",
+      "https://www.cmu.edu/sfs/tuition/graduate/tepper/full-msba.html"
+    ],
+    "observacoes": "Tuition 2026-27 confirmada (US$743/unit; 108 units = US$80,244) e fees (activity US$248 + transporte US$302 + tecnologia US$490 = US$1,040) e seguro US$3,352. Correções: Round 4 Final é 16 jun 2027 (não 6 jun); internacionais só até o Round 3 (3 mar 2027). Salário médio aceito da turma 2025 = US$90,753 (US$94,731 na América do Norte); o valor anterior US$112,625 não aparece na fonte oficial. Taxa de empregabilidade 100% mantida mas NÃO confirmada (a página não publica % empregados). DET: nota 120 é recomendada, não mínimo formal. Turma 2026: 120 alunos, GPA 3.54, 73% internacionais."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "Temple",
+      "Estado": "PA",
+      "Cidade": "Philadelphia"
+    },
+    "updates": {
+      "Destaques Currículo": "30 créditos, full ou part-time, aulas no Center City Campus (Filadélfia); core: Quantitative Methods, Data Care/Feeding/Cleaning em Python, Decision Models, Experiments, Statistical Learning e Data Mining, Visualization, Advanced Business Analytics; eletivas por indústria; projetos de consultoria com empresas reais",
+      "Tipos de Bolsa": "Bolsas de mérito da Fox com fundos limitados (prazo de bolsa 1 mar para o Fall; valores não publicados); 5% de desconto na tuition para ex-alunos de Temple",
+      "Quão Realista (Intl)": "Baixa -- a única bolsa com valor publicado é 5% para alumni de Temple; merit limitado sem valores divulgados (aplicar até o prazo de bolsa de 1 mar)",
+      "GMAT/GRE Obrigatório": "Opcional (test optional; se enviado, GMAT/GRE dos últimos 5 anos)",
+      "Matérias Pré-Requisito": "Estatística e familiaridade com Excel exigidas no background; atenção especial à formação quantitativa; sem curso pré-requisito formal",
+      "Testes Inglês Aceitos": "TOEFL iBT mín. 4.5 (nova escala, a partir de 21 jan 2026) ou 79 (antes) / IELTS mín. 6.5 / PTE Academic mín. 53 / Duolingo mín. 110; válidos por 2 anos; exigido de quem não tem diploma americano (dispensa automática para diploma de país anglófono)",
+      "Deadline Aplicação": "15 dez 2026 (Early admissions); 1 mar 2027 (prazo de bolsa e prazo internacional); 30 jun 2027 (final) -- admissão rolling; aplicação abre 1 ago 2026",
+      "Rounds Aplicação": "Rolling com 3 prazos para o Fall (Early 15 dez, bolsa/internacional 1 mar, final 30 jun); Spring: bolsa/internacional 1 ago, final 1 nov; Summer só part-time",
+      "Documentos Necessários": "Aplicação online (Fox School); statement of goals (500 palavras); resume/CV; transcripts (cópias na aplicação, oficiais após admissão; marksheets e diploma para instituições estrangeiras); 1 carta de recomendação (supervisor preferido, acadêmica aceita); teste de inglês; GMAT/GRE opcional; essay opcional",
+      "Entrevista": "Sim -- virtual, por convite após aplicação completa (caso a caso)"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 110,
+    "fontes": [
+      "https://www.temple.edu/academics/degree-programs/business-analytics-ms-bu-busa-ms/fox-business-analytics-ms-admissions",
+      "https://www.temple.edu/academics/degree-programs/business-analytics-ms-bu-busa-ms",
+      "https://bulletin.temple.edu/graduate/scd/fox/business-analytics-ms/"
+    ],
+    "observacoes": "Tuition US$1,165/crédito (residente e não residente) confirmada na página do programa, que ainda indica ano 2025-26; 2026-27 não publicado na página. Taxa de aplicação US$60 confirmada. Duração não publicada (30 créditos, full ou part-time; até 5 anos). Sem empregabilidade/salário oficiais do programa. Empregadores listados são parceiros do Fox, não colocações do MSBA."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "Drexel",
+      "Estado": "PA",
+      "Cidade": "Philadelphia"
+    },
+    "updates": {
+      "Nome Oficial do Programa": "MS in Applied AI and Business Analytics (antigo MS in Business Analytics)",
+      "Destaques Currículo": "Renomeado e reformulado para o sistema semestral a partir do Fall 2027: 33 créditos semestrais; AI governance e responsible analytics, programming e data wrangling, unstructured data/LLMs/NLP, machine learning e IA, predictive analytics e forecasting, optimization, data management; capstone com empresa parceira; Center for Applied AI and Business Analytics",
+      "Total Créditos": 33,
+      "Custo/Crédito (Intl) USD": "Verificar",
+      "Custo/Crédito (Residente) USD": "Verificar",
+      "Tuition Total (Intl) USD": 56070,
+      "Tuition Total (Residente) USD": 56070,
+      "Fees Adicionais USD": 1140,
+      "Tipos de Bolsa": "Alumni Merit Scholarship (apesar do nome, para todos os candidatos de MBA/MS, domésticos e internacionais; consideração automática, sem aplicação separada; valores não publicados; GMAT/GRE opcional pode aumentar a bolsa); Lifelong Learner Award (30% para ex-alunos Drexel)",
+      "Testes Inglês Aceitos": "TOEFL iBT mín. 4.5 (nova escala) / IELTS mín. 6.5 (mín. 6.5 em Speaking e Listening; IELTS Indicator aceito) / Duolingo preferido 115+ / PTE Academic e PTE Express aceitos; dispensa possível com bacharelado em país anglófono",
+      "Deadline Aplicação": "1 mar 2027 (prioridade de bolsa, internacional e doméstico); 1 mai 2027 (prazo final internacional); 1 ago 2027 (doméstico) -- ciclo Fall 2027, aulas começam 23 ago 2027",
+      "Taxa Aplicação USD": 58,
+      "Rounds Aplicação": "Sem rounds numerados: prioridade de bolsa (1 mar), prazo internacional (1 mai), doméstico (1 ago); só intake de Fall para o programa presencial; internacional sem visto pode adiar até 1 ano; isenção de taxa para alumni/militares e possíveis descontos via lebowgradenroll@drexel.edu",
+      "Documentos Necessários": "Aplicação online (BusinessCAS); transcripts não oficiais (tradução para inglês; avaliação NACES só se pedida); 1 carta de recomendação (profissional ou acadêmica); CV/resume; personal statement (~500 palavras); teste de inglês; GMAT/GRE opcional",
+      "Entrevista": "Não por padrão (pode ser solicitada se necessário)"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 115,
+    "fontes": [
+      "https://www.lebow.drexel.edu/academics/graduate/specialized-masters-programs/applied-ai-business-analytics",
+      "https://catalog.drexel.edu/2027-2028/graduate/business/applied-ai-business-analytics/",
+      "https://www.lebow.drexel.edu/admissions/graduate/application-requirements",
+      "https://www.lebow.drexel.edu/admissions/graduate-admissions/application-requirements/graduate-application-deadlines",
+      "https://www.lebow.drexel.edu/admissions/graduate/tuition-fees-scholarships",
+      "https://drexel.edu/drexelcentral/cost/tuition/graduate/"
+    ],
+    "observacoes": "ALERTA: programa renomeado para MS in Applied AI and Business Analytics (MSBSAI, CIP 30.7102, continua STEM) e Drexel passa ao calendário semestral em 23 ago 2027 (33 créditos semestrais em vez de 45 trimestrais). Tuition: o valor anterior (US$1,357) era a tarifa do MS Economics & Data Science; o MSBA 2026-27 custa US$1,246 por crédito trimestral (45 x US$1,246 = US$56,070, usado como estimativa do total). A tarifa por crédito semestral para 2027-28 ainda não foi publicada -> custo/crédito = Verificar. Fees estimados: US$300 de first-year program fee + US$280 por termo full-time (~3 termos). Duração de 15 meses mantida, mas deve mudar com o sistema semestral. DET: LeBow 'prefere' 115+. Taxa de aplicação US$58 (on-campus, Fall 2026/Spring 2027)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "U of Maryland",
+      "Estado": "MD",
+      "Cidade": "College Park"
+    },
+    "updates": {
+      "Destaques Currículo": "3 semestres, 30 créditos; AI responsável (agentic/generative AI, LLMs, AWS), Python/R/SQL, visualização e dashboards, simulação e otimização, machine learning; experiential learning com dados reais; Analytics Bridge Program opcional antes do início (estatística, R, Python, SQL); não exige experiência prévia em programação",
+      "Fees Adicionais USD": 2769,
+      "Tipos de Bolsa": "Scholarships de mérito (consideração automática na admissão; prioridade para bolsas até 15 jan); Graduate Assistantships da Smith concedidas por mérito na admissão: tuition credit de ~US$4,222.80/semestre (10-12h/semana) ou US$8,445.60/semestre (20h) e GA passa a pagar tarifa in-state; Maryland Advantage (award financeiro) só para diploma americano",
+      "Quão Realista (Intl)": "Moderada -- internacionais são considerados automaticamente para bolsa e GA no prazo de prioridade (15 jan); GA reduz muito o custo (tarifa in-state + crédito), mas é competitiva e os valores das bolsas não são publicados",
+      "TA/RA Disponível": "Sim (GA da Smith por mérito na admissão; também vagas de GA em outros departamentos da UMD via eJobs)",
+      "Processo TA/RA": "Consideração automática na avaliação da admissão (aplicar até 15 jan para prioridade); quem não recebe pode buscar GA em outros departamentos da UMD (UMD eJobs) contatando-os diretamente",
+      "Graduate Assistantships": "GA de 10-12h: crédito de ~US$4,222.80/semestre; GA de 20h: US$8,445.60/semestre; todo GA é classificado como in-state para tuition (taxas da Smith não são dispensadas)",
+      "Taxa Empregabilidade %": 81,
+      "Salário Médio Pós USD": 87000,
+      "Testes Inglês Aceitos": "TOEFL iBT mín. 96 / IELTS Academic mín. 7.0 / PTE Academic mín. 68 (exigência da Graduate School); Duolingo NÃO aceito para pós-graduação; dispensa com diploma de 4 anos de instituição dos EUA ou de país de língua nativa inglesa",
+      "Deadline Aplicação": "Round 1: 15 jan 2027 (prioridade internacional e melhor consideração para bolsa/GA); Round 2: 15 fev 2027 (prioridade doméstica); Round 3: 12 mar 2027 (final internacional); rolling depois de 1 abr para domésticos",
+      "Rounds Aplicação": "Prioridade internacional 15 jan, prioridade doméstica 15 fev, final internacional 12 mar, rolling depois de 1 abr; decisão em até 4 semanas; depósito de US$1,000 em 4 semanas + US$1,000 em 8 semanas após a decisão; só intake de Fall",
+      "Documentos Necessários": "Taxa de US$90; essay sobre qualificações e interesse; resume; 1 carta de recomendação; transcripts oficiais de todas as instituições; GMAT/GRE (salvo waiver); TOEFL/IELTS/PTE; essay opcional se GPA < 3.0 ou houver lacunas",
+      "Caminho Tuition Residente": "Via Graduate Assistantship: todo GA é classificado como in-state para tuition (US$1,631 em vez de US$2,072.50/crédito); sem outra via para F-1"
+    },
+    "det_aceito": "nao",
+    "det_nota_minima": null,
+    "fontes": [
+      "https://www.rhsmith.umd.edu/programs/business-masters/admissions",
+      "https://www.rhsmith.umd.edu/programs/business-masters/academics/business-analytics-ai",
+      "https://networth.rhsmith.umd.edu/welcome-ms-fall/financial-information/tuition-fees-business-masters-programs",
+      "https://networth.rhsmith.umd.edu/welcome-ms-spring/financial-information/graduate-assistantships-business-masters",
+      "https://www.rhsmith.umd.edu/programs/business-masters/faqs-contact"
+    ],
+    "observacoes": "Tuition 2026-27 confirmada (in-state US$1,631/crédito; out-of-state/internacional US$2,072.50 -> 30 créditos = US$48,930 / US$62,175). Fees estimados para 3 semestres: College Park mandatory fee US$738 + taxa internacional US$125 por semestre e SMSA fee US$90 (Fall/Spring) = ~US$2,769 (sem seguro SHIP). Prazos atuais do ciclo Fall 2027 começam em 15 jan 2027 (os rounds de 15 out e 15 nov citados antes não aparecem mais na página oficial). Empregabilidade 81% em 180 dias e salário médio US$87K (Career Services 2025). Admissões só cita TOEFL/IELTS(/PTE) -> DET não aceito."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "Wichita State",
+      "Estado": "KS",
+      "Cidade": "Wichita"
+    },
+    "updates": {
+      "Início": "Fall ou Spring (sem admissão no Summer)",
+      "Destaques Currículo": "30 créditos (8 obrigatórias + 2 eletivas); duas trilhas: Management (liderar iniciativas de analytics) e Data Science (ferramentas e técnicas); BSAN 810 Business Acumen para quem não tem graduação em business; atividades hands-on e práticas da indústria",
+      "Matérias Pré-Requisito": "Estatística básica (cursada antes ou ECON 231 no 1º semestre); graduação em business, engenharia, ciências ou área relacionada",
+      "Testes Inglês Aceitos": "TOEFL iBT mín. 79 / TOEFL PBT 550 / IELTS mín. 6.5 / PTE Academic mín. 58 / Duolingo mín. 115 (mínimos da Graduate School para analytics)",
+      "Deadline Aplicação": "1 mar (Fall, prazo prioritário; depois segue até lotar a turma); Spring: 1 set; sem admissão no Summer; bolsas Barton: 1 fev",
+      "Taxa Aplicação USD": 75,
+      "Rounds Aplicação": "Prazo único por semestre (Fall 1 mar, Spring 1 set); vagas limitadas, a consideração continua até lotar; taxa US$60 doméstico / US$75 internacional",
+      "Documentos Necessários": "Aplicação online da Graduate School; transcripts (cópias legíveis); personal statement (máx. 500 palavras); resume profissional; teste de inglês; comprovação de recursos financeiros (F-1); GRE/GMAT não exigido; nenhuma carta de recomendação listada no catálogo",
+      "Entrevista": "Não listada nos requisitos"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 115,
+    "fontes": [
+      "https://catalog.wichita.edu/graduate/w-frank-barton-business/finance-real-estate-decision-sciences/ms-business-analytics/",
+      "https://catalog.wichita.edu/graduate/financial-information/tuition-fees/",
+      "https://www.wichita.edu/academics/business/msba/admissions.php"
+    ],
+    "observacoes": "Site wichita.edu bloqueia acesso automatizado (Incapsula); dados confirmados no Graduate Catalog 2026-27 e em trechos indexados de wichita.edu. Tuition não reconfirmada: catálogo lista graduate tuition base de US$350.73 (residente) / US$861.38 (não residente) por crédito, e a busca indica US$903.59 não residente no Fall 2026; os valores atuais (US$1,001.92 / US$466.25) parecem incluir fees por crédito e foram mantidos. Taxa de aplicação US$75 (internacional) de trecho indexado de wichita.edu. Sem dados de empregabilidade."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "Dakota State",
+      "Estado": "SD",
+      "Cidade": "Madison"
+    },
+    "updates": {
+      "Duração (meses)": 12,
+      "Destaques Currículo": "30 créditos (18 core + 6 obrigatórios + 6 eletivas) com trilhas (business, healthcare, IS); big data com Hadoop, Spark e Kafka, BI e visualização, AI aplicada; aulas ao vivo ou gravadas; full-time em 1-1,5 ano",
+      "Tipos de Bolsa": "Graduate assistantships (GTA, GRA, GAA) só para full-time presencial: tuition reduzida a 1/3 da tarifa de residente + stipend mensal; número limitado; exige GRE",
+      "Quão Realista (Intl)": "Moderada -- internacionais F-1 são elegíveis a GA (tuition a 1/3 da tarifa de residente + stipend), mas as vagas são limitadas, exigem GRE (~320+ preferido) e a escola avisa que há mais candidatos que vagas",
+      "Processo TA/RA": "Marcar interesse na aplicação (campus Madison) + Assistantship Application e resume no portal; GRE oficial até 15 abr (Fall) / 15 set (Spring); nomeações por mérito (GPA, GRE) após a decisão de admissão, às vezes com entrevista",
+      "Graduate Assistantships": "GTA, GRA e GAA (on-campus): tuition benefit (1/3 da tarifa de residente) + stipend mensal; F-1 precisa de SSN",
+      "Principais Empregadores": "Amazon, eBay, Kroger, Disney, Bancorp, Citibank, Chase, Wells Fargo, Sanford Health, Mayo Clinic, Avera Health (parceiros citados na página do MSAA)",
+      "GMAT/GRE Obrigatório": "Não exigido para admissão; GRE exigido para concorrer a assistantship (preferido ~320+)",
+      "Matérias Pré-Requisito": "Cursos de software/ferramentas de dados (SAS, R, Python, Excel, SQL), princípios de programação e estatística; quem não tiver pode ser admitido com cursos de nivelamento no plano de estudos",
+      "Testes Inglês Aceitos": "TOEFL iBT 76 (antes de 21 jan 2026) ou 4.0 na nova escala (sub-notas ≥4.0) / TOEFL PBT 550 / IELTS 6.0 (sub-notas ≥5.5) / PTE 60 / Duolingo 110 (sub-nota integrada ≥105); válidos por 2 anos",
+      "Deadline Aplicação": "15 abr (Fall, internacional; assistantship também 15 abr); 15 ago (Fall, doméstico); Spring: 1 nov (intl) / 30 nov (doméstico); Summer: 30 abr (só doméstico)",
+      "Rounds Aplicação": "Sem rounds: um prazo por semestre (internacionais só Fall e Spring); prazos podem mudar conforme capacidade; taxa de US$40 não dispensável",
+      "Documentos Necessários": "Aplicação online (taxa US$40); purpose statement (200-300 palavras); transcripts oficiais com grau conferido (internacionais: tradução para inglês); comprovante de inglês; nenhuma carta de recomendação exigida; para GA: Assistantship Application, resume e GRE",
+      "Entrevista": "Não para admissão (pode haver para assistantship)"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 110,
+    "fontes": [
+      "https://dsu.edu/programs/msaa/msaa-timelines-requirements.html",
+      "https://dsu.edu/programs/msaa/",
+      "https://dsu.edu/admissions/graduate/cost-aid/tuition-fees.html",
+      "https://dsu.edu/admissions/international/graduate/index.html",
+      "https://dsu.edu/admissions/graduate/graduate-assistantships.html"
+    ],
+    "observacoes": "Tuition 2026-27 confirmada: US$698.10/crédito não residente e US$393.70 residente (já com fees; 30 créditos = US$20,943 / US$11,811). Duração corrigida para número: full-time 1-1,5 ano (12-18 meses). 92.9% de graduados do MSAA empregados ou em estudo confirmado na página do programa (inclui educação continuada; sem ano). Seguro saúde obrigatório para internacionais (valor não publicado)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "WashU",
+      "Estado": "MO",
+      "Cidade": "St. Louis"
+    },
+    "updates": {
+      "Destaques Currículo": "39 créditos em 3 semestres (18 meses), full-time diurno presencial; 5 concentrações: Accounting, Customer, Fintech, Healthcare e Supply Chain Analytics; SQL, Python, R, Tableau, text mining, big data e cloud; experiential learning obrigatório (Center for Experiential Learning ou Center for Analytics and Business Insights); coach de carreira 1:1",
+      "Tipos de Bolsa": "Merit scholarships (consideração automática de todo admitido, sem aplicação separada, valor informado na admissão); Olin Veterans Association Fellowships e Yellow Ribbon (veteranos americanos)",
+      "Quão Realista (Intl)": "Moderada -- bolsa de mérito automática sem restrição de cidadania, mas critério 'mais competitivo que a admissão' e valores não publicados; tuition muito alta (US$101,799)",
+      "TA/RA Disponível": "Não (nenhuma assistantship divulgada para o MSBA)",
+      "Processo TA/RA": "N/A",
+      "Graduate Assistantships": "Não divulgadas para o MSBA",
+      "GMAT/GRE Obrigatório": "Opcional (não exigido, mas recomendado para a maioria; sem teste, o comitê avalia GPA forte e habilidades quantitativas comprovadas)",
+      "Matérias Pré-Requisito": "Estatística",
+      "Testes Inglês Aceitos": "TOEFL iBT mín. 5.0 (nova escala) ou 90 (escala antiga) / IELTS Academic mín. 6.5 / GATEWAY English 495 / Duolingo mín. 125; exemption pode ser pedida no portal (avaliada pelo Provost)",
+      "Deadline Aplicação": "Round 1: 8 out 2026; Round 2: 7 jan 2027; Round 3: 25 fev 2027; Round 4: 15 abr 2027; rolling depois de 15 abr (Fall 2027)",
+      "Taxa Aplicação USD": 0,
+      "Rounds Aplicação": "4 rounds + rolling (decisões: 12 nov 2026, 18 fev 2027, 1 abr 2027, 13 mai 2027); sem taxa de aplicação; há opção de início adiado em outubro para atrasos de visto",
+      "Documentos Necessários": "Aplicação online (sem taxa); resume de 1 página; personal statement (máx. 500 palavras); career essay (máx. 100 palavras); transcripts não oficiais (original + tradução; WES/ECE não exigido); teste de inglês; GMAT/GRE opcional; essay opcional (250 palavras); nenhuma carta de recomendação exigida"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 125,
+    "fontes": [
+      "https://olin.washu.edu/programs/specialized-masters/ms-in-business-analytics/index.php",
+      "https://olin.washu.edu/programs/specialized-masters/on-campus-smp-apply.php",
+      "https://olin.washu.edu/programs/specialized-masters/ms-in-business-analytics/cost-aid-scholarships.php",
+      "https://olin.washu.edu/_assets/docs/programs/overview/ms-business-analytics.pdf"
+    ],
+    "observacoes": "Tuition 2026-27 confirmada (US$101,799 flat, US$33,933/semestre) e fees (programa US$900 + governo estudantil US$100 + saúde US$350 por semestre x 3 = US$4,050). Correção: os SMPs presenciais da Olin NÃO cobram taxa de aplicação (antes US$100). Deadlines atualizados para o ciclo Fall 2027. Não pede cartas de recomendação. Empregabilidade 79% e salário mediano US$65,000 são da turma de 2022 (único dado oficial encontrado, PDF do programa)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "UC Berkeley",
+      "Estado": "CA",
+      "Cidade": "Berkeley"
+    },
+    "updates": {
+      "Destaques Currículo": "12 meses: bootcamp de Python online em agosto, Fall e Spring presenciais full-time, internship de verão; 29 units (13 de core em otimização, estatística, simulação e risco; 12 de eletivas; 4 de practicum/internship) + exame abrangente; machine learning, Python; Analytics Lab com projetos de empresas; Career Foundations Course",
+      "Total Créditos": 29,
+      "Fees Adicionais USD": 4700,
+      "Seguro Saúde (programa) USD": 8206,
+      "Tipos de Bolsa": "Master of Analytics Excellence Scholarship (mérito, por indicação do corpo docente); Master of Analytics Opportunity Grant (mérito com necessidade financeira/diversidade); KONE Fellowship for Future Analytics Leaders; Faculty's Distinguished Scholar Award (cobre todo o program fee, EXCLUSIVA para residentes da Califórnia com diploma UC/CSU); todos considerados automaticamente, sem aplicação separada",
+      "Taxa Empregabilidade %": 100,
+      "Salário Médio Pós USD": 105000,
+      "Principais Empregadores": "Class of 2026 (estágios/ofertas): Tesla, McKinsey, Amazon, IBM, Zoom, PG&E, KONE, Arize AI, Whatnot, Midland Credit Management (97 empregadores, 104 posições)",
+      "GMAT/GRE Obrigatório": "Sim -- GRE obrigatório (sem nota mínima; testes desde 1 jun 2022), exceto para quem tem diploma UC com GPA ≥3.5; GMAT não aceito",
+      "Matérias Pré-Requisito": "Fortemente recomendado concluir antes de aplicar: 1 curso de estatística ou probabilidade, 1 de álgebra linear e proficiência em uma linguagem de programação",
+      "Deadline Aplicação": "Round 1: 15 dez 2026 (Priority, revisão garantida); Round 2: 6 jan 2027 (Final)",
+      "Rounds Aplicação": "2 prazos (Priority 15 dez 2026 e Final 6 jan 2027, às 20h59 PT); aplicação precisa estar completa (cartas e GRE recebidos) no prazo; isenção de taxa só para alunos/ex-alunos UC Berkeley/UC/CSU residentes da Califórnia ou via pedido à Graduate Division",
+      "Documentos Necessários": "Aplicação online; transcripts (oficiais preferidos) com escala de notas; GPA cumulativo; GRE; TOEFL/IELTS (internacionais); 2 cartas de recomendação; statement of purpose (500-1000 palavras); personal history statement; resume/CV; vídeo ou áudio de 1-2 min sobre preparo para carreira em analytics"
+    },
+    "det_aceito": "nao",
+    "det_nota_minima": null,
+    "fontes": [
+      "https://analytics.berkeley.edu/how-to-apply/",
+      "https://analytics.berkeley.edu/costs-and-financing/",
+      "https://analytics.berkeley.edu/employment-outcomes/",
+      "https://analytics.berkeley.edu/career-growth/"
+    ],
+    "observacoes": "Program fee 2026-27 confirmado (US$38,000 Fall + US$38,000 Spring + US$3,600 Summer = US$79,600, igual para residentes e internacionais). Fees recalculados (campus fee, document fee, IREF, transit, Access to Student Services, International Student Service Fee US$100/semestre, UCGPC) = ~US$4,700; seguro SHIP US$4,103 por semestre x 2 = US$8,206 (antes estava só 1 semestre). Empregabilidade 100% dos que buscavam emprego (turmas 2023 e 2024, em 6 meses); salário mediano US$105,000 e bônus médio US$11,061 (turma 2025). Graduate Division não aceita Duolingo -> nao. Taxa de aplicação US$155 mantida (valor da Graduate Division, não reconfirmado nesta rodada)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "UC Irvine",
+      "Estado": "CA",
+      "Cidade": "Irvine"
+    },
+    "updates": {
+      "Início": "Summer (programa começa no fim de julho; ciclo Summer 2027)",
+      "Destaques Currículo": "11 meses (4 quarters consecutivos), 52 units: 8 core + 5 eletivas; 3 trilhas flexíveis (data, marketing e operations analytics); Capstone de 6 meses (winter e spring) com empresa real (ex.: Coca-Cola, Experian, IBM); estágio part-time possível em winter/spring",
+      "Tipos de Bolsa": "Bolsas de mérito da Merage (consideração automática na admissão, sem aplicação separada; 90% dos ingressantes recebem alguma bolsa; valores variam por ciclo e não são publicados; aplicar cedo aumenta a chance); California Residency Scholarship (só residentes da CA) e Anteater Pathway (só ex-alunos de graduação da UCI)",
+      "Quão Realista (Intl)": "Moderada -- 90% dos ingressantes recebem bolsa e internacionais são considerados automaticamente, mas os valores não são publicados (tendem a ser parciais) e não há empréstimo federal para internacionais",
+      "Taxa Empregabilidade %": 85.9,
+      "Salário Médio Pós USD": 85000,
+      "GPA Mínimo": "Verificar",
+      "GMAT/GRE Obrigatório": "Opcional (fortemente recomendado se GPA < 3.3; scores válidos por 5 anos)",
+      "Experiência Profissional": "Não obrigatória (se a graduação não for quantitativa, recomendam 3+ anos de experiência relacionada)",
+      "Matérias Pré-Requisito": "Sem pré-requisito formal; recomendada formação quantitativa (matemática, computação, economia, estatística, engenharia ou física)",
+      "Testes Inglês Aceitos": "TOEFL iBT mín. 80 / IELTS Academic mín. 7.0 (nenhum módulo abaixo de 6); Duolingo NÃO aceito (UCI Graduate Division só aceita TOEFL ou IELTS); dispensa para diploma de instituição com inglês como única língua de instrução (WHED)",
+      "Deadline Aplicação": "Round 1: 15 out 2026; Round 2: 1 dez 2026; Round 3: 1 fev 2027 (recomendado para internacionais e prioridade de moradia UCI); Round 4: 1 abr 2027 (final internacional); Round 5: 1 jun 2027 (final doméstico) -- início no fim de julho de 2027",
+      "Rounds Aplicação": "5 rounds com revisão rolling (aplicação incompleta passa ao round seguinte); decisão em até 2 meses; waitlist entre rounds; bolsas favorecem quem aplica cedo; isenção da taxa de US$150 ao participar de eventos de recrutamento",
+      "Documentos Necessários": "Resume; 2 essays (1 em vídeo, 1 escrito); transcripts não oficiais de todas as instituições (com tradução); 2 referências (acadêmicas ou profissionais); TOEFL/IELTS oficial (internacionais); GMAT/GRE opcional; taxa de US$150",
+      "Entrevista": "Sim -- só por convite"
+    },
+    "det_aceito": "nao",
+    "det_nota_minima": null,
+    "fontes": [
+      "https://merage.uci.edu/programs/masters/master-science-business-analytics/admissions.html",
+      "https://merage.uci.edu/programs/masters/master-science-business-analytics/faqs.html",
+      "https://merage.uci.edu/programs/masters/master-science-business-analytics/financial-aid.html",
+      "https://merage.uci.edu/programs/masters/master-science-business-analytics/career-impact.html"
+    ],
+    "observacoes": "ALERTA: o programa começa no SUMMER (fim de julho), não no Fall -- para ingresso em 2028 o intake relevante é Summer 2028, com Round 1 em ~15 out 2027. Mínimos de inglês agora publicados (TOEFL 80, IELTS 7.0); DET não aceito. Empregabilidade 85.9% em 6 meses e salário inicial médio US$85K (página de admissões, sem ano). GPA Mínimo era texto ('sem mínimo formal') -> Verificar (campo numérico). Tuition US$76,300 não reconfirmada (a página remete a uma tabela externa de fees); custo de vida oficial para 9 meses fora do campus: room & board US$29,479, transporte US$3,663, pessoal US$3,489, livros US$2,009."
+  }
+]

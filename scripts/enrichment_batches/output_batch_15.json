@@ -1,0 +1,437 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "Worcester Polytechnic Institute (WPI)",
+   "Estado": "MA",
+   "Cidade": "Worcester"
+  },
+  "updates": {
+   "Total Créditos": 33,
+   "Custo/Crédito (Intl) USD": 1775,
+   "Custo/Crédito (Residente) USD": 1775,
+   "Tuition Total (Intl) USD": 58575,
+   "Tuition Total (Residente) USD": 58575,
+   "Fees Adicionais USD": 90,
+   "Seguro Saúde (programa) USD": 2945,
+   "Destaques Currículo": "33 créditos; core (Data Management for Analytics, Business Intelligence, Modeling and Optimizing Processes) + 2 especialidades de 3 cursos (Advanced Methods, AI in Business, Marketing Analytics, Operations Analytics) + capstone com empresa (BUS 596); internacionais podem fazer até 3 créditos extras de estágio; calendário em termos de 7 semanas",
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Merit scholarship da Business School na admissão (sem aplicação separada): US$1,000 a US$4,000 para os MS",
+   "Quão Realista (Intl)": "Moderada -- internacionais são considerados automaticamente, mas o valor é pequeno (US$1,000-4,000, ~2-7% da tuition)",
+   "Caminho Tuition Residente": "N/A (privada -- mesma tuition para internacionais)",
+   "Matérias Pré-Requisito": "Pelo menos 1 curso universitário de estatística com B ou mais; experiência prévia em programação e preparo em finanças/contabilidade",
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Não (GRE/GMAT não exigido)",
+   "Deadline Aplicação": "Internacional: 15 jun 2027 (Fall 2027; rolling); doméstico: 15 jul; Spring: 6 nov (intl) / 15 dez (doméstico)",
+   "Taxa Aplicação USD": 70,
+   "Rounds Aplicação": "Admissão rolling; bolsas concedidas ao longo do ciclo (aplicar cedo); intakes Fall e Spring",
+   "Documentos Necessários": "Aplicação online; transcripts de toda a graduação; resume; statement of purpose; 3 cartas de recomendação; teste de inglês"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://www.wpi.edu/academics/study/business-analytics-ms",
+   "https://www.wpi.edu/admissions/graduate/application-requirements",
+   "https://www.wpi.edu/offices/bursar/tuition",
+   "https://www.wpi.edu/academics/business/graduate"
+  ],
+  "observacoes": "Tuition: bursar 2026-27 lista só a taxa geral da pós (US$1,775/crédito); no Summer 2026 o MSBA foi cobrado à taxa geral (US$1,690), então o antigo preço reduzido de US$1,050/crédito (2022) parece extinto — total = 33 x 1,775, confirmar com a escola. Seguro saúde 2026-27 US$2,945 (aug-aug); fee = Student Organization Fee US$90/ano. Duração full-time não publicada oficialmente (33 créditos em termos de 7 semanas; agregadores citam 12-24 meses). DET 115 confirmado na página do programa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Suffolk University",
+   "Estado": "MA",
+   "Cidade": "Boston"
+  },
+  "updates": {
+   "Início": "Fall ou Spring",
+   "Destaques Currículo": "31 créditos (11 cursos); full-time em até 9 meses ou part-time em 21 meses; Python, Excel, SAP; Data Management and Modeling, Data Warehouse/BI, Predictive Analytics and Machine Learning; concentrações (accounting analytics, FinTech, healthcare, marketing, public & nonprofit); capstone de consultoria com cliente; duplos diplomas (MSBA/MSF, MSBA/MHA)",
+   "Total Créditos": 31,
+   "Custo/Crédito (Intl) USD": 1520,
+   "Custo/Crédito (Residente) USD": 1520,
+   "Tuition Total (Intl) USD": 47120,
+   "Tuition Total (Residente) USD": 47120,
+   "Fees Adicionais USD": 981,
+   "Seguro Saúde (programa) USD": 3745,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Merit scholarship automática na admissão (todos os candidatos considerados; material da Sawyer cita US$27,700/ano para full-time como referência); Sawyer Business School Fellowship Employment (trabalho no campus, aplicar até 1 jul para Fall / 1 nov para Spring); student employment para internacionais",
+   "Quão Realista (Intl)": "Moderada -- consideração automática inclui internacionais, mas o valor individual não é publicado (o US$27,700/ano do material de marketing provavelmente é teto ou média); fellowship employment exige aplicar cedo",
+   "TA/RA Disponível": "Sim (Sawyer Business School Fellowship Employment)",
+   "Processo TA/RA": "Considerado automaticamente para quem envia a aplicação completa até 1 jul (Fall) ou 1 nov (Spring)",
+   "Caminho Tuition Residente": "N/A (privada -- mesma tuition para internacionais)",
+   "Graduate Assistantships": "Fellowship Employment da Sawyer (trabalho remunerado no campus/redução de custo); valores não publicados",
+   "Taxa Empregabilidade %": 96,
+   "Principais Empregadores": "Natixis Investment Managers, Boston Red Sox, Massachusetts General Hospital (exemplos citados na página do programa; sem relatório detalhado do MSBA)",
+   "GMAT/GRE Obrigatório": "Não (recomendado só para quem não tem estatística B+ nos últimos 5 anos, experiência equivalente ou graduação em área quantitativa/negócios)",
+   "Matérias Pré-Requisito": "Estatística universitária com B ou mais nos últimos 5 anos, OU experiência equivalente, OU graduação em ciências naturais, engenharia, matemática, negócios, computação, finanças, marketing ou ciências sociais",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 (sub-notas ≥17) ou 4.5 na nova escala / IELTS 6.5 (sub-notas ≥6.0) / PTE 65 / Duolingo 110 (Literacy 110, Conversation 100, Comprehension 120, Production 85) / Michigan 58; válidos 2 anos",
+   "Deadline Aplicação": "Internacional: 15 jun 2027 (Fall 2027; até 1 jul para Fellowship Employment); doméstico: 15 ago; depois rolling; Spring: 1 dez (intl) / 4 jan (doméstico)",
+   "Taxa Aplicação USD": 50,
+   "Rounds Aplicação": "Rolling após os prazos; prioridade para Fellowship Employment: 1 jul (Fall) e 1 nov (Spring); decisão em ~2 semanas; taxa de US$50 isentável (código promocional da Sawyer / visita ao campus)",
+   "Documentos Necessários": "Aplicação online; resume; transcripts não oficiais (oficiais após admissão); goal statement (essay); 1 referência (formulário online de avaliação, não carta escrita); teste de inglês; GMAT/GRE opcional",
+   "Experiência Profissional": "Não obrigatória"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://suffolk.edu/business/degrees-programs/big-data-business-analytics/graduate/master-of-science-in-business-analytics-msba",
+   "https://www.suffolk.edu/about/directory/bursars-office/tuition-fees/graduate",
+   "https://www.suffolk.edu/about/directory/bursars-office/tuition-fees/health-insurance",
+   "https://suffolk.edu/graduate-admission/apply/application-requirements",
+   "https://www.suffolk.edu/admission/grad/17635.php",
+   "https://go.business.suffolk.edu/"
+  ],
+  "observacoes": "Correções: programa agora tem 31 créditos (não 36) e a tuition 2026-27 da Sawyer para MS é US$1,520/crédito (não 1,874) => 47,120. Fees = activity US$93 + tecnologia US$210 por semestre (x2) + SBS entry fee US$375. Seguro 2026-27 US$3,745. Empregabilidade 96% = obtém posição em até 6 meses (página do MSBA; 99% positive outcomes). Página também cita 'full-time 10-16 meses' em um quadro comparativo — mantida duração de 9 meses (texto principal). Taxa de US$50 tem waiver via código 'RoadToSuffolk' (landing page da Sawyer)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Clark University",
+   "Estado": "MA",
+   "Cidade": "Worcester"
+  },
+  "updates": {
+   "Início": "Fall ou Spring",
+   "Destaques Currículo": "11 units (cursos), incluindo 1 unit de estágio/Experiential Learning (projeto aplicado, ex.: blockchain e criptomoedas + estágio profissional); da análise descritiva à prescritiva; concentrações setoriais; full-time, part-time e acelerado; turma com alunos de 90+ países",
+   "Total Créditos": 11,
+   "Custo/Crédito (Intl) USD": 5695,
+   "Custo/Crédito (Residente) USD": 5695,
+   "Tuition Total (Intl) USD": 62645,
+   "Tuition Total (Residente) USD": 62645,
+   "Fees Adicionais USD": 3185,
+   "Seguro Saúde (programa) USD": 2833,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Merit scholarship automática na admissão (sem aplicação separada; só tuition; valor final, sem revisão); bolsas específicas de 25-50% (alumni Clark, Beta Gamma Sigma 50%, Chambers of Commerce 25%, voluntários de serviço); poucos empregos no campus/assistantships",
+   "Quão Realista (Intl)": "Moderada -- todos os admitidos (inclusive internacionais) são considerados para merit automática, mas o valor não é publicado; as bolsas de 50% exigem vínculos específicos (BGS, alumni)",
+   "TA/RA Disponível": "Limitado (poucos empregos de teaching/research/graduate assistant no campus)",
+   "Processo TA/RA": "Alunos matriculados se candidatam às vagas; prioridade para quem já está no campus",
+   "Caminho Tuition Residente": "N/A (privada -- mesma tuition para internacionais)",
+   "Graduate Assistantships": "Número limitado de vagas part-time no campus; sem valores publicados",
+   "GMAT/GRE Obrigatório": "Não (GRE/GMAT só exigido para o MBA presencial)",
+   "Matérias Pré-Requisito": "Antes do 1º semestre: 1 curso de matemática ou estatística e 1 curso de programação (Python, SQL, Java, C++ etc.) com nota B ou mais; programação pode ser suprida por certificados LinkedIn Learning/Udemy indicados; estatística pode ser feita online na Clark",
+   "Testes Inglês Aceitos": "TOEFL iBT 85 (sub-notas ≥20) ou 4.5 na nova escala / IELTS 6.5 (sub-notas ≥6) / PTE 61 (bandas ≥55) / Duolingo 120 (sub-notas ≥100)",
+   "Deadline Aplicação": "Fall 2027 ainda não publicado (ciclo anterior: prioridade em fev; final internacional ~jun, segundo agregadores); Spring 2027: prioridade 1 out 2026, final internacional 10 nov 2026, doméstico 15 dez 2026",
+   "Taxa Aplicação USD": 75,
+   "Rounds Aplicação": "Prazo de prioridade + prazo final (internacional antes do doméstico); intakes Fall e Spring; taxa de US$75 isentável participando de webinar da admissão",
+   "Documentos Necessários": "Aplicação online; resume (com experiências descritas); personal statement (até 800 palavras); cartas de recomendação (empregadores ou professores; agregadores citam 2); transcripts completos (mark sheets + diploma); teste de inglês",
+   "Experiência Profissional": "Não obrigatória"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://www.clarku.edu/business/academics/graduate-programs/business-analytics/",
+   "https://www.clarku.edu/admission/tuition-and-fees/",
+   "https://www.clarku.edu/graduate-education/admissions/tuition-and-scholarships/",
+   "https://www.clarku.edu/graduate-education/admissions/how-to-apply-graduate-admissions-requirements/",
+   "https://www.clarku.edu/graduate-education/admissions/application-deadlines/"
+  ],
+  "observacoes": "Correção de inglês: requisitos atuais da pós são TOEFL 85 / IELTS 6.5 / PTE 61 / Duolingo 120 (a base tinha 80/6.0/53/115). Tuition 2026-27 MSBA = US$5,695 por unit (curso) x 11 units = US$62,645 ('Total Créditos' = 11 units/cursos, não créditos-hora). Fees estimados para 3 semestres full-time: service fee US$500 + STEM tech fee US$350 + student council US$45 por semestre, + orientação US$125 + international student fee US$375. Seguro anual US$2,833. Duração de 18 meses mantida (não publicada oficialmente). Deadline do Fall 2027 ainda não publicado — data de fev/jun é estimativa pelo ciclo anterior."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Hult International Business School",
+   "Estado": "MA",
+   "Cidade": "Boston"
+  },
+  "updates": {
+   "Início": "Fall (setembro)",
+   "Destaques Currículo": "Programa de 1 ano (MBAN), STEM; cursos intensivos de skills com business challenges integrados; projetos reais na fase final com empresas como EY, BCG, Expedia e NASA; eletivas nos campi globais; acesso ao Coursera (ex.: certificado Microsoft Power BI Data Analyst); opção de Dual Degree (2 mestrados em 18 meses, +US$45,500)",
+   "Tuition Total (Intl) USD": 62300,
+   "Tuition Total (Residente) USD": 62300,
+   "Fees Adicionais USD": 5440,
+   "Aluguel Privativo/mês USD": 1417,
+   "Custo Vida Total (programa) USD": 29000,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Merit scholarships com aplicação e essay de 300 palavras: Academic Excellence, Future Leader, Entrepreneurial Impact, Global Professional (exige 1 ano em empresa global), Social Impact (candidatos de países em desenvolvimento); need-based awards; valores não publicados; desconto no 2º diploma do Dual Degree",
+   "Quão Realista (Intl)": "Moderada -- todas as bolsas são abertas a internacionais (Social Impact mira países em desenvolvimento como o Brasil), mas valores não são publicados e a verba diminui ao longo do ano (aplicar até o priority deadline)",
+   "TA/RA Disponível": "Não (programa de 1 ano sem assistantships)",
+   "Processo TA/RA": "N/A",
+   "Caminho Tuition Residente": "N/A (privada -- mesma tuition para internacionais)",
+   "Graduate Assistantships": "Não oferecidas",
+   "Taxa Empregabilidade %": 76,
+   "Salário Médio Pós USD": 77200,
+   "GMAT/GRE Obrigatório": "Não (GMAT opcional; só como reforço para a Academic Excellence Scholarship)",
+   "Experiência Profissional": "Não obrigatória se a graduação for em área de negócios; graduação em outra área exige 1 ano de experiência relevante",
+   "Matérias Pré-Requisito": "Bacharelado em área de negócios OU qualquer bacharelado + 1 ano de experiência relevante",
+   "Testes Inglês Aceitos": "TOEFL, IELTS, PTE ou Duolingo (DET) aceitos; mínimos não publicados — o enrollment advisor informa se o teste é exigido; inglês também avaliado na entrevista",
+   "Deadline Aplicação": "Prioridade de bolsa: 30 set 2026 (intake Fall 2027); admissão rolling depois disso, com verba de bolsa diminuindo ao longo do ano",
+   "Taxa Aplicação USD": 95,
+   "Rounds Aplicação": "Admissão rolling com decisão (incluindo bolsa) em até 2 semanas; priority scholarship deadline (30 set 2026 para o ciclo atual) — aplicar o mais cedo possível",
+   "Documentos Necessários": "Aplicação online + taxa de US$95; consulta com enrollment advisor; resume/CV; personal statement opcional (400-500 palavras); 1 referência acadêmica ou profissional; diploma e transcripts em inglês; teste de inglês se exigido; aplicação de bolsa (essays de 300 palavras)",
+   "Entrevista": "Sim (personal assessment interview, presencial ou por telefone; avalia também o inglês)",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.hult.edu/masters/business-analytics/",
+   "https://www.hult.edu/masters/admissions/fees/",
+   "https://www.hult.edu/masters/admissions/",
+   "https://www.hult.edu/masters/admissions/scholarships/"
+  ],
+  "observacoes": "Tuition 2027-28 (intake Fall 2027) para o MBAN em Boston = US$62,300 (a base tinha 58,500). Fees = 'other student-related costs' US$4,440 (inclui seguro e biblioteca) + livros estimados US$1,000. Custo de vida oficial estimado: moradia US$17,000 + living US$11,000 por ano (aluguel/mês = 17,000/12). Empregabilidade 76% = internacionais nos campi dos EUA que conseguiram emprego nos EUA (dado da escola, não só MBAN); salário médio MBAN US$77.2k 6 meses após formatura. DET aceito, nota mínima não publicada. Hult cobra preço fechado (sem por crédito)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Bryant University",
+   "Estado": "RI",
+   "Cidade": "Smithfield"
+  },
+  "updates": {
+   "Início": "Fall",
+   "Destaques Currículo": "(Catálogo 2025-26) 34 créditos, full-time e presencial em fall, spring e summer; 8 cursos obrigatórios de analytics/IA (Probability & Statistics, Data Visualization, Fundamentals of AI/ML, Data Management in the Age of AI, AI Applications in Business, Time Series & Optimization, Marketing Analytics...) + 3 eletivas (fintech, supply chain, negócios internacionais, saúde); bridge courses no verão para quem não tem pré-requisitos; capstone com empresa parceira; Python, R, SQL/NoSQL, Tableau/Power BI",
+   "Total Créditos": 34,
+   "Custo/Crédito (Intl) USD": 1235,
+   "Custo/Crédito (Residente) USD": 1235,
+   "Tuition Total (Intl) USD": 40755,
+   "Tuition Total (Residente) USD": 40755,
+   "Fees Adicionais USD": 1235,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Merit scholarships automáticas para admitidos em programas presenciais (valores não publicados; prioridade para quem aplica até 1 fev para o Fall); Graduate Assistantship (10h/semana em troca de remissão de tuition); alumni Bryant até 30%",
+   "Quão Realista (Intl)": "Moderada -- merit automática e GA abertos a full-time presenciais (internacionais incluídos), mas valores não publicados; aplicar até 1 fev para prioridade",
+   "TA/RA Disponível": "Sim (Graduate Assistantship de ~10h/semana com remissão de tuition)",
+   "Processo TA/RA": "Indicar preferências na aplicação; comitê de professores/staff seleciona; candidatos avaliados após 1 fev; só alunos full-time admitidos em programas presenciais",
+   "Caminho Tuition Residente": "N/A (privada -- mesma tuition para internacionais)",
+   "Graduate Assistantships": "GA de ~10h/semana em departamentos acadêmicos/administrativos (pesquisa, projetos), pago em remissão de tuition (valor não publicado)",
+   "Matérias Pré-Requisito": "Base em estatística e programação; quem não tiver faz bridge courses (Programming Foundations for Analytics / Math and Statistics Foundation) no verão antes do início",
+   "Testes Inglês Aceitos": "TOEFL iBT 85 / IELTS 6.5 / Duolingo 115 / PTE (mínimo listado como '7' na página, provável erro); dispensa com diploma de instituição dos EUA, Canadá, Reino Unido ou Austrália",
+   "Deadline Aplicação": "Prioridade de bolsa: 1 fev 2027 (Fall 2027); prioridade de admissão (padrão dos programas presenciais): 1 mar 2027; regular: 1 ago 2027",
+   "Taxa Aplicação USD": 80,
+   "Rounds Aplicação": "Priority scholarship deadline 1 fev (Fall) / 30 nov (Spring); prioridade de admissão 1 mar e regular 1 ago nos programas presenciais; GA avaliados após 1 fev"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://www.bryant.edu/graduate/graduate-admission/graduate-tuition-and-financial-aid",
+   "https://www.bryant.edu/graduate/graduate-admission/graduate-international-students",
+   "https://www.bryant.edu/graduate/graduate-admission/graduate-important-deadlines",
+   "https://catalog.bryant.edu/pdf/Graduate%20Catalog%202025-2026.pdf",
+   "https://catalog.bryant.edu/pdf/Graduate%20Catalog%202026-2027.pdf"
+  ],
+  "observacoes": "ALERTA: o MS in Business Analytics and AI presencial NÃO aparece no catálogo de pós 2026-27 (só o MS in Data Science and AI e o MS in Applied AI online com trilha de Business Analytics); a página do programa em bryant.edu dá 'broken link', a página do catálogo dá 404 e a página de deadlines não lista o MSBA (só o certificado) — o programa pode ter sido descontinuado ou absorvido; confirmar com graduateprograms@bryant.edu. A página de tuition ainda lista MSBA (11 cursos) a US$3,705 por curso de 3 créditos (=US$1,235/crédito; total 11 x 3,705 = US$40,755) + taxa 'MSBA Concepts and Skills' de US$1,235. Créditos 34 e currículo vêm do catálogo 2025-26. Deadlines de admissão do MSBA não publicados: usei o padrão dos outros programas presenciais (prioridade 1 mar / regular 1 ago) e o priority scholarship de 1 fev."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Iowa State University",
+   "Estado": "IA",
+   "Cidade": "Ames"
+  },
+  "updates": {
+   "Nome Oficial do Programa": "Master of Business Analytics (MBAN, grau M.B.S.)",
+   "Início": "Fall, Spring ou Summer",
+   "Destaques Currículo": "30 créditos; trilha residencial full-time (STEM só no presencial) ou 100% online; projeto aplicado de interesse do aluno; networking no maior simpósio de business analytics da Ivy; opções de duplo diploma (MBA-MBAN, MIS-MBAN, BUAN-MBAN); mediana de 2 anos para concluir (inclui part-time)",
+   "Custo/Crédito (Intl) USD": 2049,
+   "Custo/Crédito (Residente) USD": 868,
+   "Tuition Total (Intl) USD": 61470,
+   "Tuition Total (Residente) USD": 26040,
+   "Fees Adicionais USD": 2348,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas da Ivy para mestrandos (aplicação própria até o priority deadline; geralmente por 2 semestres, US$1,000-5,000 no total); quarter-time research assistantships (reduzem a tuition; maioria oferecida na admissão)",
+   "Quão Realista (Intl)": "Moderada -- bolsas e assistantships abertas a internacionais com a mesma compensação, mas as bolsas são pequenas (US$1-5k) e as assistantships, limitadas; com GA o internacional paga tuition de residente (US$7,804/semestre em vez de US$18,438)",
+   "TA/RA Disponível": "Sim (número limitado de quarter-time research assistantships na Ivy)",
+   "Processo TA/RA": "Maioria oferecida na admissão, com base em GPA, GMAT (se enviado), experiência e conquistas; algumas surgem durante o semestre",
+   "Caminho Tuition Residente": "Graduate assistants pagam a taxa de residente (tabela oficial: US$7,804/semestre vs US$18,438 para internacional)",
+   "Graduate Assistantships": "Quarter-time RA (~10h/semana): tuition cai para a taxa de residente + stipend; vagas limitadas",
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Não (GRE/GMAT não exigido)",
+   "Testes Inglês Aceitos": "TOEFL iBT 81 (ou 5 na nova escala, provas a partir de 21/jan/2026) / IELTS 7.5 / PTE 68 / Duolingo 120",
+   "Deadline Aplicação": "Fall: 15 jun 2027 (programa residencial; bolsas exigem aplicação até o priority deadline, não publicado); Spring: 15 nov; Summer: 15 mar (só domésticos)",
+   "Taxa Aplicação USD": 100,
+   "Rounds Aplicação": "Prazos por semestre (Fall 15 jun, Spring 15 nov, Summer 15 mar só domésticos); resposta em 4-6 semanas; bolsas priorizam quem completa a aplicação até o priority deadline",
+   "Documentos Necessários": "Aplicação online (Graduate College); transcripts; 1 a 3 cartas de recomendação (2 'letters of support' para full-time); personal statement; resume; teste de inglês; financial statement (internacionais)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://www.grad-college.iastate.edu/programs/business_analytics",
+   "https://ivybusiness.iastate.edu/degree/mban/",
+   "https://www.ivybusiness.iastate.edu/masters-programs-faqs/",
+   "https://apps.admissions.iastate.edu/forms.php/registrar_tuition",
+   "https://www.ivybusiness.iastate.edu/life-at-ivy/scholarships-and-financial-aid/"
+  ],
+  "observacoes": "Nome oficial: Master of Business Analytics (M.B.S.), não 'MS'. Tuition Fall 2026 (tabela oficial do registrar, programa 'Business Analytics, M.B.S.' residencial): internacional US$2,049/crédito, não-residente US$1,936, residente US$868, com teto em 9 créditos/semestre (US$18,438 intl / US$7,804 residente por semestre full-time) — os valores antigos (1,848/782) eram de outro ano ou da versão online (online = US$750/crédito para todos). Total = 30 créditos x taxa por crédito; com o teto de 9 créditos, 3 semestres full-time + 3 créditos poderiam sair mais barato. Fees ≈ 3 semestres x US$782.70 (activity/service, health, health facility, technology fee de business). Inglês da Graduate College: IELTS 7.5 (alto) e DET 120. Taxa de aplicação US$100 para internacionais (US$60 domésticos)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UC Riverside",
+   "Estado": "CA",
+   "Cidade": "Riverside"
+  },
+  "updates": {
+   "Início": "Fall",
+   "Destaques Currículo": "Oferecido com o Departamento de Estatística; 48 unidades (quarters): 8 cursos core + 3 eletivas + 2 capstones; 9 a 15 meses (3 quarters, ou mais para incluir estágio de verão); concentrações em Financial Analytics, Marketing Analytics e Supply Chain Analytics; visualização, forecasting, data mining/statistical learning, decision modeling, IA/ML",
+   "Custo/Crédito (Intl) USD": 1514,
+   "Custo/Crédito (Residente) USD": 1514,
+   "Tuition Total (Intl) USD": 72672,
+   "Tuition Total (Residente) USD": 72672,
+   "Fees Adicionais USD": 9,
+   "Seguro Saúde (programa) USD": 6269,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Merit scholarships na admissão (~96% dos admitidos recebem; valor informado na carta de admissão; bolsas exclusivas para out-of-state/internacionais); 21+ bolsas para alunos matriculados (aplicação em abril); Work-Study (TA, Reader, Student Assistant) com pagamento revertido em desconto de tuition",
+   "Quão Realista (Intl)": "Alta -- ~96% dos admitidos recebem bolsa de mérito e há bolsas exclusivas para internacionais (valores não publicados); ~30 vagas de TA por ano, competitivas",
+   "TA/RA Disponível": "Sim (~30 vagas de Teaching Assistant por ano; Reader; Student Assistant)",
+   "Processo TA/RA": "Após a admissão, pelo Work-Study Program da School of Business; TA exige proficiência em inglês da Graduate Division; posições de Student Assistant exigem aplicação na admissão",
+   "Caminho Tuition Residente": "Não se aplica (programa self-supporting: mesma tuition por unidade para residentes e internacionais; californianos recebem desconto automático)",
+   "Graduate Assistantships": "TA cobre parte significativa da tuition (competitivo, ~30 vagas/ano); Reader e Student Assistant pagam em desconto/bolsa",
+   "GPA Médio Admitidos": 3.37,
+   "GMAT Médio": 655,
+   "GMAT/GRE Obrigatório": "Opcional (test-optional; nota ajuda na competitividade para bolsa)",
+   "Experiência Profissional": "Não obrigatória (experiência em analytics fortalece o perfil)",
+   "Matérias Pré-Requisito": "Formação em negócios, finanças, supply chain, marketing, estatística, economia ou STEM; competência quantitativa demonstrada no histórico; aceita bacharelado de 3 anos",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 (ou 4.0 na nova escala, a partir de 21/jan/2026) / IELTS Academic 7.0 (nenhuma banda < 6); Duolingo NÃO aceito pela Graduate Division",
+   "Deadline Aplicação": "Priority Round: 15 dez 2026; Round 2: 31 jan 2027; Round 3: 31 mar 2027; Final Round: 1 ago 2027 (Fall 2027)",
+   "Taxa Aplicação USD": 180,
+   "Rounds Aplicação": "4 rounds (Priority 15 dez, 31 jan, 31 mar, final 1 ago); aplicar no Priority Round para maior chance de bolsa; sem waiver de taxa para internacionais",
+   "Documentos Necessários": "Aplicação online (Graduate Division); resume/CV; statement of purpose (750 palavras); 1 carta de recomendação (acadêmica ou profissional); transcripts de todas as instituições + diploma; TOEFL ou IELTS; GMAT/GRE/EA opcional",
+   "Entrevista": "Por convite (se selecionado)",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://business.ucr.edu/msba",
+   "https://business.ucr.edu/msba/financing-your-program",
+   "https://business.ucr.edu/msba/class-profile",
+   "https://business.ucr.edu/graduate/admissions",
+   "https://graduate.ucr.edu/admission-requirements",
+   "https://registrar.ucr.edu/Quarterly-Graduate-Tuition-and-Fees"
+  ],
+  "observacoes": "Correção importante: a Graduate Division da UCR NÃO aceita o Duolingo (só TOEFL ou IELTS Academic) — a base dizia 'Duolingo 100'. Tuition 2026-27 (programa self-supporting): US$1,514/unidade x 48 = US$72,672, igual para todos. Seguro G-SHIP US$2,089.55 por quarter (x3 = ~US$6,269, dispensável com seguro equivalente); fee UCGPC US$3/quarter. Class profile Fall 2025: GPA médio 3.37, GMAT 655, GRE 319, 83% internacionais. Taxa de aplicação internacional US$180."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UNC Charlotte",
+   "Estado": "NC",
+   "Cidade": "Charlotte"
+  },
+  "updates": {
+   "Business School": "School of Data Science (com Belk College of Business)",
+   "Início": "Fall ou Spring",
+   "Destaques Currículo": "33 créditos (11 cursos): core de 18 créditos (Databases for Data Scientists, BI and Analytics, Visual Analytics and Storytelling, Strategic Business Analytics, Applied Machine Learning, Advanced Analytics) + 12 de eletivas (ao menos 1 de Data Science e 1 de Business Analytics) + capstone por estágio (3 créditos) ou tese (6 créditos)",
+   "Custo/Crédito (Intl) USD": 1969,
+   "Custo/Crédito (Residente) USD": 1005,
+   "Tuition Total (Intl) USD": 50630,
+   "Tuition Total (Residente) USD": 24584,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "SDS Graduate Assistantships (30-35 TAs/IAs por semestre, 10 ou 20h/semana, pagos por hora/contrato, SEM remissão de tuition); assistantships em outros departamentos do campus; NinerScholars Portal (1.000+ bolsas da universidade com uma aplicação)",
+   "Quão Realista (Intl)": "Baixa -- não há merit scholarship automática do programa; as assistantships da SDS aceitam internacionais mas não incluem remissão de tuition (só salário); bolsas do NinerScholars são competitivas",
+   "TA/RA Disponível": "Sim (30-35 TA/IA por semestre na School of Data Science; sem remissão de tuition)",
+   "Processo TA/RA": "Formulário online da SDS (abre na 1ª semana de março para Summer/Fall e de outubro para Spring) com cover letter e resume; entrevista com professores; GPA mínimo 3.0; renovar a cada semestre",
+   "Caminho Tuition Residente": "Sem caminho: assistantships da SDS não incluem remissão de tuition nem tuition de residente",
+   "Graduate Assistantships": "TA/IA de 10h (meio período) ou 20h (período integral) por semana, pagos por hora ou por contrato semestral, sem tuition remission; com 20h o aluno fica limitado a 9 créditos",
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Sim (GRE ou GMAT obrigatório; waiver só para quem tem diploma de instituição dos EUA com GPA 3.0+ ou doutorado/JD/MD)",
+   "Matérias Pré-Requisito": "Conhecimento de uma linguagem de programação (Python, C, Java etc.); 1 semestre de cálculo e 1 de estatística",
+   "Testes Inglês Aceitos": "TOEFL iBT 83 / IELTS 6.5 / Duolingo 115; dispensa só com diploma dos EUA ou Reino Unido",
+   "Deadline Aplicação": "Prioridade: 1 mar 2027 (Fall 2027); final: 1 ago 2027; Spring: prioridade 1 out, final 1 dez",
+   "Taxa Aplicação USD": 85,
+   "Rounds Aplicação": "Prazo de prioridade (1 mar Fall / 1 out Spring) e prazo final (1 ago / 1 dez); aplicações após a prioridade avaliadas conforme vagas",
+   "Documentos Necessários": "Aplicação online (Graduate School); transcripts não oficiais; 3 cartas de recomendação; GRE/GMAT; TOEFL/IELTS/Duolingo; resume opcional; avaliação de credencial (WES/NACES) obrigatória só para bacharelado de 3 anos",
+   "Experiência Profissional": "Não obrigatória"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://dsba.charlotte.edu/admissions/overview/masters-science/",
+   "https://dsba.charlotte.edu/admissions/tuition-and-fees-0/",
+   "https://dsba.charlotte.edu/admissions/international-applicants/",
+   "https://dsba.charlotte.edu/admissions/financial-information/funding-and-financial-aid/",
+   "https://dsba.charlotte.edu/current-students/graduate-assistantships/"
+  ],
+  "observacoes": "Tuition 2026-27 (tabela da DSBA, já inclui fees obrigatórias e o DSBA tuition increment de US$420/crédito): não-residente/internacional US$16,876.50 por semestre com 9+ créditos (US$5,908.25 por 3 créditos); residente NC US$8,194.50. Total = 3 semestres full-time (33 créditos cabem em 3 semestres de 9+), incluindo fees — por isso 'Fees Adicionais' fica como Verificar (já embutido); custo/crédito = valor de 3 créditos / 3. Seguro saúde não incluído. GRE/GMAT obrigatório para quem se forma no Brasil (waiver só para diploma dos EUA). Duração de 18 meses mantida (não publicada oficialmente)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Chapman University",
+   "Estado": "CA",
+   "Cidade": "Orange"
+  },
+  "updates": {
+   "Início": "Fall",
+   "Destaques Currículo": "Programa de 10 meses reformulado em 2025, com IA integrada ao currículo; 30 unidades (guia do programa); core: Machine Learning for Managers, Managing Data for Analysis (SQL/ETL) etc.; classes de analytics para Entertainment e Real Estate (raras no sul da Califórnia); turmas pequenas",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 2075,
+   "Custo/Crédito (Residente) USD": 2075,
+   "Tuition Total (Intl) USD": 62250,
+   "Tuition Total (Residente) USD": 62250,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Fellowships da pós da Chapman e empréstimos federais (só para cidadãos/residentes); valores do MSBA não publicados",
+   "Quão Realista (Intl)": "Baixa -- o MSBA atualmente NÃO aceita internacionais que precisam de visto F-1",
+   "Caminho Tuition Residente": "N/A (privada -- mesma tuition para todos)",
+   "GMAT/GRE Obrigatório": "Sim, com waiver disponível",
+   "Matérias Pré-Requisito": "Estatística (ou Introductory Business Statistics) e Cálculo",
+   "Testes Inglês Aceitos": "TOEFL iBT 94 (ou 5.0 na nova escala) / IELTS 7.0 / PTE 76 / Cambridge C1 Advanced / Duolingo 130 (mínimos de 'All Other Graduate Programs') — mas o MSBA não aceita candidatos que precisam de F-1",
+   "Deadline Aplicação": "Early Action: 1 nov 2026; Priority: 1 fev 2027; Regular: 1 jun 2027 (Fall 2027) — internacionais com F-1 não podem aplicar no momento",
+   "Rounds Aplicação": "3 prazos (Early Action 1 nov, Priority 1 fev, Regular 1 jun); depois, conforme vagas",
+   "Documentos Necessários": "Aplicação online; resume; statement of intent; transcripts oficiais; GMAT/GRE (waiver disponível); 1 carta de recomendação; entrevista; teste de inglês (internacionais)",
+   "Entrevista": "Sim (obrigatória)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://www.chapman.edu/business/academic-programs/graduate/prospective-students/programs/ms-in-business-analytics.aspx",
+   "https://www.chapman.edu/admission/graduate/apply/deadlines.aspx",
+   "https://www.chapman.edu/admission/graduate/international-students/how-to-apply.aspx",
+   "https://www.chapman.edu/admission/_files/graduate-folder/ms-business-analytics-program-guide.pdf"
+  ],
+  "observacoes": "ALERTA: a página oficial de deadlines da Chapman diz que 'International students in need of an F-1 visa are currently not eligible for admission into the MS in Business Analytics program' e que internacionais não conseguem submeter aplicação para o programa no momento (contato: shannonmc@chapman.edu) — hoje o programa está fechado para a usuária. Tuition atual US$2,075/crédito (a base tinha 2,135); 30 unidades segundo o guia do programa => US$62,250. O DET 130 é o mínimo geral da pós da Chapman ('All Other Graduate Programs'), não aplicável enquanto o MSBA não aceitar F-1."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Virginia Commonwealth University (VCU)",
+   "Estado": "VA",
+   "Cidade": "Richmond"
+  },
+  "updates": {
+   "Formato": "Presencial (aulas à noite seg-qui em Snead Hall, com opção de assistir virtualmente; há também formato de fim de semana em cohort)",
+   "Duração (meses)": 12,
+   "Início": "Fall, Spring ou Summer (Summer só domésticos)",
+   "Destaques Currículo": "Evening Format: 30 créditos (10 cursos), full-time em 1 ano/3 semestres ou part-time em 2 anos; ciclo completo de analytics (data management, estatística, machine learning, otimização, simulação, apresentação); concentrações: accounting analytics, data science in business, financial analytics, marketing analytics, production & operations analytics; IA em R e Python; formato Weekend separado (33 créditos, cohort, US$45,000)",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 1108,
+   "Custo/Crédito (Residente) USD": 978,
+   "Tuition Total (Intl) USD": 31361,
+   "Tuition Total (Residente) USD": 27642,
+   "Fees Adicionais USD": 1554,
+   "Bolsas Disponíveis": "Não",
+   "Tipos de Bolsa": "Sem bolsas de mérito do programa publicadas; empregos de estudante na School of Business/campus (até 20h/semana, salário por hora, sem tuition support); ajuda federal só para cidadãos/residentes",
+   "Quão Realista (Intl)": "Baixa -- não há bolsa publicada para o MDA; só empregos no campus pagos por hora, sem redução de tuition (mas a tuition já é baixa, ~US$31k)",
+   "TA/RA Disponível": "Limitado (student employment de até 20h/semana, salário por hora, sem tuition support)",
+   "Processo TA/RA": "Vagas no Handshake após a matrícula no 1º semestre; maior volume antes do Fall",
+   "Caminho Tuition Residente": "Não-residentes pagam a taxa do Graduate Education Innovation Program (US$10,453.50/semestre full-time vs US$9,214 residente) — diferença pequena",
+   "Graduate Assistantships": "Empregos de estudante na School of Business ou campus, até 20h/semana, pagos por hora (sem tuition remission)",
+   "GMAT/GRE Obrigatório": "Não (opcional; recomendado se o GPA não refletir bem sua capacidade)",
+   "Matérias Pré-Requisito": "Pré-requisitos definidos na admissão e incluídos no plano de estudos (não precisam estar completos para aplicar)",
+   "Testes Inglês Aceitos": "TOEFL 100 / IELTS 6.5 / Duolingo 120 / PTE 65 (mínimos da School of Business, acima do mínimo geral da VCU)",
+   "Deadline Aplicação": "Fall: 1 jul 2027 (Evening Format; rolling depois conforme vagas); Spring: 1 nov; Summer: 1 mar (só domésticos). Weekend Format: Round 1: 1 nov 2026; Round 2: 1 mar 2027; Round 3: 1 mai 2027; Round 4: 1 jul 2027",
+   "Taxa Aplicação USD": 75,
+   "Rounds Aplicação": "Evening: prazos por semestre, revisão rolling; decisão em 2-3 semanas. Weekend: 4 rounds (1 nov, 1 mar, 1 mai, 1 jul)",
+   "Documentos Necessários": "Aplicação online (VCU Graduate School); resume; statement of intent; 1 carta de recomendação; transcripts; teste de inglês; GMAT/GRE opcional",
+   "Experiência Profissional": "Não obrigatória (programa desenhado para profissionais, mas aceita recém-formados)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://business.vcu.edu/academics/supply-chain-management-and-analytics/master-of-decision-analytics-evening-format/",
+   "https://business.vcu.edu/prospective-students/graduate/admissions/",
+   "https://bulletin.vcu.edu/graduate/school-business/decision-analytics-programs/decision-analytics-mda/"
+  ],
+  "observacoes": "Tuition 2026-27 (Evening): residente US$9,214 por semestre full-time (9-15 créditos) ou US$978/crédito; não-residente/internacional US$10,453.50 ou US$1,108/crédito. Total = 3 semestres full-time (como o programa recomenda) — por crédito daria US$33,240. Fees = (School of Business US$468 + Academic Support US$50) x 3 semestres. Aulas só à noite e com opção virtual: para F-1 é preciso confirmar a carga presencial exigida. Formato Weekend (cohort, 33 créditos) custa US$45,000 total."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "University of San Diego",
+   "Estado": "CA",
+   "Cidade": "San Diego"
+  },
+  "updates": {
+   "Ranking US News": "Verificar"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://www.sandiego.edu/business/academics/graduate/business-analytics/",
+   "https://graduate.catalog.sandiego.edu/academics/admissions",
+   "https://businessresources.sandiego.edu/masters-in-business-analytics-one-stop-shop-application-guide"
+  ],
+  "observacoes": "Enrichment recente mantido; DET 120 confirmado (junto com TOEFL iBT 4.5 na nova escala / IELTS 7.0). Única correção: 'Ranking US News' tinha texto numa coluna numérica ('Sem ranking específico do MSBA; Knauss #105...'), o que quebraria o dashboard — trocado por 'Verificar' (o MSBA não tem ranking próprio; a Knauss é #105 empatada em Best Business Schools do U.S. News). Campos ainda 'Verificar' (tamanho da turma, taxa de aceitação, GMAT médio, ranking QS) não são publicados pela escola."
+ }
+]

@@ -1,0 +1,287 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "U of Utah",
+   "Estado": "UT",
+   "Cidade": "Salt Lake City"
+  },
+  "updates": {
+   "Formato": "Híbrido: mix de disciplinas presenciais e online, majoritariamente à noite (formato pensado para profissionais); ALERTA F-1: só 3 créditos online por semestre contam para a matrícula full-time -- confirmar viabilidade com o programa",
+   "Duração (meses)": 16,
+   "Início": "Fall e Spring",
+   "Destaques Currículo": "Currículo lockstep de 30 créditos em 4 semestres (16 meses), todos fazem as mesmas disciplinas na mesma ordem; núcleo em estatística preditiva (R/Python), text analytics, data mining, causal inference; curso de career development + capstone com empresa real (pode incluir estágio); fast track para ex-alunos da Eccles com GPA ≥ 3.4",
+   "Tipos de Bolsa": "Admissions scholarships (só 1 por aluno, por ordem de chegada, requisitos até 1 jun para Fall): Merit Scholarship US$0-3,000 (essay 300-500 palavras); Community Impact Scholarship US$0-3,000 (essay; liderança em setor público/ONG); Alumni Scholarship US$0-500 (ex-alunos da U of Utah)",
+   "Quão Realista (Intl)": "Baixa -- bolsas de admissão abertas a todos mas pequenas (máx. US$3,000, ~8% da tuition) e limitadas por ordem de chegada; o programa não oferece graduate assistantships nem fellowships",
+   "TA/RA Disponível": "Não -- a página oficial diz que o programa não oferece graduate assistantships nem fellowships",
+   "Processo TA/RA": "Não se aplica (programa não oferece GA); vagas avulsas de TA/emprego no campus via universidade são possíveis, mas não vinculadas ao MSBA",
+   "Graduate Assistantships": "Não (o MSBA não oferece graduate assistantships)",
+   "Taxa Empregabilidade %": 82,
+   "Salário Médio Pós USD": 82751,
+   "Principais Empregadores": "University of Utah Health, Swire Coca-Cola, Zions Bancorporation, Layton Construction, DigiCert, CHG Healthcare, ThomasArts, bioMérieux, Goldman Sachs, qBotica (Top Hiring Partners oficiais do MSBA; formados empregados em UT, IA, NY, CA, TX, WA, DC, IL e Austrália)",
+   "GMAT/GRE Obrigatório": "Não obrigatório; recomendado enviar se já tiver nota; com GPA < 3.0 o GMAT/GRE pode servir como alternativa ao requisito de GPA",
+   "Testes Inglês Aceitos": "TOEFL iBT 90 (antes de 21/jan/2026) ou 5 (nova escala) / IELTS Academic 7.0 (presencial) / Duolingo 120 -- mínimos do programa, acima dos da universidade",
+   "Deadline Aplicação": "Priority: 1 fev 2027; International: 1 abr 2027 (final para quem precisa de novo F-1); Scholarship: 1 jun 2027; Final: 1 ago 2027 (Fall 2027; Spring 2027: priority 1 set 2026, international 1 out 2026)",
+   "Rounds Aplicação": "Priority (decisão antecipada + prioridade na escolha de cursos), International, Scholarship e Final; bolsas por ordem de chegada. Taxa US$65 (intl) / US$55 (doméstico)",
+   "Documentos Necessários": "Transcripts de todas as instituições (avaliação course-by-course NACES paga pela universidade) + cópia do diploma; 1 carta de recomendação (não de família/amigos); vídeo-ensaio de até 60 s; 4 short essays (200/100/200/200 palavras) + essay opcional; resume detalhado; teste de inglês; GMAT/GRE opcional"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://eccles.utah.edu/programs/master-of-science-in-business-analytics/admissions/",
+   "https://eccles.utah.edu/programs/master-of-science-in-business-analytics/finances/",
+   "https://eccles.utah.edu/programs/master-of-science-in-business-analytics/careers/employment-success/",
+   "https://eccles.utah.edu/programs/master-of-science-in-business-analytics/academics/"
+  ],
+  "observacoes": "DET mínimo do programa é 120 (não 110). Programa dura 4 semestres/16 meses com aulas noturnas e online; não oferece GA/fellowships (TA/RA anterior era incorreto). Outcomes oficiais: 82% placement, salário médio US$82,751 (com variável). Bolsas máx. US$3k. Tuition US$1,300/crédito com fees inclusas confirmada."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Michigan State",
+   "Estado": "MI",
+   "Cidade": "East Lansing"
+  },
+  "updates": {
+   "Formato": "Online (100% online e assíncrono, segundo MSU Online e Broad) -- não é presencial; programa online não dá base para visto F-1",
+   "Duração (meses)": 20,
+   "Início": "Fall e Spring (novo intake Spring a partir de jan 2027)",
+   "Destaques Currículo": "30 créditos: núcleo de 21 créditos que concede 2 graduate certificates (Advanced Analytics Applications; Data-Driven Decision Making) + 9 créditos em um 3º certificado (Business Essentials ou Organizational Leadership and Strategy); machine learning, AI governance, modelagem estatística; voltado a profissionais",
+   "GMAT/GRE Obrigatório": "Não (o programa não exige GMAT/GRE)",
+   "GPA Mínimo": 3,
+   "Matérias Pré-Requisito": "Nenhuma obrigatória; experiência com programação (Python, R, Java, C) e estatística altamente recomendada",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 100 / IELTS mín. 7.0 (mínimos publicados pela Broad); Duolingo e PTE citados só em agregadores, mínimo não confirmado em fonte oficial",
+   "Deadline Aplicação": "Early Action: 1 abr 2027; Final: 14 ago 2027 (Fall 2027; Spring 2027: 1 out 2026)",
+   "Rounds Aplicação": "Early Action (1 abr) + prazo final (14 ago) para Fall; programa online assíncrono",
+   "Documentos Necessários": "Resume, personal statement, vídeo-ensaio, transcripts (bacharelado de 4 anos), 2 cartas de recomendação (acadêmicas ou profissionais), TOEFL/IELTS (internacionais)"
+  },
+  "det_aceito": "nao_confirmado",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://online.msu.edu/programs/business-data-science-and-analytics-ms",
+   "https://broad.msu.edu/masters/business-data-science-analytics/admissions/",
+   "https://broad.msu.edu/masters/business-data-science-analytics/tuition/",
+   "https://broad.msu.edu/news/msu-masters-in-business-analytics-expands-spring-2027/"
+  ],
+  "observacoes": "ALERTA: o MS in Business Data Science & Analytics da Broad é hoje 100% online (assíncrono, 20 meses, voltado a profissionais) -- não serve para F-1/presencial. Sites broad.msu.edu bloqueiam acesso automatizado (Incapsula); dados de admissão vêm de trechos indexados do domínio oficial e da página MSU Online. GMAT/GRE não exigido (corrigido). Tuition US$1,200/crédito (US$36,000) confirmada. Campos de GA/bolsa não revistos (irrelevantes para programa online)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Cincinnati",
+   "Estado": "OH",
+   "Cidade": "Cincinnati"
+  },
+  "updates": {
+   "Testes Inglês Aceitos": "TOEFL iBT 90 (ou 4.5 na nova escala 1-6) / IELTS 7.0 / Duolingo 115 (mínimos para MBA e Specialized Master's da Lindner)",
+   "Deadline Aplicação": "Round 1: 15 out 2026; Round 2: 15 jan 2027; Round 3: 15 mar 2027 (recomendado para quem precisa de novo F-1); Round 4: 15 mai 2027; Round 5: 1 jul 2027 -- só admite para Fall",
+   "Rounds Aplicação": "5 rounds com revisão rolling dentro de cada round (decisão até 1 nov, 1 fev, 1 abr, 1 jun e 15 jul); Rounds 1-2 maximizam a consideração para bolsa; programa pode fechar por lotação; confirmação até 15 jul; taxa US$70 (intl) / US$65 (EUA)",
+   "Salário Médio Pós USD": 92498,
+   "Principais Empregadores": "Google, Disney, Amazon (citados na página oficial do programa); Deloitte, P&G, Kroger vinham de fonte anterior e não foram reconfirmados",
+   "Ranking US News": "Verificar",
+   "Matérias Pré-Requisito": "2 semestres (ou 3 quarters) de cálculo universitário; 1 curso de álgebra linear ou métodos matriciais; conhecimento básico de programação (C, C++, Java, Matlab, Python, R, SAS etc.) não é exigido na aplicação, mas deve ser adquirido antes do início; pré-requisitos podem ser concluídos até 1 jun antes do Fall; Business Foundations (até 10 créditos) para quem não tem graduação em Business",
+   "Documentos Necessários": "Resume (máx. 2 páginas, com datas de experiências); transcripts não oficiais de todas as instituições (traduzidos para inglês; NACES só se solicitado); personal statement 250-500 palavras; 1 carta de recomendação de supervisor profissional (enviada direto pelo recomendador); GMAT/GRE opcional; teste de inglês; taxa de aplicação"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://business.uc.edu/academics/admissions/ms-business-analytics.html",
+   "https://www.business.uc.edu/future-students/admissions-requirements/graduate/application-deadlines.html",
+   "https://www.business.uc.edu/programs-degrees/graduate/specialized-masters/business-analytics.html"
+  ],
+  "observacoes": "Deadlines Fall 2027 corrigidos: 5 rounds (15 out a 1 jul); para F-1 a própria escola recomenda até 15 mar (o '15 out' antigo era do intake Spring, que o MSBA nem oferece). PTE não aparece na tabela oficial da Lindner. Outcomes oficiais: 92% placement em 3 meses, média US$92,498 (antes 107,500). Ranking US News removido (era texto; página oficial cita #22 TFE Times). Tuition não reconfirmada (página remete ao bursar)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Florida",
+   "Estado": "FL",
+   "Cidade": "Gainesville"
+  },
+  "updates": {
+   "Destaques Currículo": "36 créditos em módulos de 7 semanas, 10 meses (Fall a verão); Python, R, Tableau, IBM e AWS Clouds, UFIT Data Lake e supercomputador HiPerGator; practicum/capstone com empresa real (sponsors já incluíram Accenture, AT&T, Bank of America, Disney, PwC, Tampa Electric); eletivas em AI methods, web crawling/text analysis, marketing analytics, data mining",
+   "Tipos de Bolsa": "Scholarships para MSBA selecionados (seletivas; notificadas junto com a carta de admissão, sem inscrição separada); assistantships possíveis após o 1º semestre conforme desempenho; internacionais não têm acesso a empréstimos federais/estaduais",
+   "Quão Realista (Intl)": "Baixa -- bolsa só para alguns admitidos, sem valores publicados; assistantship só após o 1º semestre e não garantida; sem acesso a empréstimos federais",
+   "Ranking US News": 30,
+   "Principais Empregadores": "Página oficial lista cargos (Data Scientist, BI Engineer, Consultant, Business Analyst etc.), não empregadores; sponsors de projetos: Accenture, AT&T, Bank of America, Disney, PwC, Tampa Electric. Lista anterior (Accenture, Bank of America, Deloitte, EY, KPMG, PwC, NextEra Energy, Protiviti) não reconfirmada",
+   "Testes Inglês Aceitos": "TOEFL iBT (inclusive Home Edition) 4.5 na nova escala (mín. 4.0 em cada seção) / IELTS Academic 6.5 / UF ELI Exit Certificate; Duolingo NÃO consta na lista oficial de testes aceitos da UF Graduate Admissions",
+   "Deadline Aplicação": "Intl prioridade: 1 jan 2027; Intl final: 15 fev 2027; Doméstico: 1 mai 2027 (Fall)",
+   "Documentos Necessários": "Statement of purpose (400-600 palavras); resume/CV; 2+ cartas de recomendação de supervisor (não aceita de colegas/líderes estudantis); transcripts oficiais ou não oficiais de todas as instituições; teste de inglês; GMAT/GRE opcional (código UF 5812); taxa US$30; entrevista para quem estudou fora dos EUA"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://warrington.ufl.edu/graduate/masters-business-analytics/",
+   "https://admissions.ufl.edu/apply/graduate/international"
+  ],
+  "observacoes": "DET não aceito: a página oficial de requisitos internacionais da UF (para onde o MSBA remete) lista só TOEFL (4.5 nova escala), IELTS 6.5 e UF ELI; IELTS corrigido de 6.0 para 6.5. Ranking US News 2024: #30 em business analytics (#10 entre públicas). Tuition (US$19,171 residente / US$52,174 fora do estado), salário US$82,166 (+ bônus de assinatura de US$5,600), deadlines, 10 meses e presencial confirmados."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Florida State",
+   "Estado": "FL",
+   "Cidade": "Tallahassee"
+  },
+  "updates": {
+   "Início": "Summer (fim de junho; admissão só 1x por ano, termina no início de maio)",
+   "GMAT/GRE Obrigatório": "Opcional (GMAT ou GRE só devem ser enviados se fortalecerem a candidatura)",
+   "Testes Inglês Aceitos": "TOEFL 600 (PBT, antes de 21/jan/2026) ou 5.0 (nova escala, a partir de 21/jan/2026) / IELTS Academic 7.0 / PTE 66 / Duolingo 125 / Cambridge C1 Advanced 180 / Michigan 55 (testes feitos nos últimos 2 anos)",
+   "Deadline Aplicação": "Prioritário: 15 jan 2027 (também prazo para concorrer a assistantship); Final: 1 mar 2027 (início Summer 2027; após 15 jan só se houver vaga)",
+   "Documentos Necessários": "Applicant statement; resume/CV com datas e cargos; 2 cartas de recomendação (3 preferível) de empregadores ou professores; 1 transcript oficial de cada instituição (internacionais: avaliação course-by-course NACES obrigatória antes da revisão); GMAT/GRE opcional; teste de inglês; taxa US$30"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 125,
+  "fontes": [
+   "https://wertheim.fsu.edu/msba"
+  ],
+  "observacoes": "Página oficial do MS-BA (2026-27) confirma DET 125, TOEFL/IELTS/PTE, tuition com fees (US$1,278.04/crédito não residente, total US$42,175; residente US$15,818), 33 créditos em 3 semestres lock-step, prazos 15 jan (prioridade/assistantship) e 1 mar. A dispensa automática de GMAT por GPA não aparece na página atual -- texto simplificado para 'opcional'. Empregabilidade/salário não publicados na página do programa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "USF",
+   "Estado": "FL",
+   "Cidade": "Tampa"
+  },
+  "updates": {
+   "Nome Oficial do Programa": "MS in Artificial Intelligence in Business & Enterprise Integration",
+   "Formato": "Presencial (in-person e full-time)",
+   "Duração (meses)": 14,
+   "Início": "Fall 2027 (primeira turma, sujeita a aprovação da Commission on Colleges and Universities)",
+   "Destaques Currículo": "10 disciplinas / 30 créditos, presencial em Tampa; data analytics com GenAI, machine learning e deep learning, pipelines GenAI e RAG, Agentic AI e desenho de processos, deploy escalável, governança/segurança de AI, tendências (MCP, A2A, LangGraph, vector databases, LLMOps, LoRA); capstone: blueprint e protótipo de integração de AI; duração 12-16 meses; trilha irmã 'Digital Transformation' é 100% online (US$730/crédito)",
+   "Testes Inglês Aceitos": "TOEFL iBT 79 (antes de 21/jan/2026) ou 4.5 (nova escala) / IELTS 6.5 / Duolingo 110 / PTE-A 53 / Cambridge B2 First 176 / TOEFL Essentials 8.5 (mínimos da USF para pós-graduação; o programa pode exigir mais)",
+   "Deadline Aplicação": "Verificar -- programa novo (primeira turma Fall 2027), sem prazo publicado na página oficial"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://www.usf.edu/business/graduate/ms-ai-business-enterprise-integration/index.aspx",
+   "https://www.usf.edu/business/graduate/ms-ai-business/index.aspx",
+   "https://www.usf.edu/admissions/international/admission-information/graduate/academic-requirements.aspx"
+  ],
+  "observacoes": "ALERTA: a trilha presencial 'Enterprise Integration' tem início previsto para Fall 2027 e ainda está 'sujeita a aprovação' -- programa novo, sem outcomes, sem histórico de admissão; STEM (CIP 11.0501) não reconfirmado na página nova. Tuition confirmada: US$1,030.20/crédito fora do estado (US$30,906) e US$466.34 residente (US$13,990). DET 110 é o mínimo geral da USF para pós-graduação (programa não lista exigência própria). Catálogo (cloud.usf.edu) carrega via JS e não pôde ser lido; GMAT/GRE, cartas e prazos seguem não confirmados."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UCF",
+   "Estado": "FL",
+   "Cidade": "Orlando"
+  },
+  "updates": {
+   "Business School": "Barry S. Miller College of Business (Department of Economics)",
+   "Destaques Currículo": "9 disciplinas / 30 créditos, full-time (1 ano / 3 termos) ou part-time (2 anos / 5 termos, novo a partir de Fall 2026); ferramentas de software, matemática e métodos estocásticos para analytics, data visualization, data wrangling, microeconomia aplicada; capstone em 2 partes (projeto de pesquisa autodirigido); programa sediado no Department of Economics",
+   "Custo/Crédito (Intl) USD": 1276.48,
+   "Tuition Total (Intl) USD": 38294,
+   "Deadline Aplicação": "Internacional: 15 jan 2027 (também prazo para concorrer a GTA); Doméstico: 1 jul 2027 -- só admite para Fall",
+   "Rounds Aplicação": "Sem rounds; prazo único por categoria (intl 15 jan, doméstico 1 jul); candidatos a Graduate Teaching Assistantship devem aplicar até 15 jan",
+   "Documentos Necessários": "Resume; goal statement (500-1.000 palavras); 3 cartas de recomendação (professores e/ou supervisores atuais/anteriores); avaliação course-by-course com GPA pela WES ou Josef Silny (formação fora dos EUA) + transcript oficial e certificado de conclusão; TOEFL/IELTS/Duolingo; GRE/GMAT não exigido"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 125,
+  "fontes": [
+   "https://www.ucf.edu/degree/business-analytics-ms/",
+   "https://business.ucf.edu/degree/ms-business-analytics/",
+   "https://graduate.ucf.edu/2027-application-deadlines-and-requirements-masters/"
+  ],
+  "observacoes": "Tuition não residente atualizada: US$1,276.48/crédito (antes 1,194.05) → ~US$38,294 total; residente US$369.65 confirmado. DET 125 / TOEFL 91 / IELTS 7.0 confirmados na página oficial 2027. Deadlines Fall 2027: intl 15 jan, doméstico 1 jul. Escola renomeada para Barry S. Miller College of Business. Taxa de aplicação na base (US$31) não reconfirmada."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UCF (Professional)",
+   "Estado": "FL",
+   "Cidade": "Orlando"
+  },
+  "updates": {
+   "Nome Oficial do Programa": "Master of Science in Management (MSM), Business Analytics Track (Professional)",
+   "Business School": "Barry S. Miller College of Business",
+   "Deadline Aplicação": "Verificar -- admissões da trilha Business Analytics do MSM temporariamente suspensas (página oficial de prazos 2027)",
+   "Rounds Aplicação": "Não há: a trilha 'Management MSM, Business Analytics Track' aparece com 'This program has temporarily suspended admission' na página oficial de prazos e requisitos 2027 da UCF Graduate Studies",
+   "Testes Inglês Aceitos": "Padrão UCF para mestrados do MSM: TOEFL iBT 91 (antes de 21/jan/2026) ou 4.5 (nova escala) / IELTS 7.0 / Duolingo 125 (mínimos publicados para a trilha HR do mesmo MSM; trilha BA está com admissão suspensa)"
+  },
+  "det_aceito": "nao_confirmado",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://graduate.ucf.edu/2027-application-deadlines-and-requirements-masters/"
+  ],
+  "observacoes": "ALERTA: admissão temporariamente suspensa para 'Management MSM, Business Analytics Track' (UCF Graduate Studies, prazos 2027) -- não há ciclo aberto para Fall 2027; também não é o MS in Business Analytics (STEM) e sim um MS in Management, STEM não confirmado. Nenhum outro campo alterado."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Georgia Tech",
+   "Estado": "GA",
+   "Cidade": "Atlanta"
+  },
+  "updates": {
+   "Business School": "Interdisciplinar: H. Milton Stewart School of ISyE (sede), College of Computing e Scheller College of Business",
+   "Tamanho Turma": 85,
+   "Destaques Currículo": "Interdisciplinar (computação, engenharia, negócios); 3 trilhas: Computational Data Analytics, Business Analytics, Analytical Tools (troca livre); Applied Analytics Practicum; 36 créditos em 1 ano (3 semestres) ou 1,5 ano (4 semestres); turma 2026: 85 alunos, 32% internacionais",
+   "Custo/Crédito (Intl) USD": 1716,
+   "Custo/Crédito (Residente) USD": 1168,
+   "Caminho Tuition Residente": "Não -- programa premium com tarifa própria para 'Out-of-Country Residents' (US$61,774 em 3 semestres), acima até da tarifa non-Georgia (US$60,146); versão de 4 semestres: US$74,034 intl",
+   "Graduate Assistantships": "Sim -- dezenas de GTAs financiadas pelo MSA por 1 ou 2 semestres, valor aproximado > US$17,750/semestre para não residentes (> US$12,000 para residentes da Georgia); consideração automática, abertas a internacionais full-time; também há GRA/GTA em outras unidades do campus",
+   "Testes Inglês Aceitos": "TOEFL iBT 5 (nova escala) / IELTS Academic 7.5 / GT Language Institute 3; Duolingo NÃO aceito (não consta entre os testes aceitos)",
+   "Deadline Aplicação": "Prioritário: 1 jan 2027; Late: 1 mar 2027 -- mesmas datas para domésticos e internacionais (Fall 2027)",
+   "Rounds Aplicação": "Prioritário (1 jan, consideração plena; vagas limitadas) e Late (1 mar); aplicação abre ~17 ago; taxa US$105 (intl) / US$95 (EUA)",
+   "Documentos Necessários": "GRE ou GMAT (sem waiver; escores vencidos aceitos), transcripts de todas as instituições (avaliação IEE/Educational Perspectives/SpanTran recomendada), resume, Statement of Purpose (até 500 palavras), 3 cartas de recomendação, TOEFL/IELTS/GT Language Institute (internacionais), taxa de inscrição"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.analytics.gatech.edu/admissions",
+   "https://www.analytics.gatech.edu/admissions/tuition-and-funding",
+   "https://www.analytics.gatech.edu/inside-our-program/reports-statistics"
+  ],
+  "observacoes": "Tuition 2026-27 confirmada (US$61,774 intl / US$42,064 residente em 3 semestres, inclui program fee único de US$2,000); custo/crédito calculado = total/36. TOEFL agora 5 na nova escala; DET não aceito. Programa recebe >1.000 aplicações/ano para ~100 vagas (aceitação ~10%, estimativa não oficial, não gravada). Turma 2026: 85 alunos. Estatísticas de emprego 2025 não extraídas (filtro JS)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UGA",
+   "Estado": "GA",
+   "Cidade": "Athens"
+  },
+  "updates": {
+   "Tamanho Turma": 110,
+   "Custo/Crédito (Intl) USD": 1156,
+   "Custo/Crédito (Residente) USD": 542,
+   "Tuition Total (Intl) USD": 38136,
+   "Fees Adicionais USD": 1494,
+   "Taxa Empregabilidade %": 94,
+   "Salário Médio Pós USD": 88000,
+   "Principais Empregadores": "Contratantes 2025 (oficial): Deloitte Consulting, EY, EY-Parthenon, KPMG, PwC, McKinsey, BlackRock, Capital One, Truist, Regions, Synovus, Raymond James, Evercore, Visa, IBM, Booz Allen Hamilton, The Home Depot, Cox Enterprises, Equifax, Caterpillar, Eli Lilly, Koch Industries, GE Vernova, Epic Systems, AT&T, Georgia-Pacific, Inspire Brands, entre outros",
+   "GPA Médio Admitidos": 3.68,
+   "GMAT/GRE Obrigatório": "Waiver disponível só para quem estudou em instituição acreditada dos EUA (GPA ≥ 3.3 com B+ em cálculo e estatística, ou GPA ≥ 3.0 + 1 ano de experiência full-time; critérios próprios para alunos da Terry); internacionais formados fora dos EUA DEVEM enviar GMAT ou GRE (sem nota mínima); Executive Assessment não citado na página atual",
+   "Experiência Profissional": "Obrigatória: 1+ estágio e/ou experiência full-time (quem se formou há mais de 1 ano deve ter experiência full-time)",
+   "Testes Inglês Aceitos": "TOEFL ou IELTS conforme a UGA Graduate School: TOEFL iBT 80 (≥20 em speaking e writing; testes até 21/jan/2026) ou 4.5 na nova escala (≥4 em speaking e writing) / IELTS 6.5 (nenhuma banda abaixo de 6.0); Duolingo NÃO aceito",
+   "Deadline Aplicação": "Round 1: 5 nov 2026; Round 2: 15 fev 2027 (final para internacionais); Round 3: 15 abr 2027 (final geral; depois rolling até fechar a turma)",
+   "Rounds Aplicação": "3 rounds (decisões em 18 dez 2026, 2 abr 2027 e 2 jun 2027); internacionais só até o Round 2; taxa US$75",
+   "Documentos Necessários": "Resume de 1 página; 1 carta de recomendação obrigatória + 1 opcional (ao menos uma de supervisor); transcripts não oficiais; GMAT/GRE autodeclarado (obrigatório para formados fora dos EUA); TOEFL/IELTS autodeclarado; 2 respostas escritas curtas (career goals, technical experience) + resposta opcional; vídeo-ensaio opcional; taxa US$75",
+   "Entrevista": "Sim, só por convite (pode ser virtual)"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.terry.uga.edu/msba/admissions/",
+   "https://www.terry.uga.edu/msba/employment-stats/",
+   "https://www.terry.uga.edu/msba/admissions/class-profile/"
+  ],
+  "observacoes": "Tuition 2026-27 oficial: Out-of-Country US$38,136 + fees US$1,494 = US$39,630 (residente US$17,880 + 1,494); custo/crédito calculado = tuition/33. Deadlines Fall 2027 atualizados. IMPORTANTE: waiver de GMAT/GRE não vale para quem se formou fora dos EUA. Outcomes 2025: 94% empregados em 6 meses, média US$88,000 (salário + bônus). Turma 2027: 110 alunos, GPA mediano 3.68. Página principal do MSBA dá 403; dados de GA (até ~90% da turma) não reverificados. DET não aceito (só TOEFL/IELTS)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "NC State",
+   "Estado": "NC",
+   "Cidade": "Raleigh"
+  },
+  "updates": {
+   "Fees Adicionais USD": 3362,
+   "Taxa Empregabilidade %": 92,
+   "Salário Médio Pós USD": 103420,
+   "Principais Empregadores": "Turma de 2026 (relatório de 90 dias): Bank of America, Fifth Third Bank, Guidehouse, Beghou, Authority Brands, Merrick Bank, OneMain Financial, Safe-Guard, JPMorgan Chase, Truist, Wells Fargo, PNC, Ally, Cigna, Duke Health, Booz Allen Hamilton, Lowe's, Red Hat, RTX, RTI International, Daimler Trucks, Jacobs, entre outros",
+   "Rounds Aplicação": "Prioritário (prazo 1 nov 2026; entrevistas e triagem técnica em novembro; decisão em 4 dez; aceite até 15 jan) e Regular (rolling após 1 nov até preencher as vagas; turma fechada até início de maio). Taxa de US$95 para internacionais (US$85 doméstico), SEM isenção para internacionais"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://analytics.ncsu.edu/admissions/deadlines-and-dates/",
+   "https://analytics.ncsu.edu/admissions/tuition-and-fees/",
+   "https://analytics.ncsu.edu/wp-content/uploads/sites/501/2026/07/Employment-Report-2026.pdf",
+   "https://analytics.ncsu.edu/wp-content/uploads/sites/501/2026/08/MSA2026-Addendum.pdf"
+  ],
+  "observacoes": "Outcomes atualizados com a turma de 2026: 92% colocados em 3 meses, salário médio inicial US$103,420 (mediana base na graduação US$105,000; 70.5% colocados na formatura); lista de empregadores agora disponível. Tuition confirmada (US$59,679.06 não residente / US$30,642.68 residente, 3 semestres, já inclui required fees de US$3,362.34). Deadlines (1 nov / 15 fev intl / 1 abr) e 2 cartas confirmados. DET 110 mantido da base (página de pré-requisitos de inglês não reverificada nesta rodada)."
+ }
+]

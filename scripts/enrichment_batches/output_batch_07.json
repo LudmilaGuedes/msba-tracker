@@ -1,0 +1,257 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "TCU",
+   "Estado": "TX",
+   "Cidade": "Fort Worth"
+  },
+  "updates": {
+   "Destaques Currículo": "30 créditos em 11 meses (início em junho), presencial em Fort Worth; 19,5 créditos de core + 10,5 de eletivas; Data Analytics Capstone com projetos reais de clientes; 86% da turma entra direto da graduação e 56% não vem de business (Class of 2023)",
+   "Tuition Total (Intl) USD": 68663,
+   "Tuition Total (Residente) USD": 68663,
+   "Tipos de Bolsa": "Bolsas de mérito com consideração automática (inclusive internacionais) com base na aplicação e na entrevista, sem candidatura separada; Community Partners Scholarships (afiliados a organizações parceiras); GI Bill/Yellow Ribbon só p/ veteranos dos EUA; nenhum valor específico do MSBA publicado",
+   "GPA Mínimo": "Verificar",
+   "GMAT/GRE Obrigatório": "Opcional -- 'test scores optional for early applicants'; prontidão acadêmica pode ser demonstrada por coursework quantitativo, estágio/experiência e a aplicação como um todo",
+   "Matérias Pré-Requisito": "Proficiência em matemática básica (college algebra ou equivalente, nota C ou melhor); nenhum background em business exigido",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 100 / IELTS mín. 7.0 / PTE mín. 68 / Duolingo mín. 130 (mínimos da pós-graduação Neeley); dispensa p/ graduação em inglês em país de língua oficial inglesa ou 3 anos de estudo nos EUA",
+   "Deadline Aplicação": "Round 1: 1 out 2026; Round 2: 15 jan 2027; Round 3: 1 mar 2027; Round 4: 1 abr 2027; Round 5: 1 mai 2027; rolling após 1 mai (início jun 2027)",
+   "Rounds Aplicação": "5 rounds (1 out, 15 jan, 1 mar, 1 abr, 1 mai) + rolling após 1 mai; aplicar cedo recomendado p/ bolsas (limitadas) e p/ testes opcionais; taxa US$100",
+   "Documentos Necessários": "Aplicação online; transcripts (oficiais só se admitido; avaliação WES/NACES p/ diploma estrangeiro com tradução certificada); resume; ensaios; contato de até 3 recomendadores profissionais (cartas formais NÃO são aceitas); teste de inglês; entrevista por convite; após admissão: documentos financeiros p/ I-20"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://neeley.tcu.edu/degrees-programs/graduate/business-analytics.php",
+   "https://neeley.tcu.edu/admissions/graduate/admission-requirements.php",
+   "https://neeley.tcu.edu/admissions/graduate/tuition-fees.php",
+   "https://neeley.tcu.edu/admissions/graduate/scholarships-financial-aid.php",
+   "https://graduate.catalog.tcu.edu/colleges/business/masters/businessanalyticsms"
+  ],
+  "observacoes": "Início em JUNHO (Summer), 11 meses. Tuition 2026-27: 7,5 h x US$2,210 (summer 2026) + 22,5 h x US$2,315 (fall/spring) = US$68,663 + fees ~US$1,000/semestre (x3 = US$3,000) = 'aprox. US$71,663' publicado (o valor antigo de tuition incluía as fees). Custo/crédito 2289 é média. GPA Mínimo tinha texto numa coluna numérica: sem mínimo publicado, admissão holística -> 'Verificar'. Deadlines são do ciclo que começa em jun 2027. Salário US$81K = compensação total média (Class of 2023). Tamanho de turma 22 não reconfirmado."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Michigan",
+   "Estado": "MI",
+   "Cidade": "Ann Arbor"
+  },
+  "updates": {
+   "Início": "Summer (coorte começa no verão, orientação presencial obrigatória em junho)",
+   "Tamanho Turma": 50,
+   "Destaques Currículo": "35,75 créditos em 10 meses (Summer + Fall + Winter), só full-time e presencial em Ann Arbor; Consulting Studio (projeto de consultoria com empresa real); marca Ross top",
+   "Custo/Crédito (Intl) USD": 2015.75,
+   "Custo/Crédito (Residente) USD": 1875.89,
+   "Tuition Total (Intl) USD": 72063,
+   "Tuition Total (Residente) USD": 67063,
+   "Fees Adicionais USD": 2114,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas Ross MBAn por mérito acadêmico/liderança e necessidade financeira; pedido feito na seção de bolsas da própria aplicação (não afeta a admissão); decisão comunicada junto com a admissão; valores não publicados",
+   "Quão Realista (Intl)": "Moderada -- internacionais não são excluídos das bolsas Ross (mérito + necessidade), mas não há valores publicados; empréstimos federais indisponíveis para F-1 (só privados, alguns sem co-signer)",
+   "TA/RA Disponível": "Possível, mas não vinculado ao programa (GSRA/GSI/GSSA da universidade, considerados separadamente do financial aid)",
+   "Processo TA/RA": "Candidatura separada às vagas de Graduate Student Research Assistant / Instructor / Staff Assistant da U-M; não faz parte da admissão nem do pacote de bolsa",
+   "Caminho Tuition Residente": "Não (internacional paga a taxa non-Michigan; in-state só p/ residentes de MI/militares)",
+   "Graduate Assistantships": "GSRA/GSI/GSSA existem na U-M, mas raras para um mestrado de 10 meses; sem vagas específicas do MBAn",
+   "Taxa Empregabilidade %": 77,
+   "Salário Médio Pós USD": 87727,
+   "Principais Empregadores": "Capital One, Deloitte, EY Parthenon, PwC Strategy&, Microsoft, JP Morgan Chase, Stripe, General Motors, Ford Motor Credit, UBS, Chewy, AB InBev, Siemens Healthineers, United Airlines (Class of 2025)",
+   "GPA Médio Admitidos": 3.63,
+   "Experiência Profissional": "Não exigida (programa desenhado para recém-formados)",
+   "Matérias Pré-Requisito": "1 curso universitário de programação com crédito e nota C ou melhor (preferencialmente Python ou R), concluído até o início (preferência forte p/ já concluído; sem waiver por experiência); bacharelado em STEM, business, economia ou área quantitativa",
+   "Testes Inglês Aceitos": "TOEFL iBT / IELTS / Duolingo (DET) aceitos; página oficial atual não publica nota mínima (antes recomendava TOEFL 100+ / IELTS 7.0+ / DET 130+); teste feito até 2 anos antes do deadline; dispensa se a graduação inteira foi em inglês",
+   "Deadline Aplicação": "Round 1: 11 set 2026; Round 2: 23 out 2026; Round 3: 4 jan 2027 (final p/ internacionais fora dos EUA); Round 4: 19 fev 2027 (final p/ F-1 já nos EUA); Round 5: 2 abr 2027 (só domésticos); Round 6: 14 mai 2027",
+   "Rounds Aplicação": "6 rounds (coorte Summer 2027); internacional fora dos EUA pode aplicar só até o Round 3; só 1 round por ciclo; decisão ~5-8 semanas após o deadline; taxa US$100 (+US$50 por programa OYM adicional), isenção só p/ casos listados (ex.: país da lista ONU de menos desenvolvidos, Fulbright)",
+   "Documentos Necessários": "Transcripts (não oficiais na aplicação); avaliação WES ou ECE course-by-course obrigatória p/ diploma estrangeiro; resume; 2 ensaios (200-300 palavras); 1 recomendação (formulário online); GMAT/GRE salvo waiver (GPA ≥ 3.30); TOEFL/IELTS/DET; entrevista em vídeo Kira",
+   "Entrevista": "Sim -- entrevista assíncrona em vídeo (Kira Talent), por convite após a aplicação"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://michiganross.umich.edu/graduate/master-of-business-analytics/admissions/application-requirements",
+   "https://michiganross.umich.edu/graduate/master-of-business-analytics/admissions/tuition-financial-aid",
+   "https://michiganross.umich.edu/graduate/master-of-business-analytics/careers/employment-data",
+   "https://michiganross.umich.edu/graduate/master-of-business-analytics/admissions/class-profile",
+   "https://michiganross.umich.edu/graduate/master-of-business-analytics/admissions/faqs"
+  ],
+  "observacoes": "Programa começa no SUMMER (junho), não no Fall: p/ entrar em 2028 a coorte seria Summer 2028 (Round 1 ~set 2027). Datas gravadas são do ciclo Summer 2027. Tuition é da coorte Summer 2026 (35,75 créditos; por crédito calculado). Fees = US$614 obrigatórias + US$500/termo de taxa de estudante internacional x3. Empregabilidade = ofertas aceitas em 6 meses, Class 2025 (77,4% total; só 60,9% p/ estrangeiros). Salário = média base US$87.727. DET aceito sem mínimo publicado."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Kent State",
+   "Estado": "OH",
+   "Cidade": "Kent"
+  },
+  "updates": {
+   "Business School": "Ambassador Crawford College of Business and Entrepreneurship",
+   "Destaques Currículo": "30 créditos (7 disciplinas core: Analytics in Practice, Quantitative Management Modeling, Advanced Data Mining, Fundamentals/Advanced Machine Learning, Database Analytics; 2 eletivas de BA/CIS/CS/MATH); culminância com Internship ou Capstone; Python, R, SQL, Tableau, Power BI; dept. ISBA; versão online separada com o mesmo currículo",
+   "Tuition Total (Intl) USD": 32900,
+   "Tuition Total (Residente) USD": 17638,
+   "Rounds Aplicação": "Sem rounds numerados; revisão rolling ao longo do ciclo (recomenda aplicar cedo); após o deadline, só conforme vagas; admissão no Fall e no Spring"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://www.kent.edu/business/msba",
+   "https://catalog.kent.edu/colleges/be/isba/business-analytics-ms/",
+   "https://www.kent.edu/bursar/tuition-and-fees"
+  ],
+  "observacoes": "Requisitos, inglês (TOEFL 79/IELTS 6.5/PTE 58/DET 110), deadlines (intl 15 mar Fall / 1 out Spring), 2 cartas, GPA 3.0 e 'no GRE/GMAT' confirmados no catálogo e na página do programa. Tuition de pós é por bloco: 11-18 créditos/semestre = US$6,926.09 (OH) / US$12,922.06 (non-OH) por semestre; por crédito US$631 / US$1,176.05. Total recalculado p/ 2 semestres cheios + 6 créditos no summer (US$17,638 res. / US$32,900 intl); se feito em 3 semestres cheios seria ~US$20,778 / ~US$38,766. Nome da escola atualizado (Ambassador Crawford College). Sem dados de empregabilidade/bolsa específicos do MSBA publicados."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UTSA",
+   "Estado": "TX",
+   "Cidade": "San Antonio"
+  },
+  "updates": {
+   "Business School": "Carlos Alvarez College of Business",
+   "Nome Oficial do Programa": "Flexible Master of Science in Business Analytics",
+   "Formato": "Presencial (aulas noturnas no campus) com opções HyFlex/híbridas; versão 100% online separada",
+   "Duração (meses)": 12,
+   "Destaques Currículo": "Programa novo (primeira turma Fall 2026), desenhado com IA no centro; 30 créditos; disciplinas: Intro to Business Analytics and AI, Data Management and Analytics Integration, Data Visualization, Decision-Making in Business, Machine Learning for Business Analytics, Text Analytics; ferramentas GitHub, Python, R, Tableau, Power BI, SQL; concentrações opcionais (presencial) em Accounting, Economics, Finance ou Marketing; full-time ou part-time, 1-2 anos",
+   "Tipos de Bolsa": "Graduate Competitive Scholarship de US$1,000 para não-residentes (admitidos ou já matriculados), que também dá direito a tuition de residente no ano acadêmico; GTA, vagas de grader e GRA (conforme necessidade do departamento) em base competitiva",
+   "Principais Empregadores": "Allstate, Booz Allen Hamilton, Dell, Frost Bank, Halliburton, H-E-B, Methodist Healthcare, Northwestern Mutual, USAA, University Health, U.S. Army (lista de recrutadores de graduados em analytics da escola, não do MSBA novo)",
+   "GMAT/GRE Obrigatório": "Não (no GMAT/GRE required)",
+   "Matérias Pré-Requisito": "Nenhuma disciplina formal; bacharelado com preparo adequado; sem exigência de experiência prévia em programação ou quantitativa; alunos de fora de business bem-vindos",
+   "Testes Inglês Aceitos": "TOEFL iBT 79 (ou 4.0 na nova escala, testes a partir de 21 jan 2026) / IELTS 6.5 / Duolingo 100",
+   "Deadline Aplicação": "Fall 2027: prioridade internacional 1 jun 2027; doméstico 1 ago 2027",
+   "Rounds Aplicação": "Sem rounds; revisão contínua conforme as aplicações ficam completas, decisão em 4-6 semanas; ingresso só no Fall na tabela de deadlines 2027-28 (Spring/Summer 'Not Available'); taxa de aplicação isenta para quem participa de uma info session",
+   "Documentos Necessários": "Aplicação online da Graduate School; transcripts de todas as instituições (não oficiais na análise); avaliação de credencial FCSA/NACES p/ diploma estrangeiro; purpose statement; resume; 2 cartas de recomendação OPCIONAIS; teste de inglês"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 100,
+  "fontes": [
+   "https://future.utsa.edu/programs/master/business-analytics/",
+   "https://business.utsa.edu/news/2026/08/business-analytics.html"
+  ],
+  "observacoes": "ALERTA: o MSBA da UTSA foi relançado como programa novo ('Flexible MSBA', primeira turma Fall 2026) com aulas presenciais à NOITE e muitas disciplinas HyFlex/híbridas/online; aluno F-1 tem limite de disciplinas online, então confirmar com a escola se dá para fazer tudo presencial. Continua STEM. Duração publicada '1-2 anos, no seu ritmo' -> 12 meses como estimativa full-time (a coluna tinha texto). Tuition não reconfirmada (página de tuition da UTSA não carregou). Info session dá isenção da taxa de aplicação."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UT Arlington",
+   "Estado": "TX",
+   "Cidade": "Arlington"
+  },
+  "updates": {
+   "Duração (meses)": 16,
+   "Destaques Currículo": "33 créditos, aulas à noite (weeknights) em Arlington; big data analytics, data warehousing/mining, machine learning, estatística, web/social analytics; Capstone com empresas (ex.: Alcon) e Analytics Symposium anual; admissão aberta a qualquer graduação",
+   "Bolsas Disponíveis": "Não",
+   "TA/RA Disponível": "Possível, não específico do programa (assistantships/fellowships em departamentos pelo campus; p/ assistantship exige TOEFL Speaking 23 ou IELTS Speaking 7)",
+   "GMAT/GRE Obrigatório": "Sim p/ admissão incondicional (GMAT/GRE com verbal e quant ≥ percentil 50 + GPA ≥ 3.0 nos últimos 60 créditos); abaixo disso, revisão holística por comitê; waiver disponível só em condições limitadas",
+   "Testes Inglês Aceitos": "TOEFL iBT 79 (seções mín.: writing 22, speaking 21, reading 20, listening 16) / TOEFL PBT 550 / IELTS 6.5 / Duolingo 100; dispensa p/ bacharelado ou mestrado de instituição dos EUA",
+   "Deadline Aplicação": "Fall 2027: prioridade 15 mar 2027; final 1 ago 2027. Spring 2027: prioridade 15 ago 2026; final 15 dez 2026. Summer 2027: prioridade 15 fev 2027; final 23 abr 2027",
+   "Taxa Aplicação USD": 90,
+   "Rounds Aplicação": "Rolling (Fall, Spring e Summer) até ~1 semana antes das aulas; datas de prioridade p/ internacionais: Fall 15 mar, Spring 15 ago, Summer 15 fev; taxa US$90 internacional / US$75 doméstico",
+   "Documentos Necessários": "Aplicação ApplyUTA; transcripts oficiais de todas as instituições (avaliação course-by-course NACES/AICE aceita); GMAT/GRE; teste de inglês; personal statement (250-500 palavras), resume e cartas de recomendação (número não especificado) exigidos se não atender aos critérios de admissão incondicional; comprovação financeira p/ I-20"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 100,
+  "fontes": [
+   "https://www.uta.edu/academics/programs/business-analytics-ms",
+   "https://www.uta.edu/academics/schools-colleges/business/departments/information-systems-and-operations-management/master-of-science-business-analytics",
+   "https://www.uta.edu/academics/schools-colleges/business/graduate-business-services/gradbiz-admissions",
+   "https://www.uta.edu/academics/schools-colleges/business/graduate-business-services/cob-international",
+   "https://www.uta.edu/academics/schools-colleges/business/graduate-business-services/gradfaq",
+   "https://catalog.uta.edu/business/infosystems/graduate/",
+   "https://catalog.uta.edu/business/infosystems/graduate/ai-for-business-ms/"
+  ],
+  "observacoes": "ALERTA: o catálogo atual da UTA (ISOM - Graduate) NÃO lista mais o 'Business Analytics MS' entre os mestrados, só 'Artificial Intelligence for Business MS' (MSAIB, 33 créditos, STEM) e Information Systems MS; o fast track 'BBA/BS to Business Analytics MS' agora leva ao MSAIB, e o MSBA também sumiu da tabela de programas da página de admissões do College of Business. Parece que o MSBA foi substituído pelo MSAIB (mesmos critérios: GPA 3.0 nos últimos 60 créditos + GMAT/GRE percentil 50), mas as páginas de marketing ainda mostram o MSBA: confirmar com a escola. Critérios de GMAT, deadlines e taxa acima são do College of Business/MSAIB. 'Bolsas Disponíveis' corrigido para 'Não' (enum Sim/Não): não há bolsa de entrada p/ pós. Duração: 16 meses segundo a página do programa (a do departamento diz 17). Tuition só via Tuition Estimator (JS), não reconfirmada."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Houston",
+   "Estado": "TX",
+   "Cidade": "Houston"
+  },
+  "updates": {
+   "Formato": "Presencial (aulas noturnas; full-time ou part-time); versão 100% online separada",
+   "Duração (meses)": 18,
+   "Início": "Fall/Spring",
+   "Destaques Currículo": "36 créditos; 2 trilhas (Data Analytics ou Data Management); core em programação/Big Data, database tools, research design, frameworks de analytics; eletivas em Energy, Finance, Marketing, Healthcare, Supply Chain etc.; Capstone Practicum em 2 disciplinas com problema real de empresa; R e Python",
+   "Tipos de Bolsa": "Bolsas Bauer para domésticos E internacionais via aplicação única (bauer.uh.edu/invest/scholarships), sem deadline (quanto antes, mais bolsas disponíveis); ex.: Bauer Excellence Scholarship (~US$5,000; em bolsas competitivas ≥US$1,000 o aluno não-residente pode pagar tuition de residente, regra do Texas); GMAT/GRE competitivo ajuda na bolsa de mérito",
+   "Experiência Profissional": "Não obrigatória (FAQ oficial: sem mínimo de experiência), embora 'strongly preferred' na página principal; turma de Fall 2025 teve média de 0,3 ano de experiência",
+   "Deadline Aplicação": "Fall 2027: internacional 1 mai 2027; doméstico 1 jul 2027. Spring 2027: internacional 1 out 2026; doméstico 1 dez 2026 (aplicação p/ Fall 2027 abre 1 ago 2026)",
+   "Rounds Aplicação": "Sem rounds; revisão contínua (resposta em 2-3 semanas após aplicação completa; selecionados são convidados p/ entrevista); confirmation fee até 31 mai (intl, Fall); taxa US$80 intl / US$50 doméstico (isenta p/ veteranos)",
+   "Documentos Necessários": "Aplicação online (Applyweb); transcripts (cópia na aplicação, oficial se admitido; avaliação de credencial feita pela própria UH, externas não aceitas; exige bacharelado de 4 anos); resume; goal statement (1-2 páginas); GMAT/GRE (ou pedido de waiver); 2 cartas de recomendação (página de admissão; o FAQ ainda cita 3); teste de inglês; entrevista por convite"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://www.bauer.uh.edu/ms-business-analytics/",
+   "https://www.bauer.uh.edu/ms-business-analytics/apply/",
+   "https://www.bauer.uh.edu/ms-business-analytics/faqs.php",
+   "https://www.bauer.uh.edu/ms-business-analytics/curriculum.php"
+  ],
+  "observacoes": "DET mín. 105, TOEFL 100, IELTS 6.5 confirmados (mínimos do Bauer). Conflito: página de admissão pede 2 cartas, FAQ diz 3 (gravado 2). Duração tinha texto numa coluna numérica: 18 meses como estimativa full-time de 36 créditos (pode ser feito part-time). Aulas à noite, com algumas disciplinas online (ex.: Basic Programming): confirmar se atende às regras do F-1. Página de custo do programa fora do ar (404): tuition não reconfirmada. UH não aceita bacharelado de 3 anos."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Texas State",
+   "Estado": "TX",
+   "Cidade": "San Marcos"
+  },
+  "updates": {
+   "Formato": "Presencial (aulas noturnas presenciais/tech-enhanced em San Marcos e Round Rock); também há opção online",
+   "Início": "Fall/Spring",
+   "Destaques Currículo": "30 créditos, full-time ou part-time; opção thesis ou non-thesis (internship pode ser eletiva); concentrações Applied AI ou Supply Chain (só San Marcos); visualização, analytics preditivo/prescritivo, machine learning, banco de dados, data warehousing, scientific computing, query languages",
+   "GPA Mínimo": "Verificar",
+   "GMAT/GRE Obrigatório": "Obrigatório (GMAT ou GRE general, scores competitivos); waiver do MSDAIS só com base em pós-graduação já concluída (mestrado ou superior), via formulário próprio após aplicação completa",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 78 (L19/R19/S19/W18) / IELTS Academic mín. 6.5 (6.0 por módulo) / PTE mín. 52 / Duolingo mín. 110 / TOEFL Essentials mín. 8.5; sem admissão condicional abaixo disso",
+   "Deadline Aplicação": "Fall prioridade: 1 fev 2027 (intl e EUA); Fall standard: 1 jun 2027 (intl) / 1 ago 2027 (EUA); Spring prioridade: 1 set; Spring standard: 1 out (intl) / 1 nov (EUA)",
+   "Rounds Aplicação": "Prioridade + Standard (sem rounds numerados); o prazo de prioridade garante análise inicial e elegibilidade a bolsas, fellowships e assistantships; depois é rolling conforme vagas; taxa US$90 p/ credenciais internacionais (US$55 doméstico)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://www.gradcollege.txst.edu/programs/msdais.html",
+   "https://www.mccoy.txst.edu/graduate/admissions/gmat-gre/waiver.html",
+   "https://www.mccoy.txst.edu/graduate/admissions/gmat-gre/waiver/msdais.html"
+  ],
+  "observacoes": "Requisitos, inglês (DET 110), 2 ensaios + 3 cartas, taxa US$90 e deadlines confirmados na página da Graduate College. Conflito do waiver resolvido: o formulário oficial do MSDAIS só dá waiver com pós-graduação concluída (a página geral do McCoy menciona waivers por GPA em outros programas). GPA Mínimo tinha texto numa coluna numérica: página pede só 'GPA competitivo' (mínimo geral 2.75 não confirmado) -> 'Verificar'. Aulas à noite com parte tech-enhanced/online: confirmar carga presencial p/ F-1. Concentração chama-se 'Applied AI'. A partir do Spring 2027, Round Rock só admite no Fall. Tuition não reconfirmada (site de tuition fora do ar)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Illinois Tech",
+   "Estado": "IL",
+   "Cidade": "Chicago"
+  },
+  "updates": {
+   "Formato": "Presencial (aulas principalmente à noite e aos sábados, campus de Chicago)",
+   "Destaques Currículo": "30 créditos (10 disciplinas): Strategic Management, Business Statistics, Financial Statement Applications, Analytics for Decision Making, Database Design and SQL, Visual Analytics (Tableau), Predictive Analytics, Project Management + 2 eletivas (Social Media Marketing Analytics, AI, Time Series, Agile...); disciplinas compartilhadas com o MS Marketing Analytics; 12-16 meses full-time",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 (15 por seção; testes a partir de 21 jan 2026: 4.5 geral e por seção) / IELTS 6.5 (6.0 por seção) / Duolingo 115 (110 por subscore) -- mínimos da Graduate Admission da Illinois Tech; abaixo disso, possível admissão condicional",
+   "Deadline Aplicação": "Round 1: 31 jan 2027 (priority 1); Round 2: 15 abr 2027 (priority 2); Round 3: 15 jun 2027 (internacional fora dos EUA) / 15 jul 2027 (doméstico e internacional já nos EUA)",
+   "Documentos Necessários": "Transcripts e diploma (PDF do original); CV/resume; professional statement (statement of purpose); teste de inglês; carta de recomendação não listada na página do MSBA (regra geral da Illinois Tech: na maioria dos mestrados 1 carta, conforme o programa); após depósito, comprovação financeira p/ I-20"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://www.iit.edu/academics/programs/business-analytics-ms",
+   "https://www.iit.edu/student-accounting/tuition-and-fees/future-tuition-and-fees/stuart-school-business",
+   "https://www.iit.edu/stuart/admission-aid/scholarships-and-aid",
+   "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines",
+   "https://www.iit.edu/admissions-aid/graduate-admission/how-apply",
+   "https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements"
+  ],
+  "observacoes": "Tuition 2026-27 confirmada: US$1,925/crédito (Stuart); fees ~US$925/semestre (activity US$125 + student service US$800) e seguro saúde US$2,510 batem com o que já estava. Mérito automático na admissão e ajuda por necessidade possível p/ internacionais (confirmado). Prazo de prioridade de 31 jan garante consideração p/ bolsas e assistantships departamentais. CONFLITO na taxa de aplicação: a tabela oficial de fees do Stuart 2026-27 lista 'Application Fee US$100', mas a base marcava US$0 (política sem taxa); não alterei, confirmar no portal ao aplicar. Aulas à noite/sábado (programa pensado também p/ quem trabalha)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Florida Atlantic University (FAU)",
+   "Estado": "FL",
+   "Cidade": "Boca Raton"
+  },
+  "updates": {
+   "Formato": "Presencial (aulas em dias de semana no campus de Boca Raton); versões Professional (noturna/híbrida) e online são programas separados",
+   "Destaques Currículo": "30 créditos (10 disciplinas de 3 créditos), STEM com ênfase em Inteligência Artificial; extrair, curar, analisar, minerar e visualizar dados estruturados e não estruturados; Big Data e Blockchain; ferramentas Excel, Tableau, Power BI, SQL, Python, SAS; dept. ITOM; voltado a recém-formados (12 meses full-time fast-track ou 2,5 anos part-time)",
+   "GMAT/GRE Obrigatório": "Obrigatório (GMAT Focus mín. 495 ou GRE verbal+quant mín. 295, até 5 anos); waiver automático com GPA ≥ 3.3 nos últimos 60 créditos da graduação"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://business.fau.edu/masters-phd/business-analytics/index.php",
+   "https://business.fau.edu/masters-phd/business-analytics/traditional/index.php",
+   "https://business.fau.edu/masters-phd/admissions-mastersphd/",
+   "https://business.fau.edu/masters-phd/admissions-mastersphd/tuition-financial-aid/"
+  ],
+  "observacoes": "Poucas mudanças: GMAT/GRE (495 / 295) e waiver por GPA ≥ 3.3 nos últimos 60 créditos confirmados na página de admissões do College of Business (a menção a waiver por pós-graduação prévia não foi reconfirmada e saiu do texto). GPA mínimo 3.0 é nos últimos 60 créditos. DET 110 mantido da rodada anterior (página de admissões do College of Business), não reconfirmado nesta rodada. Tuition, deadlines e taxa não reconfirmados (sem página de tuition específica do programa). Assistantships: indicar interesse na aplicação (confirmado)."
+ }
+]

@@ -1,0 +1,313 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "University of New Hampshire",
+   "Estado": "NH",
+   "Cidade": "Durham"
+  },
+  "updates": {
+   "Início": "Fall (agosto); Spring só para alunos do Accelerated Masters da UNH",
+   "Destaques Currículo": "36 créditos (12 cursos) em termos de 8 semanas; 9-10 meses full-time; STEM (OPT até 36 meses); analytics descritivo/preditivo/prescritivo + IA/LLMs/agentes; capstone com empresa real (Big Data and AI); opção empilhável MBA+MSBA em 2 anos",
+   "Total Créditos": 36,
+   "Tuition Total (Intl) USD": 38700,
+   "Tuition Total (Residente) USD": 28800,
+   "Fees Adicionais USD": 2560,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Paul College Graduate Scholarships: Academic Excellence (GMAT/GRE e/ou GPA; MSBA elegível), USNH Alumni, Stay Near Go Far (só residentes da Nova Inglaterra); valores não publicados; formulário de bolsa separado",
+   "Quão Realista (Intl)": "Moderada: Academic Excellence aberta a todos os admitidos do MSBA (envio de GMAT/GRE ajuda), mas valores não divulgados e comitê considera necessidade financeira",
+   "GMAT/GRE Obrigatório": "Opcional (GMAT/GRE podem reforçar a candidatura e contam para bolsas do departamento)",
+   "Matérias Pré-Requisito": "Matemática universitária (Finite Math e/ou Cálculo 1-2) e introdução à estatística obrigatórias; álgebra linear e uma linguagem de programação (Python, R, SQL etc.) tornam o candidato mais competitivo",
+   "Testes Inglês Aceitos": "TOEFL iBT 80; IELTS 6.5; PTE 59; Duolingo 120 (mínimos da UNH Graduate School); abaixo do mínimo pode entrar como Bridge Master's",
+   "Deadline Aplicação": "Fall: 1 jun 2027 (prazo final; sem rounds); Spring 10 jan só para alunos do Accelerated Masters",
+   "Taxa Aplicação USD": 65,
+   "Rounds Aplicação": "Sem rounds; revisão até o prazo de 1 jun; depósito de matrícula US$500 (abatido da tuition)",
+   "Documentos Necessários": "Formulário online; transcripts (tradução para inglês); 2 cartas de recomendação; personal statement; resume; teste de inglês; GMAT/GRE opcional",
+   "Experiência Profissional": "Não exigida",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://paulcollege.unh.edu/program/ms/business-analytics",
+   "https://gradschool.unh.edu/admissions/test-scores",
+   "https://www.unh.edu/business-services/tuition-fees/graduate-tuition-fees/graduate-programs-business-analytics-data-science",
+   "https://paulcollege.unh.edu/graduate-admissions/scholarships"
+  ],
+  "observacoes": "Tuition 2026-27: US$800/crédito (NH) e US$1,075 (out-of-state/intl) x 36 créditos; fees = US$1,280/semestre (tecnologia + mandatory) x 2 semestres; seguro saúde obrigatório não somado. Página do programa diz 10 meses no resumo e 9 meses no texto. Página do programa cita só TOEFL/IELTS 'or equivalent', mas a Graduate School lista Duolingo 120 como aceito. Sem dados publicados de empregabilidade/turma."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Hofstra University",
+   "Estado": "NY",
+   "Cidade": "Hempstead"
+  },
+  "updates": {
+   "Destaques Currículo": "30 créditos (MS da Zarb); STEM (OPT até 36 meses); Depto. de Information Systems & Business Analytics; campus a ~40 km de NYC; tuition oficial 2026-27 US$1,868/crédito",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 1868,
+   "Custo/Crédito (Residente) USD": 1868,
+   "Tuition Total (Intl) USD": 56040,
+   "Tuition Total (Residente) USD": 56040,
+   "Fees Adicionais USD": 870,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas de mérito avaliadas automaticamente na admissão (valores não publicados); GMAT/GRE forte pode render bolsa adicional; bolsas departamentais via chair/Dean's Office",
+   "Quão Realista (Intl)": "Moderada: avaliação de mérito automática na admissão inclui internacionais, mas valores não divulgados",
+   "TA/RA Disponível": "Sim (graduate assistantships administrativas; algumas com tuition waiver, outras só stipend/hora)",
+   "Processo TA/RA": "Candidatura a vagas em hofstra.edu/jobs (Student Jobs) após ser aceito como aluno matriculado",
+   "Graduate Assistantships": "Posições part-time em escritórios administrativos/serviços estudantis; pacote pode incluir tuition waiver ou stipend",
+   "GMAT/GRE Obrigatório": "Waiver disponível (não exigido com GPA de graduação ≥ 3.2 ou pelo histórico acadêmico/profissional; nota forte ajuda em bolsa)",
+   "Testes Inglês Aceitos": "TOEFL 80; IELTS 6.5; PTE 53; iTEP 4; Duolingo 120 (aceito como alternativa)",
+   "Deadline Aplicação": "Rolling (sem prazo fixo publicado para o MS); para internacionais, aplicar cedo (sugestão: até jan-mar 2028 para Fall 2028, por causa do I-20/visto)",
+   "Rounds Aplicação": "Rolling admissions; sem rounds",
+   "Documentos Necessários": "Graduate Business Application online; transcripts (não oficiais na análise); resume; teste de inglês; GMAT/GRE se não houver waiver; cartas de recomendação não listadas na página da Zarb",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://www.hofstra.edu/graduate/programs/business/ms-programs/",
+   "https://www.hofstra.edu/info-systems-business-analytics/ms-business-analytics.html",
+   "https://www.hofstra.edu/graduate/international-students.html",
+   "https://www.hofstra.edu/tuition/",
+   "https://www.hofstra.edu/graduate/tuition-aid.html"
+  ],
+  "observacoes": "Tuition 2026-27 Zarb: US$1,868/crédito x 30 = US$56,040 (removida a obs. de agregador). Fees estimadas: 3 semestres com 8-11.99 créditos (University fee US$225 + Tech fee US$65 por termo) = US$870. Duolingo 120 aceito pela admissão internacional como alternativa. Taxa de aplicação e nº de cartas não confirmados em fonte oficial. Duração 18 meses mantida (não confirmada)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Fairfield University",
+   "Estado": "CT",
+   "Cidade": "Fairfield"
+  },
+  "updates": {
+   "Início": "Fall (setembro), Spring (janeiro) ou Summer (maio)",
+   "Destaques Currículo": "30 créditos; 12-24 meses (full ou part-time); 3 certificados empilháveis de 4 cursos (Business Intelligence, Business Analytics, Artificial Intelligence) que juntos formam o MSAIBA; Python, R, SQL, Tableau; IA generativa/agêntica, ML, AI Ethics & Governance; #2 MSBA em CT (U.S. News 2026); #13 EUA Best Value (QS)",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 1285,
+   "Custo/Crédito (Residente) USD": 1285,
+   "Tuition Total (Intl) USD": 38550,
+   "Tuition Total (Residente) USD": 38550,
+   "Fees Adicionais USD": 1230,
+   "Taxa Empregabilidade %": 97,
+   "Principais Empregadores": "AlTi Tiedemann Global; Citi; CNA Insurance; Deloitte; The Hartford; iCapital; New York Life; Forester Capital (93,9% empregados no Nordeste dos EUA)",
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Waiver disponível (GPA ≥ 3.0, ou 2+ anos de experiência, ou certificação/pós; aprovado pela Senior Assistant Dean); referência geral da Dolan: GMAT ≥ 500",
+   "Testes Inglês Aceitos": "TOEFL 80 (recomendado); IELTS 6.5; Duolingo 105; PTE aceito (mínimo não publicado)",
+   "Deadline Aplicação": "Rolling (sem prazo fixo); para internacionais, aplicar cedo por causa do I-20/visto",
+   "Taxa Aplicação USD": 65,
+   "Rounds Aplicação": "Rolling admissions; sem rounds",
+   "Documentos Necessários": "Aplicação online; resume; personal statement; transcripts oficiais (internacionais avaliados por serviço aprovado, ex. WES/ECE); 2 recomendações (formulário online); teste de inglês; GMAT/GRE salvo waiver",
+   "Entrevista": "Só se solicitada (candidato é notificado após completar a aplicação)",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://www.fairfield.edu/academics/graduate-education/masters-and-doctoral-degrees/business-analytics/",
+   "https://www.fairfield.edu/admission-and-aid/apply/graduate-admission/dolan-programs-admission/",
+   "https://www.fairfield.edu/admission-and-aid/tuition-and-costs/graduate/index.html"
+  ],
+  "observacoes": "Tuition 2026-27: US$1,285/crédito x 30 = US$38,550. Fees estimadas (3 semestres): registration US$60/sem, activity US$65 (fall/spring), Red Stack US$24/crédito, commencement US$200 = ~US$1,230; seguro saúde da universidade obrigatório para internacionais (valor não somado). Empregabilidade 97% em 4 meses é da página do programa (sem salário publicado). Bolsas para pós não localizadas em fonte oficial do programa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Quinnipiac University",
+   "Estado": "CT",
+   "Cidade": "Hamden"
+  },
+  "updates": {
+   "Formato": "Presencial (também online assíncrono e formato flex híbrido)",
+   "Destaques Currículo": "33 créditos; STEM; modelos analíticos de IA, data mining, data warehousing, visualização, modelagem preditiva; Python, Tableau, SQL, R; concentrações (3 de 4 eletivas); AACSB",
+   "Total Créditos": 33,
+   "Tuition Total (Intl) USD": 38445,
+   "Tuition Total (Residente) USD": 38445,
+   "Fees Adicionais USD": 2370,
+   "GPA Mínimo": 3.0,
+   "GMAT/GRE Obrigatório": "Não (opcional; considerado se enviado)",
+   "Matérias Pré-Requisito": "Graduação/curso significativo em área quantitativa (contabilidade, economia, engenharia, finanças, matemática, estatística, computação etc.); recomendados cursos introdutórios de computação e estatística",
+   "Testes Inglês Aceitos": "TOEFL 90; IELTS 6.5; Duolingo 110; PTE 57 (página de admissão internacional de pós); waiver sob consulta",
+   "Deadline Aplicação": "Rolling (decisão em ~4 semanas); internacionais devem enviar tudo com antecedência para o I-20",
+   "Taxa Aplicação USD": 45,
+   "Rounds Aplicação": "Rolling admissions; entrada no Fall ou Spring",
+   "Documentos Necessários": "Aplicação online; transcripts oficiais (tradução/avaliação WES ou similar); personal statement; 1 carta de recomendação profissional; resume; teste de inglês; Statement of Financial Support e passaporte (para o I-20)",
+   "Experiência Profissional": "Não exigida, mas experiência e recomendações pesam na admissão",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://catalog.qu.edu/graduate-studies/business/business-applied-ai-business-analytics-ms/",
+   "https://www.qu.edu/schools/business/programs/online-masters-degree/ms-in-applied-ai-and-business-analytics/",
+   "https://grad.qu.edu/tuition-and-financial-aid/costs-and-budgets/",
+   "https://www.qu.edu/admissions/graduate/apply/international/"
+  ],
+  "observacoes": "Tuition 2026-27 presencial: US$1,165/crédito x 33 = US$38,445 (online é US$1,085/crédito). Fees para 2 semestres full-time: student fee US$450 + tecnologia US$430 + seguro acidente US$25 + meal plan commuter US$280 = US$1,185/semestre. Conflito de mínimos de inglês: catálogo do programa cita só TOEFL 90/IELTS 6.5; página de admissão internacional de pós aceita Duolingo 110 e PTE 57 (valor anterior 'Duolingo 105/TOEFL 85' parece desatualizado). COA oficial: living expenses US$14,922/semestre off-campus; transporte US$1,364/semestre. Duração e bolsas não confirmadas."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "St. John's University",
+   "Estado": "NY",
+   "Cidade": "Queens"
+  },
+  "updates": {
+   "Formato": "Presencial (campus Queens; também existe online)",
+   "Início": "Fall ou Spring (meados de janeiro)",
+   "Destaques Currículo": "30 créditos; STEM; núcleo: Business Analytics, Prescriptive Analytics & Spreadsheet Modeling, Predictive Analytics & Forecasting, Big Data & Data Mining, Applied Computer Language, Seminar in BA; eletivas incluindo Foundations of AI; aplicações em finanças, marketing e operações",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 1720,
+   "Custo/Crédito (Residente) USD": 1720,
+   "Tuition Total (Intl) USD": 51600,
+   "Tuition Total (Residente) USD": 51600,
+   "Fees Adicionais USD": 1500,
+   "GMAT/GRE Obrigatório": "Waiver disponível (todos os candidatos são considerados automaticamente para waiver; GPA < 3.25 pode ser reforçado com GMAT/GRE)",
+   "Experiência Profissional": "Não exigida (admitidos full-time têm em média 2 anos; esperam ao menos estágio/part-time)",
+   "Matérias Pré-Requisito": "Competência em pré-cálculo e uso básico de computador",
+   "Testes Inglês Aceitos": "TOEFL, IELTS, Duolingo, PTE ou Cambridge (mínimos não publicados; 'satisfactory'); admissão condicional com ELI Level 10 possível",
+   "Deadline Aplicação": "Round 1: 1 nov 2027 (decisão 15 dez); Round 2: 1 mar 2028 (decisão 1 abr); Round 3: 1 jun 2028 (decisão 1 jul); rolling depois conforme vagas",
+   "Taxa Aplicação USD": 70,
+   "Rounds Aplicação": "Prazos recomendados Fall: 1 nov, 1 mar, 1 jun + rolling; Spring: 1 set e 1 nov; internacionais devem aplicar bem antes; decisão em ~2 semanas após completar; depósito US$300",
+   "Documentos Necessários": "Aplicação online; statement of professional goals; resume; transcripts oficiais com avaliação course-by-course (NACES); 1 carta de recomendação (página do programa; página geral da Tobin cita 2); teste de inglês",
+   "Entrevista": "Só por convite do comitê",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.stjohns.edu/academics/programs/business-analytics-master-science",
+   "https://www.stjohns.edu/academics/schools/peter-j-tobin-college-business/peter-j-tobin-college-business-graduate-programs/graduate-program-application-requirements-and-information",
+   "https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/graduate-tuition",
+   "https://www.stjohns.edu/admission/tuition-and-financial-aid/tuition/university-fees",
+   "https://www.stjohns.edu/admission/international-admission/graduate-application-requirements"
+  ],
+  "observacoes": "Tuition 2026-27 Tobin: US$1,720/crédito x 30 = US$51,600. Fees por semestre: general US$170 + tecnologia US$255 + atividade US$75 = US$500; estimado 3 semestres = US$1,500. Duolingo aceito, mas nota mínima não publicada. Conflito: nº de cartas (1 na página do programa, 2 na página geral da Tobin). Datas de deadline são as recomendadas da Tobin (sem ano; projetadas para o ciclo Fall 2028). Duração, bolsas e empregabilidade não encontradas em fonte oficial."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Tulane University",
+   "Estado": "LA",
+   "Cidade": "New Orleans"
+  },
+  "updates": {
+   "Início": "Agosto (Fall)",
+   "Destaques Currículo": "30 créditos; 2 semestres (ou 3 com estágio); STEM; concentrações Accounting & Finance Analytics, Energy Analytics, Marketing & Management Analytics; ML, LLMs/APIs de IA, Python, R, SQL, Tableau; apresentação a executivos no fall e projeto de um semestre com empresa local no spring; #54 U.S. News BA 2026",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 2049,
+   "Custo/Crédito (Residente) USD": 2049,
+   "Tuition Total (Intl) USD": 61470,
+   "Tuition Total (Residente) USD": 61470,
+   "Fees Adicionais USD": 4714,
+   "Seguro Saúde (programa) USD": 3381,
+   "Aluguel Privativo/mês USD": 1753,
+   "Transporte/mês USD": 273,
+   "Outros Gastos/mês USD": 203,
+   "Custo Vida Total (programa) USD": 33899,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas de mérito da Freeman (consideração automática, sem aplicação separada) até 50% da tuition; critérios: experiência, notas/testes, liderança, envolvimento comunitário; Rowe Fund (OAS): empréstimo sem juros até US$15,000 para latino-americanos",
+   "Quão Realista (Intl)": "Moderada-Alta: internacionais são totalmente elegíveis às bolsas de mérito (até 50%); aplicar no Round 1 e enviar GMAT/GRE aumenta a chance; brasileira elegível ao empréstimo Rowe (OAS)",
+   "Ranking US News": 54,
+   "Taxa Empregabilidade %": 100,
+   "Principais Empregadores": "EY; Hancock Whitney; Four Seasons Hotels and Resorts; RNGD; Phelps; Vistra Energy; Kearney (lista geral de graduados da Freeman)",
+   "Testes Inglês Aceitos": "TOEFL, IELTS, PTE ou Duolingo (mínimos não publicados); waiver se a graduação foi em inglês",
+   "Deadline Aplicação": "Round 1: 1 nov 2027 (decisão até 15 jan); Round 2: 1 fev 2028 (decisão até 15 mar); Round 3: 1 mai 2028 (decisão 1 jun; prazo final para internacionais); rolling depois",
+   "Rounds Aplicação": "3 rounds (1 nov, 1 fev, 1 mai) + rolling; internacionais devem aplicar até 1 mai; bolsas de mérito consideradas automaticamente",
+   "Documentos Necessários": "Aplicação online (US$125); resume; 1 essay; 1 carta de recomendação; transcripts; avaliação document-by-document com GPA (NACES, ex. WES/ECE); teste de inglês; Affidavit of Support e comprovação financeira; GMAT/GRE opcional",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://freeman.tulane.edu/graduate/master-business-analytics",
+   "https://freeman.tulane.edu/graduate/master-business-analytics/admissions",
+   "https://freeman.tulane.edu/graduate/master-business-analytics/admissions/tuition-and-aid",
+   "https://freeman.tulane.edu/graduate-admissions/international-students"
+  ],
+  "observacoes": "Corrigido Total Créditos 36 -> 30 (página oficial: 30 credit hours). Tuition MANA: US$2,049/crédito x 30 = US$61,470 + fees obrigatórias US$4,714 (total US$66,184). COA oficial 11 meses: room & board US$19,284 (lançado ~US$1,753/mês em aluguel, inclui alimentação), transporte US$3,006 (~US$273/mês), misc US$2,228 (~US$203/mês), livros US$1,500, computador US$2,500, seguro US$3,381; Custo Vida Total = room&board + transporte + misc + livros + computador + seguro = US$33,899. Empregabilidade 100% em 3 meses (turma 2025); salário médio não visto. Duolingo aceito, sem nota mínima publicada."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Emory University",
+   "Estado": "GA",
+   "Cidade": "Atlanta"
+  },
+  "updates": {
+   "Início": "Julho",
+   "Destaques Currículo": "Opções de 10 meses (tuition US$69,900 + fees US$12,674 = US$82,794) ou 16 meses (US$90,760, +9 créditos, com estágio); 4 trilhas: AI in Business, Business Analytics, Marketing Analytics, Supply Chain Analytics; ML, IA, cloud analytics, visualização; Analytics Practicum com empresa; STEM; para pouca ou nenhuma experiência; #16 Employability (QS 2027)",
+   "Tuition Total (Intl) USD": 69900,
+   "Tuition Total (Residente) USD": 69900,
+   "Fees Adicionais USD": 12674,
+   "Seguro Saúde (programa) USD": 5588,
+   "Custo Vida Total (programa) USD": 31242,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas de mérito da Goizueta (Business Fund for Excellence) de 10-60% de tuition e fees, sem aplicação separada (enviar até Round 3); named scholarships exigem aplicação até Round 2",
+   "Quão Realista (Intl)": "Moderada-Alta: bolsas de mérito para todos os admitidos (10-60%); internacionais devem aplicar até Round 2 (prazo final intl e para consideração integral de bolsa)",
+   "Taxa Empregabilidade %": 88,
+   "Salário Médio Pós USD": 81842,
+   "Principais Empregadores": "McKinsey & Company (ex.: Business Analyst) e outras; cargos: Data Engineer, BI Engineer, Business Analyst, Product Manager, Senior Consultant (lista de empresas não publicada em texto)",
+   "GMAT/GRE Obrigatório": "Opcional",
+   "Testes Inglês Aceitos": "Duolingo 120; IELTS 7.0; PTE 68; TOEFL iBT 5.0 (nova escala) (níveis recomendados, não cortes automáticos); dispensa com graduação em inglês ou 2+ anos de trabalho em inglês",
+   "Deadline Aplicação": "Round 1: 14 out 2026 (ciclo atual, turma jul/2027; esperar data similar em out 2027 para jul/2028); Round 2: 13 jan 2027 (prazo final para internacionais e bolsas nomeadas); Round 3: 10 mar 2027; rolling até jun",
+   "Taxa Aplicação USD": 150,
+   "Rounds Aplicação": "Round 1 (out), Round 2 (jan, final para intl), Round 3 (mar), rolling até junho; aplicações abrem 1 ago; notificação R1 10 dez; depósito R1 13 jan",
+   "Documentos Necessários": "Aplicação online; resume 1-2 págs; transcripts (cópia escaneada na aplicação); 2 essays escritos (300 palavras) + 1 short answer (200) + video essays; 2 cartas de recomendação; teste de inglês se aplicável; GMAT/GRE opcional",
+   "Entrevista": "Sim, por convite após análise do dossiê",
+   "Experiência Profissional": "Não exigida (programa para 0-3 anos de experiência)",
+   "Dificuldade Entrada": "Moderada-Alta"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://goizueta.emory.edu/msba",
+   "https://goizueta.emory.edu/msba/admissions/application",
+   "https://goizueta.emory.edu/msba/admissions/tuition",
+   "https://goizueta.emory.edu/msba/career"
+  ],
+  "observacoes": "Corrigido Tuition Total: US$82,794 era tuition + fees; tuition 10 meses = US$69,900 (fees obrigatórias US$12,674 em coluna própria). COA oficial 10 meses: living US$30,148, livros US$386, estacionamento US$708 (somados em Custo Vida Total = US$31,242), seguro US$5,588. Emprego: 88% aceitaram oferta em 6 meses (média de 5 anos); salário base médio turma 2025 US$81,842 + bônus médio US$8,657. Início em julho: aplicar no ciclo que abre em ago/2027 para julho/2028. Ranking QS #16 é de Employability (não posição geral), não gravado em Ranking QS."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Duke University",
+   "Estado": "NC",
+   "Cidade": "Durham"
+  },
+  "updates": {
+   "Tamanho Turma": 150,
+   "Destaques Currículo": "10 meses intensivos (jul-abr: summer, fall, spring); 4 trilhas de indústria; data science + comunicação/pensamento crítico; STEM; para 0-3 anos de experiência; COA oficial 2026-27 (turma 2027): US$95,421 em cobranças da Duke + US$28,900 de vida/livros",
+   "Tuition Total (Intl) USD": 87800,
+   "Tuition Total (Residente) USD": 87800,
+   "Fees Adicionais USD": 3331,
+   "Seguro Saúde (programa) USD": 4290,
+   "Aluguel Privativo/mês USD": 1580,
+   "Transporte/mês USD": 238,
+   "Outros Gastos/mês USD": 500,
+   "Custo Vida Total (programa) USD": 28900,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Merit scholarships: todos os admitidos são considerados automaticamente (valor informado na carta de admissão; faixas não publicadas); empréstimos internacionais com e sem cosigner (até 100% do COA)",
+   "Quão Realista (Intl)": "Moderada: internacionais são considerados para mérito, mas valores não divulgados; aplicar cedo (Round 1) aumenta chance; empréstimo sem cosigner disponível",
+   "Taxa Empregabilidade %": 72.4,
+   "Salário Médio Pós USD": 94822,
+   "Principais Empregadores": "86 empregadores nos EUA e 30 fora (turma 2025), ex.: Amazon, AbbVie, ALM First, Angel Oak Capital; feiras com Accenture, Apple, Bloomberg, Microsoft, IBM, NVIDIA",
+   "GPA Médio Admitidos": 3.57,
+   "GMAT/GRE Obrigatório": "Sim (GMAT, GRE, SAT ou ACT obrigatório); waiver possível com GPA ≥ 3.4 (escala 4.0) + disciplinas quantitativas, pedido até 2 semanas antes do prazo",
+   "Experiência Profissional": "Não exigida; ideal até 3 anos full-time (média da turma: 24 meses)",
+   "Matérias Pré-Requisito": "Graduação preferencialmente STEM/business/economia; bom desempenho em matemática, estatística e computação",
+   "Testes Inglês Aceitos": "Duolingo (preferido pela Fuqua), TOEFL iBT, TOEFL nova escala 1-6 ou IELTS Academic (sem mínimo publicado)",
+   "Deadline Aplicação": "Round 1: 7 out 2026 (ciclo turma jul/2027; esperar data similar em out 2027); Round 2: 6 jan 2027; Round 3: 4 mar 2027; Round 4: 13 abr 2027 (internacionais devem aplicar nos Rounds 1 ou 2)",
+   "Taxa Aplicação USD": 125,
+   "Rounds Aplicação": "4 rounds; decisões: R1 8 dez, R2 8 mar, R3 23 abr, R4 21 mai; taxa ISENTA para não-americanos que enviam Duolingo; desconto de US$75 por participar de eventos; bolsas em todos os rounds, melhor chance cedo",
+   "Documentos Necessários": "Aplicação online; resume 1 página; essays; 1 carta de recomendação (profissional de preferência; no máximo 1); transcripts; GMAT/GRE/SAT/ACT (ou waiver); teste de inglês; entrevista por convite; depósito adicional de US$1,000 antes do início",
+   "Entrevista": "Sim, por convite (maioria por vídeo, com staff, alunos ou ex-alunos)",
+   "Dificuldade Entrada": "Alta"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.fuqua.duke.edu/programs/mqm-business-analytics/admissions-facts-dates",
+   "https://www.fuqua.duke.edu/programs/mqm-business-analytics/application-instructions",
+   "https://www.fuqua.duke.edu/programs/mqm-business-analytics/tuition-costs",
+   "https://www.fuqua.duke.edu/programs/mqm-business-analytics/financing-your-degree",
+   "https://www.fuqua.duke.edu/programs/mqm-business-analytics/class-profile",
+   "https://www.fuqua.duke.edu/sites/default/files/media/programs/mqmba/2025%20MQM%20Employment%20Report_Final.pdf"
+  ],
+  "observacoes": "Tuition atualizada para turma que inicia jul/2026 (Class of 2027): US$87,800 (antes 85,600). Fees = health fee 1,235 + MQM Association 500 + tech 1,000 + activity 40 + recreação 408 + services 28 + transcript 120 = US$3,331; seguro US$4,290. COA 10 meses: moradia+utilities US$15,800 (US$1,580/mês), transporte US$2,380, misc US$5,000, comida US$4,920 (não alterado Mercado/mês), livros US$800. Emprego (relatório 2025): 72,4% com oferta até 6 meses (71,4% para quem tem autorização temporária, i.e. internacionais); salário médio US$94,822, mediana US$95,000; 82% da turma é internacional. Duolingo preferido e isenta a taxa, mas sem nota mínima publicada."
+ }
+]

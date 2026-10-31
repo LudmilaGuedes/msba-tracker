@@ -1,0 +1,273 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "Virginia Tech",
+   "Estado": "VA",
+   "Cidade": "Blacksburg"
+  },
+  "updates": {
+   "Início": "Julho (Summer II, com curso online de estatística gerencial; aulas presenciais a partir do Fall)",
+   "Deadline Aplicação": "Round 1: 1 nov 2026 (Early Action); Round 2: 1 fev 2027 (final internacional); 1 mar 2027 (final doméstico); aplicações tardias conforme vagas",
+   "Rounds Aplicação": "Avaliação rolling mensal; Early Action 1 nov 2026; final internacional 1 fev 2027; final doméstico 1 mar 2027 (para início em jul 2027); sem isenção de taxa (US$75)",
+   "Documentos Necessários": "Aplicação via Graduate School; vídeo introdutório de 2 min; essay de objetivos acadêmicos/profissionais; resume com 3 referências (contatos, SEM cartas de recomendação); transcripts (GPA mín. 3.0); TOEFL/IELTS (internacionais); GMAT/GRE não exigido; entrevista para qualificados",
+   "Tipos de Bolsa": "Assistantships via Center for Business Analytics/outros centros e departamentos (não garantidas); sem bolsa de mérito publicada para o MSBA-BA"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://msba.vt.edu/ba/admission.html",
+   "https://cba.pamplin.vt.edu/grads/faqs.html",
+   "https://www.bursar.vt.edu/content/dam/bursar_vt_edu/tuition/fall-26---spring-27/2026-2027%20Tuition%20Fee%20Rates%20with%20COA.pdf"
+  ],
+  "observacoes": "ALERTA: a página oficial de admissão afirma 'This program is not STEM certified' (sem OPT STEM de 24 meses). Tuition 2026-27 confirmada (US$928,25/h residente, US$1.865,50/h não-residente em Blacksburg) + taxa suplementar MSBA-BA de US$175/crédito (=US$5.250 em 30 créditos, já em Fees). Programa pede só TOEFL/IELTS; sem isenção de taxa de aplicação."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "VT Global BA",
+   "Estado": "VA",
+   "Cidade": "Blacksburg"
+  },
+  "updates": {
+   "Duração (meses)": 9,
+   "Destaques Currículo": "2 semestres full-time, 30 créditos/10 cursos: 5 core de MBA (BIT 5724 Managerial Statistics, contabilidade, comportamento organizacional, finanças, marketing) + BIT 5524/5534/5424 (BI, analytics, visualização) + capstone MGT 5905 + 1 eletiva internacional/liderança tech (ou study abroad); desde Fall 2025 no campus de Blacksburg; voltado ao pathway 3+1+1 com o NMIMS (Mumbai)",
+   "Deadline Aplicação": "Verificar -- a página oficial de application guidelines do MSBA-GBA foi removida (404, set/2026) e o site atual só descreve o pathway 3+1+1 com o NMIMS; não há candidatura geral publicada para 2027-28"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://masters.pamplin.vt.edu/globalbusinessanalytics.html",
+   "https://masters.pamplin.vt.edu/globalbusinessanalytics/about-our-program.html",
+   "https://masters.pamplin.vt.edu/globalbusinessanalytics/careers.html"
+  ],
+  "observacoes": "ALERTA: o programa parece ser restrito ao pathway 3+1+1 com o NMIMS (Índia) -- página de admissão removida e site só fala do pathway; confirmar por e-mail antes de considerar. STEM não confirmado (o MSBA-BA irmão declara oficialmente 'not STEM certified'; provável que o GBA também não seja). Tuition de US$1.000/crédito (flat) só aparece em snippet de busca da página removida; mantido. Graduate School da VT aceita só TOEFL/IELTS para pós."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UT Knoxville",
+   "Estado": "TN",
+   "Cidade": "Knoxville"
+  },
+  "updates": {
+   "Início": "Summer (julho)",
+   "Custo/Crédito (Intl) USD": 1403.28,
+   "Custo/Crédito (Residente) USD": 645.31,
+   "Tuition Total (Intl) USD": 50518,
+   "Tuition Total (Residente) USD": 23231,
+   "Fees Adicionais USD": 3865,
+   "Tipos de Bolsa": "GAs de mérito financiadas pelo programa (waiver de tuition + fees obrigatórias + stipend; NÃO cobrem a program fee de US$167/crédito) e scholarships; consideração automática na admissão; também GAs de outras unidades via Graduate School",
+   "Quão Realista (Intl)": "Moderada-Alta -- 'over 70%' dos admitidos recebem alguma forma de funding (consideração automática, internacionais elegíveis), mas é competitivo e a GA não cobre a program fee; prioridade para aplicação completa até 15 dez",
+   "Testes Inglês Aceitos": "TOEFL iBT 80 / IELTS 6.5 (página do programa) / Duolingo 120 (Graduate School) -- válidos por 2 anos",
+   "Deadline Aplicação": "Round 1: 15 out 2026 (submissão, internacionais -- programa com início no verão); Round 2: 15 dez 2026 (conclusão da aplicação internacional + prioridade de bolsas/assistantships); 15 fev 2027 (final para consideração de funding, doméstico); 1 mai 2027 (consideração final, doméstico); rolling desde ago até lotar",
+   "Rounds Aplicação": "Rolling (abre em agosto até preencher a turma); internacionais: submissão até 15 out e aplicação completa até 15 dez (regra da Graduate School para início no verão); prioridade de bolsa/GA até 15 dez; taxa de US$70 (intl)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://haslam.utk.edu/business-analytics-statistics/msbai/",
+   "https://apply.haslam.utk.edu/www/documents/26-27%20Expenses/MSBA%20Start-Up%20Expenses%202026-2027.pdf",
+   "https://gradschool.utk.edu/future-students/office-of-graduate-admissions/applying-to-graduate-school/admission-requirements/testing-requirements/"
+  ],
+  "observacoes": "Custos 2026-27 do PDF oficial de start-up expenses (MSBA, 36 créd., Summer+Fall+Winter+Spring): não-residente = tuition US$44.506 + program fee US$6.012 (US$167/créd.) + university fees US$3.865 = US$54.384; residente = US$17.219 + 6.012 + 3.387 = US$26.619. Tuition Total aqui = tuition + program fee. DET: a página do programa cita só TOEFL/IELTS, mas remete à Graduate School, que aceita Duolingo 120 -- confirmar com o programa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Alabama",
+   "Estado": "AL",
+   "Cidade": "Tuscaloosa"
+  },
+  "updates": {
+   "GPA Mínimo": 3.3,
+   "Deadline Aplicação": "15 mar 2027 (FAQ oficial; recomendado para prioridade de bolsa/assistantship); 15 abr 2027 (deadline na seção de admissões da mesma página -- inconsistência do site oficial); início só no Fall",
+   "Destaques Currículo": "Coorte de 2 semestres (Fall/Spring), 30 créditos: BAN 500 BI & Data Visualization, MIS 501, MIS 502, OM 500, ST 541 (Fall); BAN 501 Predictive Modeling, OM 501, ST 542, BAN 580 Capstone + 1 eletiva (Spring); Python, R, SQL, SAS e Gurobi; projetos que cruzam disciplinas; voltado a recém-formados",
+   "Principais Empregadores": "Ex-alunos empregados em (página oficial): Adobe, Bank of America, Booz Allen, AstraZeneca, Belk, PNC, Regions, KeyBank, Ford, ExxonMobil, USAA, Georgia-Pacific, Chick-fil-A, Activision Blizzard, Cracker Barrel, P&G, Capgemini, Walmart; salário base médio US$82k + bônus médio US$8k (2022)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://manderson.culverhouse.ua.edu/programs/specialized-masters/business-analytics/",
+   "https://studentaccounts.ua.edu/tuition-rates/"
+  ],
+  "observacoes": "Tuition 2026-27 confirmada: graduate full-time (9-15h) US$5.959 residente / US$17.962 não-residente por semestre -> US$11.918 / US$35.924 em 2 semestres (valores atuais corretos). Página do programa lista DET 110, TOEFL 90, IELTS 7.0, PTE 59. Deadline: FAQ diz 15 mar, seção de admissões diz 15 abr (conflito no próprio site). GPA mínimo 3.3 com 'permission to continue' caso a caso."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UAH",
+   "Estado": "AL",
+   "Cidade": "Huntsville"
+  },
+  "updates": {
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 79 (escala antiga, nenhuma seção <19) ou 4 (nova escala) / IELTS mín. 6.0 (nenhuma banda <6.0) / Duolingo mín. 110 (nenhum subscore <105) / PTE Academic mín. 59 -- válidos por 2 anos; dispensado com diploma dos EUA"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://www.uah.edu/admissions/graduate/apply-for-admission/international-students",
+   "https://www.uah.edu/business/grad/degrees/analytics",
+   "https://www.uah.edu/business/grad/degrees/admission-requirements"
+  ],
+  "observacoes": "Dados atuais conferem com as páginas oficiais (GMAT mín. 500 / GRE 300 + AW 3.0 com critérios de waiver; programa voltado a profissionais, com aulas noturnas e opções online). DET 110 é o mínimo da Graduate School (sem requisito maior publicado pelo programa). Uma página do College of Business chama o curso de 'MSMS in Business Analytics' -- confirmar nomenclatura/CIP STEM no I-20. Sem tempo para reconferir tuition 2026-27 (mantida)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Louisville",
+   "Estado": "KY",
+   "Cidade": "Louisville"
+  },
+  "updates": {
+   "Tipos de Bolsa": "Bolsas de mérito (consideração automática, sem aplicação separada; GMAT 680+ abre bolsas adicionais); estágios pagos competitivos (~US$17-28/h); até 3 posições de GRA no College (muito competitivas)",
+   "TA/RA Disponível": "Sim, limitado (até 3 GRAs no College of Business, muito competitivas; GMAT/GRE 650+ preferido)",
+   "Processo TA/RA": "Declarar interesse no personal statement e na entrevista; seleção competitiva para até 3 GRAs; GMAT/GRE 650+ preferido",
+   "Graduate Assistantships": "Até 3 GRAs no College of Business (competitivo)",
+   "GMAT/GRE Obrigatório": "Opcional (GMAT/GRE não exigido; notas 680+ consideradas para bolsas adicionais)",
+   "Testes Inglês Aceitos": "TOEFL iBT 79 (escala antiga) ou 4.0 com mín. 4.0 por seção (nova escala, desde 21/jan/2026) / IELTS 6.5 (nenhuma banda <5) / Duolingo 105 / PTE Academic aceito -- mínimos da Graduate School, válidos por 2 anos",
+   "Deadline Aplicação": "1 mai 2027 (prioridade); 1 jun 2027 (internacional); 1 ago 2027 (doméstico) -- início no Fall",
+   "Rounds Aplicação": "Rolling com prazos: prioridade 1 mai; internacional 1 jun; doméstico 1 ago",
+   "Entrevista": "Opcional (candidato pode solicitar entrevista presencial ou por Zoom; recomendada para quem busca GRA)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://business.louisville.edu/academics-programs/graduate-programs/msba/",
+   "https://business.louisville.edu/academics-programs/graduate-programs/apply/tuition-and-costs/",
+   "https://business.louisville.edu/academics-programs/graduate-programs/apply/",
+   "https://business.louisville.edu/admission/graduate-programs-admissions/graduate-program-admissions-checklist",
+   "https://graduate.louisville.edu/admission/international/proficiency"
+  ],
+  "observacoes": "Tuition bundled US$34.500 (tuition + fees, independente de residência; garantida sem aumento para a coorte) confirmada. Programa STEM, 1 ano/13 meses, 30 créditos. DET 105 é mínimo da Graduate School (programa não publica mínimo maior). Deadline antes 'Rolling' -- agora com datas oficiais. Taxa de aplicação não reconfirmada."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "LSU",
+   "Estado": "LA",
+   "Cidade": "Baton Rouge"
+  },
+  "updates": {
+   "Formato": "Presencial -- ATENÇÃO: inscrições do MSA presencial FECHADAS (página oficial, set/2026); só o Online MSA aceita candidaturas (online não atende F-1)",
+   "Destaques Currículo": "MS in Analytics (Stephenson Dept. of Entrepreneurship & Information Systems), STEM, 36 créditos; business analytics, BI e TI; practicum com projetos reais",
+   "Principais Empregadores": "Accenture, Amazon, Bank of America, Blue Cross Blue Shield, CenturyLink, Chevron, Disney, Dow, Exxon, FedEx, General Motors, IBM, Microsoft, SAS (lista oficial do programa)",
+   "Testes Inglês Aceitos": "TOEFL iBT 79 / IELTS 6.5 / PTE 59 / Duolingo 110 / Michigan English Test 53 (mínimos da Graduate School; TOEFL/IELTS válidos por 2 anos)",
+   "Deadline Aplicação": "Verificar -- inscrições do presencial fechadas (set/2026); prazos antigos eram Fall 1 mai / Spring 1 out"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://www.lsu.edu/business/sdeis/ms-analytics.php",
+   "https://www.lsu.edu/graduateschool/admissions/international_admissions.php"
+  ],
+  "observacoes": "ALERTA: a página oficial diz 'On-campus Master of Science in Analytics program applications are closed. We are still accepting applications for the Online MSA' -- na prática o programa presencial não está aberto para o Fall 2028 (a confirmar com David Whitchurch). DET 110 aceito pela Graduate School. Demais campos não pesquisados a fundo dado o status."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Arkansas",
+   "Estado": "AR",
+   "Cidade": "Fayetteville"
+  },
+  "updates": {
+   "Bolsas Disponíveis": "Não",
+   "Tipos de Bolsa": "Nenhuma -- sem bolsas/fellowships para o MABA (confirmado oficialmente)",
+   "Deadline Aplicação": "15 fev 2027 (internacional, coorte full-time 'Fall 2027' -- aulas começam em meados de mai 2027); 1 jul 2027 (doméstico). Para a usuária (início 2028) o equivalente seria ~15 fev 2028 para a coorte que começa em mai 2028",
+   "Destaques Currículo": "30 créditos em 12 meses (Summer I → Fall → Spring → Summer II): ERP Fundamentals, Data Analytics Fundamentals, Data Management Systems, decision support/BI; practicum multi-semestre com dados reais; IA aplicada (AI agents, ética em IA) integrada aos cursos; acesso a IBM z15, Teradata, SAP, SAS Viya; laços corporativos em NWA (Walmart, Tyson, J.B. Hunt)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://walton.uark.edu/graduate-programs/admissions/tuition-cost.php",
+   "https://walton.uark.edu/graduate-programs/business-analytics-masters-degree/"
+  ],
+  "observacoes": "Tuition 2026-27 confirmada na página oficial Cost and Funding: US$741,88/h residente e US$1.974,78/h não-residente/internacional (tuition & fees); total US$22.256,40 / US$59.243,40 (out-of-state) / US$62.583,40 (internacional, inclui fees de orientação, semestrais e seguro anual). Valores atuais corretos. Coorte full-time começa em maio apesar do rótulo 'Fall'. DET 110 mantido (Graduate School)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Columbia",
+   "Estado": "NY",
+   "Cidade": "New York"
+  },
+  "updates": {
+   "Testes Inglês Aceitos": "TOEFL iBT / IELTS Academic / PTE Academic / Duolingo (DET) aceitos; sem mínimo formal, mas o IEOR indica que pode ser necessário melhorar o inglês com TOEFL ≤99 (escala antiga) ou ≤4.5 (nova escala), IELTS ≤7.5, PTE ≤68 ou DET ≤130 -- ou seja, alvo competitivo: TOEFL 100+/IELTS 8/PTE 69+/DET 135+; válidos por 2 anos",
+   "Deadline Aplicação": "15 jan 2027 (prioridade); 15 fev 2027 (regular) -- sem rolling; decisões meados/fim de maio",
+   "Rounds Aplicação": "2 prazos: prioridade 15 jan e regular 15 fev; aplicações revisadas após o prazo de prioridade (sem rolling admissions); isenção de taxa só para cidadãos/residentes dos EUA com necessidade financeira, militares/veteranos e programas especiais",
+   "GPA Mínimo": 3,
+   "GMAT/GRE Obrigatório": "Opcional -- GRE não exigido no ciclo 2026 (pode ser enviado; sem penalidade para quem não envia); confirmar política do ciclo 2027-28",
+   "Documentos Necessários": "Transcripts de todas as instituições; 3 cartas de recomendação (preferencialmente de professores; supervisores aceitos); personal statement (250-1.000 palavras); resume/CV; GRE opcional; teste de inglês; vídeo-entrevista obrigatória após o envio (3 perguntas aleatórias, 90s de preparo + 3 min de resposta); taxa US$85",
+   "Destaques Currículo": "Parceria Columbia Engineering (IEOR) + Columbia Business School; 36 créditos em 3 semestres; foco em modelagem, otimização e ferramentas de data science; capstone de consultoria com clientes reais e dados reais; STEM-certified (elegível a STEM OPT)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements",
+   "https://ieor.columbia.edu/masters-admissions-faqs",
+   "https://ieor.columbia.edu/graduate-programs-timelines",
+   "https://ieor.columbia.edu/tuition-and-fees",
+   "https://msba.engineering.columbia.edu/content/admissions"
+  ],
+  "observacoes": "DET aceito sem mínimo formal (IEOR sugere >130; alvo ~135+). Tuition US$2.584/crédito e US$93.024 (36 créd., 3 semestres) confirmada na página oficial do IEOR (valores atuais corretos). GPA 3.0 é 'preferido', não corte rígido. Rankings US News/QS atuais não reconferidos."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Fordham",
+   "Estado": "NY",
+   "Cidade": "New York"
+  },
+  "updates": {
+   "Fees Adicionais USD": 4743,
+   "Seguro Saúde (programa) USD": 5232,
+   "Deadline Aplicação": "Round 1: 9 out 2026 (decisão 4 dez 2026; taxa isenta + prioridade de bolsa); Round 2: 15 jan 2027 (decisão 19 mar 2027; prioridade de bolsa); Round 3: 19 mar 2027 (decisão 14 mai 2027; último prazo p/ internacionais que precisam de visto do exterior); Round 4: rolling (domésticos e internacionais já nos EUA)",
+   "Quão Realista (Intl)": "Alta -- bolsas de mérito de US$5.000-30.000 com consideração automática na aplicação (internacionais elegíveis), com prioridade nos Rounds 1 e 2; valores cobrem só parte da tuition (~US$69k)",
+   "Destaques Currículo": "30 créditos, 12 meses full-time (ou part-time), campus Lincoln Center (Manhattan); STEM designated; machine learning, visualização, analytics aplicada; internships em empresas de NYC; advising do Student Success Center"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://www.fordham.edu/student-financial-services/tuition-and-payments/graduate-tuition/gabelli-school-of-business/",
+   "https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/graduate-admissions/graduate-admissions-deadlines-/",
+   "https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/ms-programs/business-analytics/"
+  ],
+  "observacoes": "Tuition 2026-27 confirmada: US$2.303/crédito (entrantes a partir do Fall 2023) -> US$69.090 em 30 créditos. Fees Adicionais (antes texto, corrigido para número) = estimativa: General Fee US$128 + Technology Fee US$249 por termo x2 + International Student Service Fee US$50 + Enrichment Fee de novos MS US$3.939 (1º termo) = US$4.743 (sem seguro; termo de verão pode acrescentar fees). Seguro saúde = US$1.890 (Fall) + US$3.342 (Spring+Summer) = US$5.232, dispensável com seguro equivalente. Prazos Fall 2027 confirmados na página oficial."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Baruch CUNY",
+   "Estado": "NY",
+   "Cidade": "New York"
+  },
+  "updates": {
+   "Nome Oficial do Programa": "Master's in AI and Business Analytics (MSAIBA; antigo MS in Business Analytics)",
+   "Total Créditos": 34.5,
+   "Tuition Total (Intl) USD": 29497.5,
+   "Tuition Total (Residente) USD": 16635,
+   "Fees Adicionais USD": 539,
+   "Destaques Currículo": "Novo currículo desde Fall 2026 (34,5-38,5 créditos, conforme dispensa de STA 9708 Managerial Statistics): Practical AI for Business, Software Tools for Data Analysis, Database Management, Programming for BA, Applied Machine Learning, Decision Models, capstone BUS 9430; especializações em Data, Marketing, Operations & Decision ou Accounting Analytics; até 3 créditos de internship; STEM (OPT +24 meses); tuition mais barata de NYC",
+   "Deadline Aplicação": "Round 1: 1 mar 2027 (decisão 10 abr); Round 2: 1 abr 2027 (decisão 10 mai); Round 3: 1 mai 2027 (decisão 10 jun); Round 4: 1 jun 2027 (decisão 10 jul) -- Fall 2027 (candidaturas já abertas)",
+   "Rounds Aplicação": "4 rounds para Fall: 1 mar, 1 abr, 1 mai, 1 jun (decisões no dia 10 do mês seguinte); Spring: 1 out, 1 nov, 1 dez; documentos completos até o round para receber decisão na data"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://zicklin.baruch.cuny.edu/academic-programs/graduate/ms/masters-in-ai-and-business-analytics/",
+   "https://zicklin.baruch.cuny.edu/academic-programs/graduate/grad-admissions/application-process/application-deadlines/",
+   "https://adminfinance.baruch.cuny.edu/wp-content/uploads/sites/25/2026/04/Baruch_Graduate_TuitionandFees.pdf"
+  ],
+  "observacoes": "Programa renomeado para Master's in AI and Business Analytics (Fall 2026+), STEM confirmado. Créditos: 34,5 sem pré-requisito / 38,5 com STA 9708 (antes '30-33', texto em coluna numérica). Tuition 2026-27 (PDF oficial do bursar): não-residente/visto US$855/crédito -> US$29.497,50 (34,5 cr.) ou US$32.917,50 (38,5 cr.); residente NY full-time US$5.545/semestre (estimativa 3 semestres = US$16.635). Fees de matrícula US$179,60/semestre full-time (x3 = US$539). Duração não publicada (mantida 'Verificar'; ~3 semestres full-time)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U at Buffalo SUNY",
+   "Estado": "NY",
+   "Cidade": "Buffalo"
+  },
+  "updates": {
+   "Bolsas Disponíveis": "Sim",
+   "Fees Adicionais USD": 5122,
+   "Testes Inglês Aceitos": "TOEFL iBT 79 (mín. da universidade; comitê prefere 95) / IELTS 6.5 / PTE 55 / Duolingo 120 / Cambridge CPE/CAE 185 -- válidos na data de matrícula (2 anos)",
+   "Documentos Necessários": "Aplicação online (completar em até 30 dias) com taxa de US$100; resume em PDF com datas MM/AA; transcripts não oficiais (PDF) de todas as instituições (oficiais só se admitido); GMAT/GRE opcionais (test-optional); teste de inglês; cartas de recomendação e entrevista não exigidas na página oficial de admissão"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://management.buffalo.edu/degree-programs/master-of-science-ms/business-analytics-applied-ai/admissions.html",
+   "https://management.buffalo.edu/degree-programs/master-of-science-ms/business-analytics-applied-ai/admissions/ms-faq.html",
+   "https://management.buffalo.edu/degree-programs/master-of-science-ms/business-analytics-applied-ai.html"
+  ],
+  "observacoes": "Fees Adicionais (antes texto) convertido em número: comprehensive fees (US$724,50 verão + US$1.609,86 x2) + medical activity US$200 + international student fee US$100 x2 + career services fee US$389 x2 = ~US$5.122 (tabela oficial ainda com tarifas SUNY do fall 2024; valores 2026-27 devem ser maiores). A tabela oficial do programa (fall 2024) dá tuition não-residente US$31.056 (verão US$6.066 + 2 x US$12.495) -- tuition atual da planilha (US$39.556) mantida por ser de fonte mais recente. 'Bolsas Disponíveis' corrigido de 'Limitadas' para 'Sim' (só assistantships competitivas; ver Tipos de Bolsa). Deadlines não aparecem no HTML (carregados via script); prioridade 15 jan mantida. Programa STEM, 10 meses, início no verão."
+ }
+]

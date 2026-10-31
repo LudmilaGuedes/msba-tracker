@@ -1,0 +1,53 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "USC",
+   "Estado": "CA",
+   "Cidade": "Los Angeles"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": "Fall 2025",
+  "pct_com_teste": null,
+  "fontes": [
+   "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-business-analytics/class-profile"
+  ],
+  "observacoes": "Class profile oficial (Fall 2025: 254 alunos, GPA 3.60, 1.995 aplicações) não publica GMAT nem GRE; programa não exige teste."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UC Davis",
+   "Estado": "CA",
+   "Cidade": "Davis/San Francisco"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": "Q 166 (média, só quantitativo)",
+  "ano_turma": "Summer 2025",
+  "pct_com_teste": null,
+  "fontes": [
+   "https://gsm.ucdavis.edu/master-science-business-analytics/admissions/class-profile"
+  ],
+  "observacoes": "Class profile oficial (turma de 78, GPA 3.3) só traz média GRE Quant 166; não publica GMAT. Perfil antigo (2018) citava GMAT 716, desatualizado."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Purdue",
+   "Estado": "IN",
+   "Cidade": "West Lafayette"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": "coortes recentes (sem ano)",
+  "pct_com_teste": null,
+  "fontes": [
+   "https://www.business.purdue.edu/masters/programs/ms-business-analytics-and-information-management/profile-msbaim.pdf"
+  ],
+  "observacoes": "Global class profile oficial do MSBAIM traz GPA médio 3.41 e 1-2 anos de experiência, mas não publica GMAT/GRE médio; site cita GMAT preferencial >= 600 (requisito, não média)."
+ }
+]

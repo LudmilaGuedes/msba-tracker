@@ -1,0 +1,165 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "Wayne State University",
+   "Estado": "MI",
+   "Cidade": "Detroit"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [
+   "https://engineering.wayne.edu/data-science-program/admissions",
+   "https://bulletins.wayne.edu/graduate/college-engineering/industrial-systems-engineering/data-science-business-analytics-ms/"
+  ],
+  "observacoes": "Nenhum perfil de turma publicado; só requisito (GRE/GMAT no 75º percentil se GPA < 3.0)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Oakland University",
+   "Estado": "MI",
+   "Cidade": "Rochester (MI)"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [
+   "https://oakland.edu/Assets/Oakland/business/files-and-documents/About/PrincetonReviewOUProfile2021.pdf"
+  ],
+  "observacoes": "Sem dado do MSBA. Perfil Princeton Review (PDF no site da OU, 2021) cita GMAT médio 553 para a pós-graduação em business como um todo (não específico do programa)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "American University",
+   "Estado": "DC",
+   "Cidade": "Washington"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [
+   "https://american.edu/online/online-program/master-of-science-in-analytics-online/index.cfm"
+  ],
+  "observacoes": "Kogod não publica GMAT do MS Business Analytics and AI (programa test-optional). Mediana 695 que circula é do MBA, não do MS."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "University of North Florida (UNF)",
+   "Estado": "FL",
+   "Cidade": "Jacksonville"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [
+   "https://unf.edu/graduateschool/academics/programs/business-analytics.html"
+  ],
+  "observacoes": "UNF não publica perfil de turma com GMAT; só a fórmula de index (200×GPA + GMAT ≥ 1070) quando o teste não é dispensado."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Florida Institute of Technology (Florida Tech)",
+   "Estado": "FL",
+   "Cidade": "Melbourne"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [],
+  "observacoes": "Nenhum dado de GMAT/perfil de turma encontrado no site da Florida Tech; programa não exige teste."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "East Texas A&M University (ETAMU)",
+   "Estado": "TX",
+   "Cidade": "Commerce"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [],
+  "observacoes": "ETAMU não publica perfil de turma; teste só exigido (GRE) se GPA ≤ 2.5."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Texas A&M University-Texarkana (A&M-Texarkana)",
+   "Estado": "TX",
+   "Cidade": "Texarkana"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [],
+  "observacoes": "A&M-Texarkana não publica perfil de turma nem GMAT médio do programa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "University of Dallas",
+   "Estado": "TX",
+   "Cidade": "Irving"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [
+   "https://udallas.smartcatalogiq.com/en/2025-2026/2025-2026-academic-catalog/the-satish-and-yasmin-gupta-college-of-business/gupta-graduate-programs/master-of-science-programs/master-of-science-in-business-analytics"
+  ],
+  "observacoes": "Sem GMAT médio publicado (teste não exigido). Atenção: o '634' que aparece em buscas é da UT Dallas, não da University of Dallas."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "West Texas A&M University (WTAMU)",
+   "Estado": "TX",
+   "Cidade": "Canyon"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [],
+  "observacoes": "WTAMU não publica GMAT médio dos admitidos; só o mínimo GMAT 500 quando não há dispensa."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Texas Tech",
+   "Estado": "TX",
+   "Cidade": "Lubbock"
+  },
+  "gmat_medio": null,
+  "gmat_escala": null,
+  "gmat_faixa": null,
+  "gre_medio": null,
+  "ano_turma": null,
+  "pct_com_teste": null,
+  "fontes": [
+   "https://www.depts.ttu.edu/rawlsbusiness/graduate/ms/datascience/"
+  ],
+  "observacoes": "Rawls não publica perfil de turma do MSDS (página FAQ bloqueou acesso). GMAT 563 citado pela Bloomberg é do MBA, não do MSDS."
+ }
+]

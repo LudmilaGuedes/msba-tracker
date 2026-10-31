@@ -1,0 +1,353 @@
+[
+  {
+    "match": {
+      "Nome da Universidade": "Oklahoma State",
+      "Estado": "OK",
+      "Cidade": "Stillwater"
+    },
+    "updates": {
+      "Custo/Crédito (Intl) USD": 1232.4,
+      "Custo/Crédito (Residente) USD": 555.8,
+      "Tuition Total (Intl) USD": 46831,
+      "Tuition Total (Residente) USD": 21120,
+      "Fees Adicionais USD": 1620,
+      "Ranking QS": "Verificar",
+      "Principais Empregadores": "Amazon, Capital One, Apple, FedEx, General Motors, Humana, Chase, J.P. Morgan, Walmart (recrutadores regulares citados pelo programa)",
+      "GMAT/GRE Obrigatório": "Sim -- obrigatório para todos os estrangeiros no programa presencial (percentil recomendado > 51 em cada seção); dispensa só caso a caso para cidadãos/residentes dos EUA ou para o programa online",
+      "Experiência Profissional": "Não obrigatória, mas fortemente preferida; o programa avisa que é difícil para internacionais conseguir boa colocação nos EUA sem ~2 anos de experiência prévia",
+      "Testes Inglês Aceitos": "TOEFL 89 (iBT) / IELTS 6.5 / PTE 60 / Duolingo 120; dispensado para quem fez graduação completa (4 anos) em EUA, UK, Austrália, Uganda ou Nova Zelândia. Não substitui o GMAT/GRE",
+      "Deadline Aplicação": "Prioritário: 15 jan 2027; final: 1 mar 2027; somente admissão Fall para o presencial; inscrições abrem em 1 out",
+      "Documentos Necessários": "Graduate College application; 3 cartas de recomendação; resume; statement of purpose (forças/fraquezas e motivação); GMAT/GRE; teste de inglês (TOEFL/IELTS/PTE/DET); transcripts oficiais (GPA não precisa ser convertido; WES não exigido); bacharelado concluído antes da matrícula; depósito de US$300 para internacionais admitidos",
+      "Entrevista": "Sim -- todos os alunos do presencial passam por ~2 entrevistas não técnicas com docentes e/ou ex-alunos"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 120,
+    "fontes": [
+      "https://go.okstate.edu/graduate-academics/programs/masters/business-analytics-and-data-science-ms",
+      "https://business.okstate.edu/analytics/steps-to-admission-msbands",
+      "https://business.okstate.edu/analytics/faq",
+      "https://business.okstate.edu/watson/mba/tuition.html",
+      "https://business.okstate.edu/analytics/"
+    ],
+    "observacoes": "Tuition 2026-27 da página oficial da Spears (vale para os programas de pós da Spears): US$1,232.40/crédito não-residente e US$555.80 residente (tuition+fees por crédito); 38 créditos = US$46,831 intl / US$21,120 res; Fees Adicionais = US$1,000 de Professional Program Fee (US$250 x 4 semestres) + US$600 de taxa F-1 (US$150/semestre) + US$20 health assessment; total oficial estimado intl US$47,831. Ranking QS = 2 estava errado: o '#2' é do ranking da Fortune (Best Master's in Data Science 2025), não QS -> 'Verificar'. Empregabilidade 100% = ofertas full-time em até 6 meses nos últimos 5 anos (FAQ oficial). Programa de 21 meses (4 semestres) confirmado."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "U of Tulsa",
+      "Estado": "OK",
+      "Cidade": "Tulsa"
+    },
+    "updates": {
+      "Destaques Currículo": "STEM; programação analítica (Python, SQL), data management, visualização (Power BI), análise quantitativa; Business Analytics Practicum com dados reais de empresas sob mentoria de docentes/indústria; AACSB",
+      "Tipos de Bolsa": "Bolsas de mérito de até 75% da tuition para quem aplica antes dos prazos rolling; Graduate Assistantships para candidatos altamente qualificados (100% da tuition + stipend); enviar GMAT/GRE (opcional) aumenta o potencial de bolsa",
+      "Quão Realista (Intl)": "Moderada -- bolsa de mérito de até 75% e GA com tuition integral existem e não excluem internacionais, mas GA é só para 'highly qualified' e os valores típicos de mérito não são publicados; aplicar cedo (até 1 fev) e enviar GMAT/GRE melhora as chances",
+      "Graduate Assistantships": "Sim -- GA com remissão de 100% da tuition + stipend (≥US$14,349 por 9 meses) + seguro saúde; para candidatos altamente qualificados; marcar 'Yes' na pergunta de assistantship da aplicação",
+      "Principais Empregadores": "Amazon, Williams, Ascension St. John Medical Center, General Motors, Thermo Fisher Scientific (empregadores de ex-alunos citados pelo programa)",
+      "GPA Mínimo": 3.0,
+      "GMAT/GRE Obrigatório": "Não (Collins não exige GMAT/GRE); enviar nota é opcional e aumenta as chances de bolsa",
+      "Testes Inglês Aceitos": "Business (Collins): TOEFL 90 / IELTS 6.5 / Duolingo 110 (mínimos gerais da Graduate School: TOEFL 80 / IELTS 6.5 / DET 105 / PTE 56); validade de 2 anos; dispensa por petição para graduação em inglês",
+      "Deadline Aplicação": "Prioridade para graduate assistantship: 1 fev 2027; bolsas/fellowships competitivos: 3 fev 2027; depois rolling",
+      "Documentos Necessários": "Graduate School application; taxa US$60; transcripts oficiais de todas as instituições; Statement of Purpose (500-750 palavras); 2-3 cartas de recomendação; GMAT/GRE opcional; TOEFL/IELTS/Duolingo; internacionais: carta certificada de suporte financeiro ou Confirmation of Financial Resources + cópia do passaporte"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 110,
+    "fontes": [
+      "https://utulsa.edu/academics/business/academics/graduate-business-programs/business-analytics/",
+      "https://utulsa.edu/admissions/graduate-admission/graduate-international-admission/",
+      "https://utulsa.edu/tuition-aid/tuition-costs/cost-graduate/"
+    ],
+    "observacoes": "DET: Graduate School exige 105, mas 'All Business Programs' exigem DET 110 / TOEFL 90 / IELTS 6.5. Tuition 2026-27 confirmada: US$1,610/crédito (todos). Total de créditos não confirmado em fonte oficial (bulletin bloqueia acesso; agregadores dizem 30 créditos -> seria ~US$48,300) -- mantido 'Verificar'. Fees oficiais 2026-27: University Fee US$658/semestre (full-time) + International Student Services Fee US$206/semestre + US$112 único; total depende do nº de semestres (2 semestres ≈ US$1,840). 'Muito Alta' em Quão Realista trocado por Moderada (escala padronizada). Placement 96% confirmado na página do programa."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "U of Central Oklahoma",
+      "Estado": "OK",
+      "Cidade": "Edmond"
+    },
+    "updates": {
+      "STEM Designated": "Sim",
+      "Início": "Fall ou Spring",
+      "Destaques Currículo": "32 créditos; AACSB; SAS Tier-3 Academic Specialization (certificações SAS embutidas); core: Managerial/Operational Analytics, Database (SQL Server), Data Visualization (Power BI/Tableau), Python, Predictive Analytics & AI, Marketing Analytics, Machine Learning (SAS EM); eletivas incl. Internship in Business Analytics e GIS; maioria das aulas presencial em Edmond, algumas online",
+      "Custo/Crédito (Intl) USD": 886.55,
+      "Custo/Crédito (Residente) USD": 454.95,
+      "Tuition Total (Intl) USD": 28370,
+      "Tuition Total (Residente) USD": 14558,
+      "Fees Adicionais USD": 2497,
+      "Tipos de Bolsa": "Graduate Admission Scholarships do Office of Global Affairs (automáticas, sem aplicação, por GPA do bacharelado; creditadas do 2º ao 4º semestre; renovação exige tempo integral): Distinguished Graduate Scholar US$3,000/ano (GPA ≥ 3.50); Graduate Merit Global Scholar US$2,000/ano (GPA ≥ 3.25); Graduate Honor Global Scholar US$1,000/ano (GPA ≥ 3.00); prazo prioritário 31 mai (Fall) / 1 nov (Spring); bolsas do College of Business e da UCO Foundation para alunos atuais",
+      "Quão Realista (Intl)": "Alta -- bolsas para internacionais de pós são automáticas por faixa de GPA (US$1,000-3,000/ano, até 2 anos) e a UCO distribui ~US$700 mil/ano a internacionais; valor modesto frente à tuition (~US$28k), e as faixas parecem ser escalonadas (não cumulativas)",
+      "GMAT/GRE Obrigatório": "Não exigido (não consta nos requisitos de admissão do MSBA)",
+      "Testes Inglês Aceitos": "Pós-graduação: TOEFL 79 (iBT) / 550 (PBT); IELTS 6.5; PTE 53; iTEP Academic 4.0. Duolingo NÃO listado para pós-graduação. Alternativa: 12 semanas de inglês intensivo em ESL aprovado nos EUA após TOEFL 61 / IELTS 6.0 / PTE 46-52 / iTEP 3.7",
+      "Deadline Aplicação": "Fall: 15 abr 2027 (Fall Admission); doméstico 15 mai; internacional 15 jun 2027; Spring: internacional 15 set; doméstico 15 out",
+      "Rounds Aplicação": "Sem rounds; datas fixas: Fall 15 abr (geral) / 15 mai (doméstico e space available) / 15 jun (internacional); Spring 15 set (internacional) / 15 out (doméstico); bolsas de internacionais têm prazo prioritário 31 mai (Fall) / 1 nov (Spring)",
+      "Documentos Necessários": "Application de pós-graduação (taxa US$60); resume; personal statement (500 palavras); transcripts (WES/ECE NÃO aceitos -- documento original + tradução certificada); prova de diploma; teste de inglês; internacionais: bank statement em inglês (< 6 meses; mínimo ~US$28,050 para F-1 de pós), Certificate of Financial Resources específico do MSBA, Statement of Financial Sponsorship, passaporte. Nenhuma carta de recomendação listada nos requisitos oficiais do MSBA"
+    },
+    "det_aceito": "nao",
+    "det_nota_minima": null,
+    "fontes": [
+      "https://www.uco.edu/programs/jcgs/cob/isom/business-analytics",
+      "https://www.uco.edu/students/oga/future-students/admission-documents",
+      "https://www.uco.edu/graduate/application-support/application-faqs",
+      "https://www.uco.edu/admissions/tuition/",
+      "https://www.uco.edu/students/oga/future-students/scholarships"
+    ],
+    "observacoes": "DET: as páginas oficiais de pós (Graduate College FAQ e Office of Global Affairs) listam só TOEFL/IELTS/PTE/iTEP -- Duolingo não aparece para pós; o texto anterior (TOEFL 61/IELTS 6.0) eram os mínimos da via ESL, não os de admissão direta. Tuition corrigida pela página oficial (atualizada em ago/2024, sem tabela mais nova publicada): não-residente US$826.55/crédito (tuition+university fee) + US$60 adicional do MSBA = US$886.55; residente US$394.95 + US$60 = US$454.95; x32 créditos. Fees Adicionais = Instruction Facility Enhancement Fee do College of Business US$52.25/crédito x32 (US$1,672) + International Student Maintenance Fee US$200 x4 semestres + US$25 ID. Formato: a página diz que a maioria das aulas é presencial com algumas online. Admite também Spring."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "SMU",
+      "Estado": "TX",
+      "Cidade": "Dallas"
+    },
+    "updates": {
+      "Ranking US News": "Verificar",
+      "Ranking QS": "Verificar",
+      "Fees Adicionais USD": 11502,
+      "Testes Inglês Aceitos": "TOEFL, IELTS ou Duolingo aceitos, mas OPCIONAIS para internacionais (aplicação completa sem teste e sem precisar de waiver; avaliação holística); sem nota mínima publicada; validade de 2 anos",
+      "Deadline Aplicação": "Round 1: 13 out 2026; Round 2: 12 jan 2027 (Rounds 1 e 2 prioritários para bolsas/fellowships); Round 3: 9 mar 2027; Round 4: 20 abr 2027; Round 5: 25 mai 2027; rolling depois"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": null,
+    "fontes": [
+      "https://www.smu.edu/cox/ms-degrees/faqs",
+      "https://www.smu.edu/cox/Degrees-and-Programs/MS-in-Business-Analytics/admissions",
+      "https://www.smu.edu/cox/Degrees-and-Programs/MS-in-Business-Analytics"
+    ],
+    "observacoes": "Enrichment recente confirmado. DET aceito (FAQ oficial do MS da Cox: TOEFL/IELTS/Duolingo aceitos, mas opcionais; sem mínimo publicado). Ranking US News e Ranking QS continham texto (viola schema numérico) -> 'Verificar'; contexto: U.S. News 2026 coloca a SMU no 'Top 20% Best National Universities' (geral, não do MSBA); QS Business Ranking 2026 coloca a Cox em #43/108 nos EUA (escola, não MSBA). Fees Adicionais: US$10,872 (university+program fees) + US$280 health center + US$100 orientação intl + US$250 international student fee = US$11,502 (tabela oficial de custos full-time). Prazos 2027-28 confirmados."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "University of North Texas (UNT)",
+      "Estado": "TX",
+      "Cidade": "Denton"
+    },
+    "updates": {
+      "Início": "Fall ou Spring (internacionais só podem começar no Fall ou Spring; Summer apenas para domésticos)",
+      "Custo/Crédito (Intl) USD": 905.79,
+      "Custo/Crédito (Residente) USD": 477.79,
+      "Tuition Total (Intl) USD": 29891,
+      "Tuition Total (Residente) USD": 15767,
+      "Bolsas Disponíveis": "Sim",
+      "Tipos de Bolsa": "Bolsas de mérito da UNT/Ryan College (altamente competitivas; todas as bolsas do ano acadêmico são anunciadas até junho -- não há bolsas no meio do ano para quem começa no Spring); valores não publicados para o MSBA",
+      "Quão Realista (Intl)": "Baixa a Moderada -- existem bolsas de mérito, mas a própria escola as descreve como altamente competitivas, sem valores publicados; começar no Fall e aplicar cedo é necessário para concorrer",
+      "GMAT/GRE Obrigatório": "Obrigatório, salvo dispensa: GPA ≥ 3.0 (cumulativo ou últimos 60 créditos) de programa com acreditação ABET ou AACSB, ou GPA ≥ 3.5 de outras instituições; doutorado também dispensa",
+      "Testes Inglês Aceitos": "TOEFL iBT 79 (antes de 21/jan/2026) ou 4 (nova escala) / IELTS 6.0 / Duolingo 100 / PTE 53 / MET 54 por seção / Cambridge C1 -- mínimos institucionais da UNT (página do Ryan College remete a eles; sem exigência maior publicada para o MSBA); validade de 2 anos, sem superscore",
+      "Deadline Aplicação": "Internacional (F-1 fora dos EUA): aplicar até ~1 jun 2027 (2 meses antes do prazo final, para emissão do I-20); prazo final Fall: 1 ago 2027; Spring: 1 jan; bolsas do ano são definidas até junho",
+      "Rounds Aplicação": "Sem rounds; prazo final único por semestre (Fall 1 ago, Spring 1 jan, Summer 15 jun -- Summer não aceita internacionais); F-1 devem aplicar 2 meses antes",
+      "Documentos Necessários": "Aplicação via UNT GradCAS; transcripts de todas as instituições (internacionais: upload de cópias oficiais, originais se admitido); essay de 600-700 palavras; resume/CV; 3 referências OPCIONAIS (só lista de contatos; não exigidas para o MSBA); GMAT/GRE salvo dispensa por GPA; teste de inglês",
+      "Experiência Profissional": "Não obrigatória"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 100,
+    "fontes": [
+      "https://cob.unt.edu/masters/prospective-students/",
+      "https://www.unt.edu/admissions/international/english-language-requirements",
+      "https://studentaccounting.unt.edu/tuition-and-fees.html"
+    ],
+    "observacoes": "Tuition Fall 2026-Summer 2027 recalculada pela tabela oficial: não-residente = statutory US$478 + board designated grad US$227.79 + board authorized US$50 + board designated graduate US$25 + diferencial de pós do Ryan College US$125 = US$905.79/crédito; residente = US$50 + 227.79 + 50 + 25 + 125 = US$477.79; x33 créditos. NÃO inclui mandatory fees (não detalhados) -> Fees Adicionais segue 'Verificar'; os valores anteriores (US$1,136 / US$594.79) não batiam com nenhum ano da tabela. DET 100 e IELTS 6.0 são os mínimos gerais da UNT (o texto antigo citava IELTS 6.5 de outra fonte). Recomendações são opcionais para o MSBA. Internacionais não podem começar no Summer."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "Santa Clara University",
+      "Estado": "CA",
+      "Cidade": "Santa Clara"
+    },
+    "updates": {
+      "STEM Designated": "Sim",
+      "Início": "Fall (meados de setembro) ou Spring (fim de março/início de abril)",
+      "Destaques Currículo": "42 unidades (quarter) = 26 core + 10 eletivas + 6 experienciais; core: Linear Algebra com Python, Tableau, SQL, Data Analytics e Machine Learning com Python, Marketing Analytics, Math for Business com R, Prescriptive Analytics; eletivas: Deep Learning, Cloud, Big Data, NLP; practicum com empresas do Vale do Silício ou capstone; aulas à noite e fins de semana; STEM só na versão on-ground",
+      "Custo/Crédito (Intl) USD": 1581,
+      "Custo/Crédito (Residente) USD": 1581,
+      "Tuition Total (Intl) USD": 66402,
+      "Tuition Total (Residente) USD": 66402,
+      "Bolsas Disponíveis": "Sim",
+      "Tipos de Bolsa": "Bolsas de mérito com consideração automática para quem completa a aplicação até o prazo prioritário (sem formulário extra); a maioria das bolsas vai para quem envia GMAT/GRE oficial; quem pede waiver de teste corre o risco de ficar inelegível; valores não publicados",
+      "Quão Realista (Intl)": "Moderada -- bolsas de mérito automáticas e abertas a internacionais, mas dependem de enviar GMAT/GRE e aplicar até o prazo prioritário; valores não divulgados; internacionais só têm acesso a empréstimos privados",
+      "Taxa Empregabilidade %": 78,
+      "GPA Médio Admitidos": 3.48,
+      "GMAT/GRE Obrigatório": "Sim, ou waiver para candidatos com perfil quantitativo/técnico forte e verificável; sem nota mínima; quem usa waiver pode perder elegibilidade a bolsa de mérito",
+      "GMAT Médio": 650,
+      "Experiência Profissional": "Não obrigatória, mas preferida; média da turma de 31 meses de experiência; recém-formados podem aplicar",
+      "Matérias Pré-Requisito": "Nenhum pré-requisito formal; Cálculo I e Estatística recomendados",
+      "Testes Inglês Aceitos": "TOEFL 90 (antigo) ou 4.5 (novo TOEFL 2026) / IELTS 6.5 / Duolingo 110; ou percentil ≥ 50 no verbal do GMAT/GRE; dispensa para diploma dos EUA ou de país anglófono (Austrália, Canadá anglófono, Irlanda, NZ, UK) nos últimos 4 anos; validade de 2 anos",
+      "Deadline Aplicação": "Fall: prioritário 1 abr 2027 (recomendado para internacionais/I-20 e bolsas); final 1 jun 2027; Spring: prioritário 20 jan; aplicações abrem ~9 meses antes do prazo",
+      "Documentos Necessários": "Taxa de aplicação; resume/CV; personal statement; GMAT/GRE ou pedido de waiver; transcripts (diploma estrangeiro exige avaliação course-by-course de membro NACES, ex. WES/SpanTran/ECE); 2 cartas de recomendação; teste de inglês; entrevista se solicitada",
+      "Entrevista": "Por convite (as requested)"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 110,
+    "fontes": [
+      "https://www.scu.edu/business/ms/ms-business-analytics/"
+    ],
+    "observacoes": "Tuition 2026-27 oficial: US$1,581 por unidade x 42 unidades mínimas = US$66,402 (antes US$1,462). Empregabilidade 78% em 6 meses refere-se ao ano acadêmico 2021 (dado antigo publicado pela escola). GMAT Médio 650 é a média de TODOS os MS da Leavey (não só MSBA); GRE médio 309. GPA médio 3.48 é do perfil da turma do MSBA. Duração típica ~16 meses confirmada. Aplicações tardias não são aceitas para F-1."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "Loyola Marymount University (LMU)",
+      "Estado": "CA",
+      "Cidade": "Los Angeles"
+    },
+    "updates": {
+      "Tamanho Turma": "Verificar",
+      "Destaques Currículo": "30-36 unidades (conforme formação prévia em business); full-time 12 meses ou part-time 24 meses; data management, big data modeling & analytics, aplicações de negócio; visualização, data mining, machine learning; capstone com projeto real apresentado a tomadores de decisão; eletivas em Data Visualization/GIS, Text Mining/Social Media, Emerging Technologies, Marketing, Healthcare; certificados complementares sem custo extra",
+      "Custo/Crédito (Intl) USD": 1902,
+      "Custo/Crédito (Residente) USD": 1902,
+      "Tuition Total (Intl) USD": 57060,
+      "Tuition Total (Residente) USD": 57060,
+      "Quão Realista (Intl)": "Moderada -- 80% dos alunos de pós em business recebem bolsa e internacionais são elegíveis (consideração automática até o prazo final), mas valores não são publicados e devem ser parciais; internacionais não têm acesso a auxílio federal/estadual",
+      "Testes Inglês Aceitos": "TOEFL iBT 100 (antes de 21/jan/2026) ou 5 (a partir de 21/jan/2026) / IELTS 7.0 / Duolingo 130; PTE não listado; dispensa para diploma de país de língua inglesa (exceções possíveis a critério do diretor)",
+      "Deadline Aplicação": "Round 1: 10 jan 2027; Round 2: 10 mar 2027; Round 3: 15 mai 2027 (internacionais) / 31 mai 2027 (domésticos); depois rolling até completar vagas",
+      "Documentos Necessários": "Aplicação com resume, personal statement e taxa de US$50; 2 cartas de recomendação; transcripts de todas as instituições (internacionais: tradução + avaliação por serviço de credenciais dos EUA); teste de inglês; entrevista por convite"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 130,
+    "fontes": [
+      "https://cba.lmu.edu/academics/grad/analytics/",
+      "https://cba.lmu.edu/academics/grad/international/",
+      "https://cba.lmu.edu/academics/grad/tuition/"
+    ],
+    "observacoes": "Tuition 2026-27 oficial: US$1,902/unidade (antes US$1,802); 30 unidades = US$57,060 (até 36 unidades = US$68,472 para quem não tem base em business); university fees e laptop exigido são adicionais (não detalhados). Tamanho Turma = 13 estava errado: é o tamanho médio das turmas de pós da LMU (sala de aula), não o tamanho da coorte do MSBA -> 'Verificar'. DET 130 confirmado na página de internacionais do CBA (exigência alta). Decisão em ~1 mês após aplicação completa."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "University of Pittsburgh (Katz)",
+      "Estado": "PA",
+      "Cidade": "Pittsburgh"
+    },
+    "updates": {
+      "Tipo (Pub/Priv)": "Pública",
+      "STEM Designated": "Sim",
+      "Formato": "Presencial",
+      "Início": "Fall (agosto)",
+      "Destaques Currículo": "30 créditos (18 core + 12 eletivas); full-time presencial em 9 meses (há opção part-time); core: Statistical Analysis, Data Programming for Business, Decision Technologies (e Advanced), Data Mining, Technical Foundation of Generative AI, Deploying AI for Business; eletivas incl. AI in Marketing, AI Analytics in Healthcare, Forecasting, Consulting Field Project, MIS Practicum, Responsible AI; dual degree com MS Accounting/Finance/Management/Marketing Science/SCM em ~3 semestres (com estágio de verão)",
+      "Bolsas Disponíveis": "Sim",
+      "Tipos de Bolsa": "Bolsas de mérito de tuition da Katz (todos os admitidos em programa full-time são considerados automaticamente; valores variáveis, informados na carta de admissão); para concorrer é preciso aplicar até 1 fev; \"Master Your Path\" (~50% de desconto) EXCLUSIVA para ex-alunos de graduação da Pitt",
+      "Quão Realista (Intl)": "Moderada -- bolsas de mérito automáticas também para internacionais, desde que se aplique até 1 fev; valores não publicados e normalmente parciais; sem assistantships divulgadas para o MS; internacionais só têm empréstimos privados (geralmente com co-signer americano)",
+      "Experiência Profissional": "Não obrigatória (programa voltado a recém-formados e início de carreira)",
+      "Matérias Pré-Requisito": "Nenhuma; não exige formação em computação/engenharia",
+      "GMAT/GRE Obrigatório": "Opcional (test-optional); recomendado para internacionais em programas full-time e para quem não tem GPA ≥ 3.25 + média B em 6 créditos quantitativos; sem nota de corte; GRE At-Home não aceito desde 10/dez/2024",
+      "Testes Inglês Aceitos": "Obrigatório para internacionais: mínimos TOEFL 80 (antes de 20/jan/2026) ou 4.0 com todos os sub-scores ≥ 4.0 (a partir de 20/jan/2026) / IELTS 6.5 / Duolingo 125; recomendados TOEFL 100 / IELTS 7.0 / DET 130; validade de 2 anos",
+      "Deadline Aplicação": "Early Advantage: 15 out 2026 (decisão até 15 nov); Round 1: 15 jan 2027; prazo para bolsas: 1 fev 2027; final internacional: 15 abr 2027; final doméstico: 15 jul 2027",
+      "Rounds Aplicação": "Early Advantage (15 out), Round 1 (15 jan), International Final (15 abr), Domestic Final (15 jul); para bolsa de mérito, aplicar até 1 fev; revisão em 4-6 semanas após aplicação completa; aplicação via BusinessCAS",
+      "Documentos Necessários": "Aplicação via BusinessCAS; resume; essays (career goals + opcional); transcripts oficiais (credential evaluation NACES só se o bacharelado for de 3 anos); recomendações; GMAT/GRE opcional; teste de inglês obrigatório para internacionais; entrevista em vídeo assíncrona; para internacionais: traduções certificadas",
+      "Entrevista": "Sim -- entrevista em vídeo assíncrona (plataforma Big Interview) para candidatos de MS"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 125,
+    "fontes": [
+      "https://www.business.pitt.edu/ms-analytics-and-ai/",
+      "https://www.business.pitt.edu/ms-international-applicant-admission-and-faq/",
+      "https://www.business.pitt.edu/katz-admissions/katz-tuition-and-aid/",
+      "https://www.business.pitt.edu/katz-admissions/start-your-applications/",
+      "https://www.tuition.pitt.edu/graduate/tuition/joseph-m-katz-graduate-school-business"
+    ],
+    "observacoes": "Tuition 2026-27 confirmada (tuition.pitt.edu): MS full-time US$53,252 (fora do estado) / US$35,100 (in-state) por 2 termos + mandatory fees US$2,006 -- valores atuais já corretos; há ainda Student Development Fee da Katz (valor não publicado). Programa de 9 meses / 30 créditos confirmado. Enums padronizados (Tipo 'Pública', STEM 'Sim', Formato 'Presencial', Bolsas 'Sim'); detalhes movidos para o texto. Nº de cartas de recomendação não especificado na página do MS (antes constava 2 -- mantido fora por não confirmação)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "Wake Forest University",
+      "Estado": "NC",
+      "Cidade": "Winston-Salem"
+    },
+    "updates": {
+      "STEM Designated": "Sim",
+      "Transporte/mês USD": 255,
+      "Outros Gastos/mês USD": 382,
+      "Bolsas Disponíveis": "Sim",
+      "Tipos de Bolsa": "Bolsas parciais de tuition (mérito e, em parte, necessidade), com consideração automática na aplicação (sem formulário separado); ~19 fundos nomeados do School of Business específicos do MSBA (ex.: Alm Family, Bowman Family, Mary Reynolds Babcock Foundation); aplicações mais cedo têm prioridade de bolsa; valores não divulgados",
+      "Quão Realista (Intl)": "Moderada -- todos os candidatos (inclusive internacionais) são considerados automaticamente e aplicar no Round 1 dá prioridade, mas as bolsas são parciais e sem valores publicados; perfil médio exigente (GMAT 685); internacionais só têm empréstimos privados (há opções sem co-signer via Elm Resources)",
+      "Testes Inglês Aceitos": "TOEFL 5.0 (após 21/jan/2026) ou IELTS 7.5 recomendados (diretrizes, não cortes rígidos); TOEFL Essentials também aceito; Duolingo NÃO aceito (a página oficial lista só TOEFL/IELTS); dispensa para graduação nos EUA/instituição de língua inglesa ou a critério do comitê para quem residiu/trabalhou nos EUA",
+      "Deadline Aplicação": "Round 1: 15 out 2026; Round 2: 15 jan 2027 (último round para quem precisa de novo visto F-1); Round 3: 15 mar 2027; Round 4: 15 mai 2027; Round 5: 30 jun 2027 (ciclo para início em julho de 2027; aplicação abre em 1 ago)",
+      "Rounds Aplicação": "5 rounds (decisões: R1 até 4 nov, R2 até 15 fev, R3 até 2 abr, R4 até 4 jun); internacionais que precisam de F-1 só até o Round 2; aplicar cedo dá prioridade de admissão e bolsa; taxa US$100",
+      "Documentos Necessários": "Application online (taxa US$100); written assessment com 3 perguntas curtas (~250 palavras cada) + 1 opcional; resume de 1 página; transcripts não oficiais (oficiais após matrícula; diploma não em inglês exige avaliação WES ou IEE); GMAT/GRE salvo waiver; TOEFL/IELTS; 2 referências (só nome e contato -- cartas NÃO são exigidas nem usadas); entrevista por convite; depósito de US$1,500 após admissão",
+      "Dificuldade Entrada": "Moderada-Alta"
+    },
+    "det_aceito": "nao",
+    "det_nota_minima": null,
+    "fontes": [
+      "https://business.wfu.edu/masters-in-business-analytics/application-process/",
+      "https://business.wfu.edu/masters-in-business-analytics/class-profile/",
+      "https://business.wfu.edu/masters-in-business-analytics/scholarships/",
+      "https://business.wfu.edu/masters-in-business-analytics/"
+    ],
+    "observacoes": "DET confirmado como NÃO aceito (só TOEFL/IELTS/TOEFL Essentials). Custo 2026-27 confirmado: tuition US$55,007 + Activity/Health Services fee US$1,224 (programa de 3 semestres, julho a maio). COA oficial: housing US$14,900, food US$4,860, personal US$4,200, transport US$2,800 por ano -> transporte ≈ US$255/mês e outros ≈ US$382/mês (÷11 meses). Perfil (média das 3 últimas turmas): 104 alunos, GPA 3.5, GMAT 685, GRE 320. Atenção ao calendário: o programa começa em julho, então para quem se forma no fim de 2027 o intake seria julho de 2028 (Round 2 de jan/2028 é o último para F-1)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "William & Mary (Raymond A. Mason School of Business)",
+      "Estado": "VA",
+      "Cidade": "Williamsburg"
+    },
+    "updates": {
+      "STEM Designated": "Sim",
+      "Tamanho Turma": 90,
+      "Total Créditos": 30,
+      "Custo/Crédito (Intl) USD": 1647.73,
+      "Custo/Crédito (Residente) USD": 1389.17,
+      "Bolsas Disponíveis": "Sim",
+      "Tipos de Bolsa": "Bolsa de mérito (critérios: experiência profissional, liderança, histórico acadêmico; GMAT/GRE não obrigatório para bolsa, mas influencia); Graduate Assistantships (5-10h/semana, pagas por hora); Alumni Referral Scholarship (US$5,000 na aceitação, para candidatos indicados por ex-alunos antes de aplicar)",
+      "Quão Realista (Intl)": "Moderada -- bolsa de mérito e GA abertas a ingressantes sem restrição a internacionais, mas valores não publicados; GA paga por hora (não dá waiver de tuition); a bolsa de US$5,000 por indicação de ex-aluno é a única com valor fixo",
+      "Graduate Assistantships": "Sim -- GA aberta a novos alunos, 5-10h/semana com pagamento por hora (sem remissão de tuition)",
+      "GMAT/GRE Obrigatório": "Waiver disponível para todos com GPA ≥ 3.2; caso contrário exigido; recomendado mesmo assim (influencia admissão e bolsa)",
+      "Matérias Pré-Requisito": "Estatística obrigatória antes do início (pode ser cumprida com o curso online BUAD 512A, mai-jun) + bootcamp obrigatório do MSBA no verão; fundamentos de negócios (diploma/major/minor em business ou cursos Coursera de Finance, Accounting, Marketing, Operations)",
+      "Testes Inglês Aceitos": "TOEFL 100 (iBT) / IELTS 7.0 esperados; Duolingo e PTE NÃO aceitos (a página oficial do MSBA lista só TOEFL e IELTS); dispensa para graduação concluída nos EUA/país de língua inglesa ou quem viveu e trabalhou em tempo integral em país anglófono nos últimos 4 anos; código TOEFL B308; validade de 2 anos",
+      "Deadline Aplicação": "Round 1: 1 set 2026 (decisão 20 set); Round 2: 1 dez 2026 (decisão 20 dez); Round 3: 1 fev 2027 (decisão 20 fev); Round 4: 15 abr 2027 (decisão 5 mai); depois rolling",
+      "Taxa Aplicação USD": 100,
+      "Documentos Necessários": "Application online; transcripts não oficiais (oficial após admissão; traduções se não em inglês); resume; essay; 2 recomendações (acadêmica e/ou profissional, via survey + carta opcional; recomenda-se ao menos 1 acadêmica); GMAT/GRE salvo waiver; TOEFL/IELTS; entrevista por convite",
+      "Entrevista": "Sim, por convite (última etapa; presencial ou virtual)"
+    },
+    "det_aceito": "nao",
+    "det_nota_minima": null,
+    "fontes": [
+      "https://mason.wm.edu/graduate/msba/residential/admissions/",
+      "https://mason.wm.edu/graduate/msba/residential/admissions/tuition-financial-aid",
+      "https://mason.wm.edu/graduate/msba/",
+      "https://graduate.mason.wm.edu/msba/admissions/"
+    ],
+    "observacoes": "DET confirmado NÃO aceito (só TOEFL 100 / IELTS 7). Tuition atual confirmada (US$49,432 fora do estado / US$41,675 in-state + fees US$8,053 / US$7,483; internacionais +US$165 único +US$85/semestre -> Fees Adicionais US$8,388 ok); 30 créditos (página de comparação oficial) -> por crédito calculado. Tamanho de turma 90 pela página oficial de comparação (antes 85). Taxa de aplicação US$100 (página de admissões antiga do MSBA; isenção para alunos/ex-alunos W&M, militares/veteranos, Peace Corps/AmeriCorps)."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "Texas A&M University-Texarkana (A&M-Texarkana)",
+      "Estado": "TX",
+      "Cidade": "Texarkana"
+    },
+    "updates": {
+      "Formato": "Presencial",
+      "Fees Adicionais USD": 0,
+      "GPA Mínimo": 2.5,
+      "Testes Inglês Aceitos": "TOEFL 71 (iBT) / 550 (PBT) / 213 (CBT); IELTS 6.0; PTE 50; Duolingo 105 -- requisito institucional para internacionais (catálogo e página de International Admissions); programa não publica exigência própria mais alta",
+      "Destaques Currículo": "30 créditos, sem tese; três pilares de analytics (descritivo, preditivo, prescritivo); Python, SQL, Tableau; casos de negócio reais; conclusão em até 15 meses; lançado no Fall 2026; oferecido em formato presencial, híbrido e 100% online (esta linha = presencial); STEM com OPT de até 36 meses; conexões com empresas locais via Advisory Board para estágios",
+      "Documentos Necessários": "Aplicação de pós (taxa US$50 internacional / US$30 doméstico); resume/CV (1-2 páginas); carta de intenção (2-4 páginas); cartas de recomendação; transcripts oficiais de todas as instituições enviados pela escola; avaliação de credenciais estrangeiras (NACES ou AICES); comprovação financeira ou Sponsor's Statement para 1 ano; teste de inglês; liberação do International Student Services Office antes da decisão"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 105,
+    "fontes": [
+      "https://catalog.tamut.edu/admissions/international-admissions/",
+      "https://tamut.edu/admissions/international/index.html",
+      "https://catalog.tamut.edu/admissions/graduate-admissions/",
+      "https://tamut.edu/academic-programs/business-and-data-analytics/index.html"
+    ],
+    "observacoes": "Enrichment recente confirmado; DET 105 confirmado (requisito institucional). Correções de schema: 'Fees Adicionais USD' tinha texto -> 0 (as mandatory fees já estão embutidas no custo por crédito usado na tuition; seguro saúde/taxas de internacional não detalhados); 'GPA Mínimo' tinha texto -> 2.5 (mínimo institucional, últimos 60 créditos; programa pode exigir mais); 'Formato' padronizado para 'Presencial' (o programa também existe híbrido e 100% online). O catálogo ainda não tem página própria do MSBDA, então GMAT/GRE, experiência e pré-requisitos seguem sem confirmação."
+  },
+  {
+    "match": {
+      "Nome da Universidade": "University of Dallas",
+      "Estado": "TX",
+      "Cidade": "Irving"
+    },
+    "updates": {
+      "Duração (meses)": 12,
+      "Destaques Currículo": "30 créditos em 13 disciplinas; STEM (OPT total de 36 meses); liderança e ética integradas ao currículo técnico; Quantitative Reasoning for Decision Making, visualização de dados, SQL, cloud computing, aplicações de IA; quase todas as aulas no campus de Irving ou em formato híbrido (parte online); conclusão em ~1-2 anos",
+      "GMAT/GRE Obrigatório": "Não exigido para admissão no MSBA (opcional para reforçar a candidatura)",
+      "Deadline Aplicação": "Internacionais com transcripts estrangeiros: aplicar ≥ 2 meses antes do início do semestre (~fim de jun 2027 para o Fall); prioridade de bolsa: 1 jul 2027 (Fall), 1 dez (Spring), 1 abr (Summer); depois rolling"
+    },
+    "det_aceito": "sim",
+    "det_nota_minima": 110,
+    "fontes": [
+      "https://udallas.edu/admissions-aid/graduate/college-of-business/index.php",
+      "https://udallas.edu/academics/programs/business-analytics/index.php",
+      "https://udallas.smartcatalogiq.com/en/2025-2026/2025-2026-academic-catalog/the-satish-and-yasmin-gupta-college-of-business/gupta-graduate-programs/master-of-science-programs/master-of-science-in-business-analytics"
+    ],
+    "observacoes": "DET 110 confirmado (página oficial de requisitos de MS/MBA do Gupta College; exigido só para portadores de visto sem diploma dos EUA). Tuition US$1,300/crédito e fees (matrícula US$160 + formatura US$100 + estacionamento US$125 = US$385) confirmados como 'current rate'. Duração: a escola diz '~1-2 anos'; 12 meses é o mínimo em tempo integral (30 créditos) -- ressalva. Formato: quase todas as aulas no campus de Irving ou híbridas. Salários citados na página do programa são médias do BLS, não do programa -> Salário Médio Pós segue 'Verificar'."
+  }
+]

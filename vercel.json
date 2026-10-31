@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "installCommand": "cd msba-dashboard && npm ci",
+  "buildCommand": "cd msba-dashboard && npm run build",
+  "outputDirectory": "msba-dashboard/dist"
+}

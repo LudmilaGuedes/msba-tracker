@@ -1,0 +1,323 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "MIT",
+   "Estado": "MA",
+   "Cidade": "Cambridge"
+  },
+  "updates": {
+   "Testes Inglês Aceitos": "Nenhum teste exigido nem aceito: MIT Sloan não aceita TOEFL/IELTS (nem Duolingo); proficiência em inglês é avaliada na entrevista",
+   "Deadline Aplicação": "Round único: 5 jan 2027 (15h ET; decisão em mar 2027) -- ingresso 2027",
+   "Rounds Aplicação": "1 deadline único (5 jan 2027, decisão mar 2027); recusados sem entrevista recebem resposta antes",
+   "Documentos Necessários": "Resume de 1 página; histórico de todas as instituições (com tradução certificada); 3 cartas de recomendação (alunos atuais: 3 acadêmicas; profissionais: 1 profissional + 2 acadêmicas; uma deve falar da habilidade quantitativa); ensaio de até 500 palavras (por que o MBAn); 2 vídeos (90 s de apresentação + pergunta aleatória); lista de coursework relevante; GMAT/GRE opcional; taxa de US$150",
+   "Entrevista": "Obrigatória para admissão, apenas por convite; virtual, com perguntas comportamentais e técnicas (math, probabilidade, estatística, CS); também avalia o inglês",
+   "Matérias Pré-Requisito": "Nenhum pré-requisito formal; fortemente sugerido domínio de álgebra linear, probabilidade, cálculo e programação",
+   "Tipos de Bolsa": "Fellowships de mérito em número limitado, concedidas a admitidos de todas as cidadanias (consideração automática, sem valor publicado); RA com professores da Sloan (até 10h/semana, salário + tuition); Analytics Capstone com empresa parceira",
+   "TA/RA Disponível": "Sim (RA com professores da Sloan intermediadas pelo programa; TA permitido mas sem matching pelo programa; máx. 10h/semana; remuneração em salário + tuition)",
+   "Processo TA/RA": "RA: o MBAn Program Office ajuda a conseguir vagas com professores da Sloan; TA: o aluno busca diretamente o professor; toda posição paga precisa de aprovação do Program Office"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://mitsloan.mit.edu/master-of-business-analytics/admissions/how-to-apply",
+   "https://mitsloan.mit.edu/master-of-business-analytics/tuition-and-financial-aid",
+   "https://mitsloan.mit.edu/master-of-business-analytics/meet-class"
+  ],
+  "observacoes": "Ciclo 2027 tem um único deadline (5 jan 2027), não 3 rounds. Nenhum teste de inglês é aceito (nem DET); proficiência avaliada na entrevista. Tuition 2026-27 US$96,884 confirmada; emprego 2025: 98.5%, salário médio US$139,496 (confere). Fee waiver só para Peace Corps e militares/veteranos dos EUA."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UCLA",
+   "Estado": "CA",
+   "Cidade": "Los Angeles"
+  },
+  "updates": {
+   "Tamanho Turma": 109,
+   "GPA Médio Admitidos": 3.7,
+   "GMAT Médio": 668,
+   "GPA Mínimo": 3,
+   "GMAT/GRE Obrigatório": "Sim (GMAT, GMAT Focus ou GRE obrigatório); waiver só em circunstâncias extenuantes (médicas/pessoais), caso a caso com a diretora de admissões; referência esperada: GMAT Focus 665 / GMAT clássico 710 / GRE Quant 167",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 100 (Writing 25, Speaking 24, Reading 21, Listening 17; nova escala a partir de 21 jan 2026: 5.0) / TOEFL PBT 560 / IELTS mín. 7.5; Duolingo e PTE não aceitos (FAQ oficial só lista TOEFL/IELTS); dispensa para diploma de instituição WHED-verified com inglês como única língua de instrução",
+   "Deadline Aplicação": "Round 1: 8 jan 2027; Round 2: 5 mar 2027; Round 3: 7 mai 2027 (Class of 2028, início Fall 2027; aplicação abre em set 2026)",
+   "Rounds Aplicação": "3 rounds (8 jan, 5 mar e 7 mai 2027); taxa de US$200; fee waiver só por necessidade financeira ou programas especiais",
+   "Documentos Necessários": "Transcripts; 3 ensaios (projeto analítico até 750 palavras, statement of purpose, personal statement); 2 cartas de recomendação obrigatórias (3ª opcional); resume; GMAT/GRE; TOEFL/IELTS; entrevista por convite",
+   "Tipos de Bolsa": "Merit scholarships de valores variados, concedidas pelo programa no momento da admissão com base na força da candidatura (sem inscrição separada, sem valores publicados)",
+   "Destaques Currículo": "Data analytics, ML, Capstone (equipes de ~5 alunos, projeto real patrocinado por empresa parceira); estágio de verão obrigatório (jun-set) entre o 3º trimestre e o último Fall; 15 meses (set a dez do ano seguinte); Class of 2026: 109 alunos, 79% internacionais"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics/admissions",
+   "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics/admissions/faq",
+   "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics/admissions/class-profile",
+   "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics/financing",
+   "https://www.anderson.ucla.edu/degrees/master-of-science-in-business-analytics/career-impact/student-outcomes-placement"
+  ],
+  "observacoes": "Deadlines Class of 2028 publicados (8 jan / 5 mar / 7 mai 2027). GMAT Médio 668 é GMAT Focus (91º percentil, Class of 2026); GRE Quant médio 169. DET não aceito (só TOEFL/IELTS). Tuition 2026-27 US$81,600 + seguro US$9,176 + campus fees US$2,438 confere; tarifas Fall 2027 ainda não fixadas. Emprego: 98% em 6 meses; salário US$110,332 é da Class of 2023. Orçamento oficial 2026-27 (anual): food/housing US$28,767, transporte US$3,819, pessoal US$3,219."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "USC",
+   "Estado": "CA",
+   "Cidade": "Los Angeles"
+  },
+  "updates": {
+   "Duração (meses)": 16,
+   "Testes Inglês Aceitos": "TOEFL ou IELTS obrigatório para internacionais (página do MSBA); pisos da USC para mestrado (isentam do exame ISE): TOEFL iBT 90 com 20+ por seção / IELTS 6.5 com 6.0+ por banda / PTE 61 com 53+ por seção / Cambridge C1 176; USC não fixa mínimo de admissão (usados para placement); Duolingo não consta na lista de testes aceitos da pós-graduação da USC",
+   "GMAT Médio": "Verificar",
+   "GPA Mínimo": "Verificar",
+   "GMAT/GRE Obrigatório": "Não (GMAT/GRE não exigidos)",
+   "Documentos Necessários": "Aplicação online (taxa US$175); transcripts oficiais de todas as faculdades; resume profissional; comprovação de curso universitário de estatística (descritiva, probabilidade/distribuições, inferência, regressão linear); TOEFL/IELTS (internacionais); 0 cartas de recomendação (não exigidas); KIRA video interview por convite",
+   "Taxa Empregabilidade %": 94,
+   "Principais Empregadores": "Amazon, Microsoft, JPMorgan Chase, BCG, KPMG, PwC, Tesla, SpaceX, TikTok, Uber, Pinterest, ZS, The Walt Disney Company, Alibaba (contratações full-time dos formados Fall 2024, class profile oficial do MSBA)",
+   "Tipos de Bolsa": "Bolsas de mérito em quantidade limitada para admitidos, avaliação holística, sem inscrição separada; internacionais elegíveis; prioridade de bolsa para quem aplica nos Rounds 1 e 2",
+   "Tamanho Turma": 254,
+   "Destaques Currículo": "33 units: 16,5 de núcleo (decisão orientada a dados, computação estatística e visualização, Python, SQL/bancos de dados, estratégia) + estágio/experiência prática + 16,5 de eletivas (Deep Learning, Marketing/Operations Analytics, NLP, Product/Project Management, Consulting, Finance); opção de 3 ou 4 semestres; 54% internacionais (Fall 2025)"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-business-analytics/admissions",
+   "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-business-analytics/tuition-and-fees",
+   "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-business-analytics/class-profile",
+   "https://gradadm.usc.edu/international-students/english-proficiency/"
+  ],
+  "observacoes": "Página do MSBA exige TOEFL ou IELTS; a página de proficiência da pós-graduação da USC não lista mais o Duolingo, então DET = não. O piso de TOEFL para mestrado é 90 (100 é o de PhD). Duração corrigida: 3 semestres (Fall-Spring-Fall, ~16 meses) ou 4. Tuition 2025-26 US$2,541/unit x 33 = US$83,853 + fees US$4,046 (confere; aumento típico de 3-5%/ano). Fall 2025: 1,995 aplicações, 254 matriculados, GPA médio 3.60. Emprego: 94% dos formados Fall 2024 empregados (sem salário médio publicado nessa página; US$100,000 atual não confirmado). GMAT Médio e GPA Mínimo tinham texto em coluna numérica e passaram a 'Verificar' (GMAT/GRE não são usados). Deadlines Fall 2027 (1 nov / 15 jan / 15 abr) conferem."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UT Austin",
+   "Estado": "TX",
+   "Cidade": "Austin"
+  },
+  "updates": {
+   "Início": "Summer",
+   "Testes Inglês Aceitos": "TOEFL, IELTS ou Duolingo (DET) aceitos pelo MSBAi; mínimos da Graduate School da UT Austin: TOEFL iBT 79 / IELTS 6.5 / DET 115; o programa espera TOEFL 100 ou IELTS 7.0 para candidatos competitivos (sem referência publicada para DET); dispensa para quem estudou só em inglês ou tem mestrado em país anglófono",
+   "Documentos Necessários": "Aplicação McCombs (Step 1) + aplicação da Graduate School (Step 2); transcripts oficiais; resume; ensaio obrigatório (por que o MSBAi) + opcionais; 2 cartas de recomendação (pelo menos 1 acadêmica); GMAT/GRE opcional; TOEFL/IELTS/DET (internacionais); taxa de US$90 (intl) / US$65 (doméstico); video assessment Kira (até 30 min)",
+   "Deadline Aplicação": "Round 1: 13 out 2026; Round 2: 12 jan 2027 (final para internacionais); Round 3: 30 mar 2027; Round 4: 4 mai 2027 (aplicação abre em 26 ago 2026)",
+   "Rounds Aplicação": "4 rounds; Round 2 (12 jan 2027) é o último para internacionais; taxa US$90 intl (fee waivers geridos pela Office of Graduate Admissions)",
+   "Entrevista": "Video assessment obrigatório via Kira Talent (até 30 min, 1-2 min por pergunta) para todos; entrevista adicional com candidatos selecionados antes das decisões",
+   "Destaques Currículo": "10 meses, 36 créditos, início no Summer (Summer-Fall-Spring); analytics preditivo e prescritivo, machine learning avançado (incl. deep learning), IA generativa aplicada a negócios, governança de IA; eletivas em Financial Analytics ou Supply Chain and Marketing Analytics; Capstone; também existe versão online de 23 meses (mesma aplicação)",
+   "Tamanho Turma": 64
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics-and-artificial-intelligence/on-campus/admissions/application-process/",
+   "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics-and-artificial-intelligence/on-campus/admissions/faq/",
+   "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics-and-artificial-intelligence/on-campus/admissions/tuition-financial-aid/",
+   "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-business-analytics-and-artificial-intelligence/on-campus/admissions/class-stats/",
+   "https://graduate.utexas.edu/admissions/apply/international"
+  ],
+  "observacoes": "DET aceito pelo programa; o mínimo de 115 é o piso geral da Graduate School (o programa não publica mínimo próprio para DET). Início corrigido para Summer: a cobrança começa no semestre de verão (Summer US$11,900 + Fall US$22,900 + Spring US$22,900 + depósito de US$2,000 = US$59,700 não residente; residente US$55,600, confere). Class of 2027: 64 alunos, GPA 3.55, GMAT 655 (confere). Emprego 81.4% / US$104,798 não reconferidos (relatório Class of 2025 em PDF; salário médio por função: US$85K-129K)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UC Davis",
+   "Estado": "CA",
+   "Cidade": "Davis/San Francisco"
+  },
+  "updates": {
+   "Início": "Summer (agosto)",
+   "Tamanho Turma": 78,
+   "GPA Médio Admitidos": 3.3,
+   "Tipos de Bolsa": "Dean's Scholarships, MSBA Fellowships e GSM Grants por mérito, até US$20,000 (consideração automática na admissão, sem inscrição separada; critérios: histórico acadêmico, promessa profissional, liderança); Military Service Award até US$6,000; bolsa integral para egressos do SIEML",
+   "Quão Realista (Intl)": "Moderada -- bolsas de mérito até US$20,000 com consideração automática e abertas a todos os admitidos; Round 3 é o prazo prioritário para bolsa; fellowships por necessidade da Graduate Studies são muito limitadas para internacionais",
+   "GMAT/GRE Obrigatório": "Não (a página de admissão atual diz que a GSM não considera GMAT/GRE para admissão nem bolsa; uma página antiga ainda fala em GRE/GMAT com waiver)",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 105 (nova escala: 5.5) / IELTS mín. 7.5 / Duolingo mín. 130 (só se TOEFL/IELTS indisponíveis; quem usa só o DET faz o TOEP se admitido); abaixo do mínimo exige curso de inglês após a matrícula; dispensa para diploma dos EUA ou de instituição com inglês como única língua de instrução",
+   "Deadline Aplicação": "Round 1: 15 out 2026; Round 2: 15 nov 2026; Round 3: 15 jan 2027; Round 4: 15 mar 2027; Round 5: 15 mai 2027",
+   "Rounds Aplicação": "5 rounds (ingresso ago 2027); o FAQ diz que Round 3 (15 jan 2027) é o prazo prioritário para bolsa e para internacionais (depois só se houver vaga), enquanto o calendário chama o Round 4 (15 mar) de 'priority international deadline' -- aplicar até o Round 3; taxa US$125 (waiver para militares/veteranos, quem participou de evento de admissão do MSBA e caso a caso)",
+   "Documentos Necessários": "Aplicação online; resume (máx. 2 páginas); 2 ensaios (1 obrigatório + 1 opcional); transcripts (não oficiais na inscrição, oficiais após admissão); 2 cartas de recomendação (acadêmicas e/ou profissionais); TOEFL/IELTS/DET (internacionais); taxa de US$125",
+   "Entrevista": "Por convite: entrevista online one-way, que pode ser seguida de entrevista ao vivo por Zoom com o comitê",
+   "GMAT Médio": "Verificar"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://gsm.ucdavis.edu/master-science-business-analytics-msba/admissions/application-process/international",
+   "https://gsm.ucdavis.edu/master-science-business-analytics/admissions",
+   "https://gsm.ucdavis.edu/msba-admissions-faqs",
+   "https://gsm.ucdavis.edu/master-science-business-analytics/tuition-financial-aid",
+   "https://gsm.ucdavis.edu/master-science-business-analytics/tuition-and-financial-aid/scholarships",
+   "https://gsm.ucdavis.edu/master-science-business-analytics/admissions/class-profile"
+  ],
+  "observacoes": "DET aceito com mínimo 130 (antes 115), mas a UC Davis recomenda TOEFL/IELTS; TOEFL mín. 105 e IELTS 7.5 (antes 100/7.0). Bolsa máxima publicada: US$20,000 (antes 'até US$30k'); não há menção a NR Tuition Fellowship para o MSBA. Início em agosto (sessão de verão; 6 units no verão, 12 em cada trimestre fall/winter/spring, 2 no verão seguinte). Tuition US$1,560/unit x 44 = US$68,640 para ingresso em 2026 (confere; valor 2027 não publicado). Turma que entrou em 2025: 78 alunos, GPA 3.3, GRE Quant 166, 3 anos de experiência. GMAT Médio vira 'Verificar' (a escola não considera mais GMAT/GRE). Emprego/salário não reconferidos."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UC San Diego",
+   "Estado": "CA",
+   "Cidade": "La Jolla"
+  },
+  "updates": {
+   "Início": "Summer (fim de jul/ago)",
+   "Taxa Empregabilidade %": 81.4,
+   "Salário Médio Pós USD": 103073,
+   "Principais Empregadores": "Amazon, Apple, Google, Microsoft, Capital One, Accenture, KPMG, Qualcomm, Intuit, Tesla, Walmart, IBM, CVS Health, Bytedance (relatório oficial de emprego do MSBA 2025; indústrias: Tecnologia 22,8%, Consultoria 17,7%, Serviços Financeiros 8,9%)",
+   "TA/RA Disponível": "Sim, limitado (a Rady oferece um número limitado de vagas de TA por trimestre)",
+   "Processo TA/RA": "Vagas de TA e processo de candidatura divulgados aos alunos da Rady após o início do programa (Rady TA website)",
+   "Graduate Assistantships": "Limitadas: só TA positions da Rady por trimestre; sem GA/RA estruturado para o MSBA",
+   "Tipos de Bolsa": "Bolsa de mérito (consideração automática para admitidos domésticos e internacionais, sem aplicação separada, suporte limitado); fellowships de doadores e especiais; UC Scholarship de US$10,000 para egressos de qualquer campus UC",
+   "Deadline Aplicação": "Round 1: 1 out 2026; Round 2: 15 nov 2026; Round 3: 15 jan 2027; Round 4: 1 abr 2027 (deadline de fellowship e internacional); Round 5: 15 mai 2027 (só domésticos)",
+   "Rounds Aplicação": "5 rounds (ingresso Summer 2027, único início do ano); Round 4 (1 abr 2027) é o último para internacionais e para fellowships; revisão rolling, aplicar cedo aumenta chance de vaga; taxa US$150",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 85 (nova escala: 4.5; competitivo 100+) / IELTS mín. 7.0 / PTE mín. 65 / Duolingo mín. 120 (todos válidos por 2 anos; sem preferência entre os testes)",
+   "Documentos Necessários": "Formulário online; resume/CV; detalhes de background quantitativo (programação e ferramentas estatísticas); transcripts (tradução certificada se necessário); 2 cartas de recomendação; Statement of Purpose (máx. 500 palavras, história pessoal de compromisso/liderança); GMAT/GRE opcional; teste de inglês; taxa de US$150; DataCamp de Python e R obrigatório antes do início para admitidos"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://rady.ucsd.edu/programs/ms-business-analytics/admissions/index.html",
+   "https://rady.ucsd.edu/admissions/ms-in-business-analytics/faqs/",
+   "https://rady.ucsd.edu/programs/ms-business-analytics/program-faqs.html",
+   "https://rady.ucsd.edu/programs/ms-business-analytics/tuition-aid.html",
+   "https://rady.ucsd.edu/_resources/data/career/msba-career.json"
+  ],
+  "observacoes": "DET 120 confirmado na página oficial de admissão. Emprego 2025: 81.4% em 6 meses (81.1% reportaram), salário médio US$103,073, bônus US$12,312. Programa de 11 meses e 50 units, início só no verão (aulas começam no fim de julho). Tuition por unit não reconferida (a Rady manda para a TritonLink). Ranking QS Business Analytics 2026: #4 na Califórnia (não é posição nacional/global; Ranking QS atual 40 não reconferido)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Minnesota",
+   "Estado": "MN",
+   "Cidade": "Minneapolis"
+  },
+  "updates": {
+   "Deadline Aplicação": "Round 1: 1 nov 2026 (bolsa garantida se admitido; decisão 28 dez); Round 2: 15 jan 2027 (decisão 15 mar); Round 3: 15 mar 2027 (final para internacionais fora dos EUA; decisão 23 abr); Round 4: 15 mai 2027 (final para internacionais já nos EUA; decisão 7 jun); Round 5: 15 jun 2027 (só domésticos; decisão 6 jul)",
+   "Rounds Aplicação": "5 rounds para ingresso único no Fall 2027; Round 3 (15 mar 2027) é o último para quem mora fora dos EUA; aplicação completa até o Round 1 (1 nov 2026) + admissão = bolsa garantida; taxa US$75",
+   "Testes Inglês Aceitos": "TOEFL iBT, IELTS, Duolingo e outros aceitos conforme a Graduate School da UMN (pisos gerais: TOEFL iBT 79 / IELTS 6.5 / DET 115; o programa pode exigir mais); obrigatório salvo isenção da Graduate School (estudar em inglês nem sempre dispensa)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 115,
+  "fontes": [
+   "https://carlsonschool.umn.edu/graduate/masters/business-analytics-ai/admissions",
+   "https://carlsonschool.umn.edu/graduate/masters/business-analytics-ai/tuition-aid",
+   "https://carlsonschool.umn.edu/graduate/masters/business-analytics-ai/tuition-aid/scholarships",
+   "https://grad.umn.edu/admissions/application-instructions/international-student-resources/english-language-proficiency"
+  ],
+  "observacoes": "Sites da UMN/Carlson bloqueiam curl e WebFetch (Cloudflare/403); dados conferidos pelos trechos das páginas oficiais nos resultados de busca. Deadlines Fall 2027 corrigidos (5 rounds: 1 nov, 15 jan, 15 mar, 15 mai, 15 jun; antes 4 jan/1 fev). DET aceito; o mínimo de 115 é o piso da Graduate School, sem mínimo próprio do programa visto. Tuition 2026-27 confere: US$1,000/crédito residente (US$45,000) e US$1,250 não residente/intl (US$56,250), fees ~US$9,100 para intl, depósito de US$1,500. Emprego e perfil da turma não reconferidos."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Purdue",
+   "Estado": "IN",
+   "Cidade": "West Lafayette"
+  },
+  "updates": {
+   "Testes Inglês Aceitos": "Pontuações preferidas pela Daniels School: TOEFL iBT nova escala 4.5 em cada seção e no total (scores de até 24 meses; MyBest não aceito) / IELTS 7.0 em cada banda e no overall (One Skill Retake não aceito) / Duolingo 130 no overall e em cada subscore (Comprehension, Conversation, Literacy, Production); dispensa para diploma dos últimos 36 meses em instituição de ensino em inglês num país anglófono nativo",
+   "Deadline Aplicação": "Early (prioridade para bolsa): 15 dez 2026; Final internacional: 1 abr 2027; Final EUA/alunos Purdue: 1 jul 2027 (admissão rolling, início em agosto)",
+   "Rounds Aplicação": "Admissão rolling com 3 deadlines: Early 15 dez (depois dele bolsa não é garantida, depende de verba), internacional 1 abr, doméstico 1 jul; taxa US$75 para internacionais (isenta para residentes permanentes dos EUA, alunos/ex-alunos Purdue e militares)",
+   "Tipos de Bolsa": "Bolsas de mérito para os melhores candidatos (todos os aplicantes são considerados para bolsas e assistantships na análise da admissão, sem inscrição separada); vagas pagas por hora em centros de pesquisa da Daniels School (ex.: Krenicki Center)",
+   "Ranking US News": "Verificar",
+   "Destaques Currículo": "36 créditos: núcleo de 15 créditos (ex.: Optimization Modeling with Spreadsheets), seletivas restritas de 7-8 créditos (ex.: Web Data Analytics com Python), capstone de 3-4 créditos (Industry Practicum), 6 créditos de eletivas de negócios e 3-5 de eletivas livres (podem ser em CS/Engenharia)",
+   "Documentos Necessários": "2 cartas de recomendação (somente online; preferencialmente professores e, se possível, 1 do supervisor direto); transcripts oficiais e diploma com tradução certificada; resume; Academic Statement of Purpose (até 500 palavras); Personal History Statement (até 500 palavras); teste de inglês (internacionais); GMAT/GRE opcional com GPA ≥ 3.0; entrevista se selecionado; taxa de US$75 (intl)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://business.purdue.edu/masters/programs/ms-business-analytics-and-information-management/application.php",
+   "https://business.purdue.edu/masters/programs/ms-business-analytics-and-information-management/tuition.php",
+   "https://business.purdue.edu/masters/programs/ms-business-analytics-and-information-management/curriculum.php"
+  ],
+  "observacoes": "DET aceito; 130 é a pontuação 'preferida' da escola (overall e subscores), não um corte formal. TOEFL agora é pedido na nova escala (4.5 por seção); o antigo '93 total' foi substituído. Tuition por crédito confere: US$790 residente IN, US$1,020 out-of-state, US$1,575 internacional (36 x 1,575 = US$56,700). Ranking US News tinha texto ('#9 Business Analytics, 2023') em coluna numérica e passou a 'Verificar' (ranking de especialidade não reconferido). Emprego/salário/perfil da turma não reconferidos."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "U of Rochester",
+   "Estado": "NY",
+   "Cidade": "Rochester"
+  },
+  "updates": {
+   "Deadline Aplicação": "Round 1: 15 out 2026 (decisão até 15 dez); Round 2: 5 jan 2027 (decisão 15 mar); Round 3: 1 mar 2027 (decisão 15 abr); Round 4: 1 mai 2027 (decisão 1 jun) -- Fall 2027. Spring (jan 2027): Round 1 15 out 2026; Round 2 1 dez 2026",
+   "Rounds Aplicação": "Fall: 4 rounds (janelas: 1 set-15 out, 16 out-5 jan, 6 jan-1 mar, 2 mar-1 mai); Spring (MS analytics): 2 rounds (15 out, 1 dez); revisão rolling (decisão pode sair antes da data garantida); bolsa de mérito em todos os rounds, mas o fundo diminui ao longo do ciclo; taxa US$90 (isenta para militares/veteranos e outros elegíveis)",
+   "Documentos Necessários": "Aplicação online; resume em formato de negócios (recomendado até 2 páginas); 1 ensaio obrigatório (400-700 palavras); transcripts; GMAT/GRE opcional; TOEFL/IELTS/Duolingo (internacionais, com waiver possível); 0 cartas de recomendação (Simon não aceita cartas); taxa de US$90",
+   "Entrevista": "Por convite (o FAQ menciona 'invitation to interview')",
+   "GMAT/GRE Obrigatório": "Não (opcional; aceita GMAT Focus, GMAT 10th Edition, GRE e Executive Assessment)",
+   "Testes Inglês Aceitos": "TOEFL iBT, IELTS Academic ou Duolingo; mínimos preferidos (não corte rígido, avaliação holística): TOEFL 100 / IELTS 7.0 sem banda abaixo de 6.5 / Duolingo 125; waiver possível mediante documentação"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 125,
+  "fontes": [
+   "https://simon.rochester.edu/programs/full-time-ms/admissions",
+   "https://simon.rochester.edu/programs/full-time-ms/admissions/admissions-faqs",
+   "https://simon.rochester.edu/programs/full-time-ms-in-business-analytics"
+  ],
+  "observacoes": "Corrigido: Simon NÃO aceita cartas de recomendação (antes '2 referências'); 1 ensaio de 400-700 palavras. DET aceito; 125 é o 'preferred minimum' (Simon diz que avalia de forma holística). Deadlines Fall 2027 e Spring conferem. Salário US$75,801 = média de base + bônus dos formados empregados nos EUA (2025). Mais de 90% dos MS recebem bolsa de mérito (confere). Tuition não reconferida."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Notre Dame",
+   "Estado": "IN",
+   "Cidade": "Notre Dame"
+  },
+  "updates": {
+   "Início": "Summer ou Fall",
+   "Deadline Aplicação": "Early Action: 10 set 2026 (decisão 16 out); Round 1: 20 out 2026 (decisão 11 dez); Round 2: 7 jan 2027 (decisão 5 mar); Round 3: 17 mar 2027 (decisão 30 abr) -- internacionais devem aplicar até o Round 2 por causa do visto",
+   "Testes Inglês Aceitos": "TOEFL, IELTS, PTE Academic ou Duolingo aceitos (obrigatório para não cidadãos dos EUA); nota mínima do MSBA não publicada na página de aplicação; dispensa com 6+ semestres ou 9+ trimestres integrais em universidade de ensino em inglês",
+   "Tipos de Bolsa": "Bolsas de mérito (Mendoza Merit Scholarships / Dean's Fellowships) abertas a todos os candidatos qualificados, independente de cidadania; decididas pelo comitê junto com a admissão (preencher a seção de bolsa na aplicação); Early Action tem consideração de bolsa garantida",
+   "Principais Empregadores": "Capital One, Deloitte, EY, Honeywell, P&G, Salesforce, The Walt Disney Company, United Airlines (Class of 2025 e anteriores; consultoria, serviços financeiros e tecnologia)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://mendoza.nd.edu/graduate-programs/business-analytics-msba/",
+   "https://mendoza.nd.edu/graduate-programs/business-analytics-msba/apply/"
+  ],
+  "observacoes": "DET aceito, mas sem nota mínima publicada para o MSBA. Deadlines do ciclo 2027 conferem (Early Action 10 set 2026 já passou; para Fall 2028 o EA deve cair em set 2027). Tuition 2026-27 US$69,630, 31 créditos, turma de 84, GPA 3.62, emprego 92% e salário médio US$81,313 (Class of 2025) conferem. Página principal indica início 'Summer or Fall'. Documentos (1 recomendação, ensaio 500 palavras, Applicant Snapshot de 4 slides, video assessment) conferem. Taxa de US$50 confirmada."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UT Dallas",
+   "Estado": "TX",
+   "Cidade": "Richardson"
+  },
+  "updates": {
+   "Duração (meses)": 16,
+   "Total Créditos": 36,
+   "Tuition Total (Intl) USD": 55008,
+   "Tuition Total (Residente) USD": 45000,
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 80 / IELTS mín. 6.5 / PTE mín. 67 / Duolingo mín. 105 / ELS nível 112 (mínimos da pós-graduação da UT Dallas, catálogo 2026); dispensa para países anglófonos ou diploma com instrução e avaliação em inglês",
+   "Documentos Necessários": "Aplicação online; resume; ensaio sobre interesses acadêmicos e objetivos profissionais; transcripts; pelo menos 1 carta de recomendação (acadêmica ou profissional); teste de inglês (internacionais, até 2 anos); GMAT/GRE opcional (exigido só para concorrer à Dean's Excellence Scholarship); taxa de US$75",
+   "Destaques Currículo": "36 créditos (18 de núcleo + 18 de eletivas); formatos Flex (ritmo próprio, 11 trilhas: Data Science, Data Engineering, Accounting, Cybersecurity, Decisions & Operations, Financial, Healthcare, Marketing, Social Media e Enterprise Systems Analytics etc.) ou Cohort (Data Science ou Accounting Analytics); cursos de IA/LLMs; opção de estágio",
+   "Tipos de Bolsa": "Dean's Excellence Scholarship (só formato Flex; muito competitiva; exige GMAT/GRE oficial; internacionais passam a pagar tuition de residente); Dean's Impact e Program Excellence Scholarships; bolsas de doadores; formato Cohort: bolsas de US$15,000 para candidatos destacados, mas sem benefício de tuition de residente; algumas graduate assistantships a critério da área de Information Systems",
+   "Principais Empregadores": "Microsoft, Google, Amazon, Apple, Dell, JPMorgan Chase, Accenture, Deloitte (não reconferido); pesquisa de egressos 2023: 83% empregados em até 90 dias, pacote médio de US$93,000 (todos os formados do programa)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://academics.utdallas.edu/fact-sheets/jindal/ms-business-analytics-and-artificial-intelligence/",
+   "https://catalog.utdallas.edu/2026/graduate/admission",
+   "https://catalog.utdallas.edu/2026/graduate/programs/jsom/business-analytics",
+   "https://jindal.utdallas.edu/ms-business-analytics-faq/",
+   "https://infosystems.utdallas.edu/ms-ba-options/"
+  ],
+  "observacoes": "DET aceito, mínimo 105 (catálogo de pós-graduação 2026). Corrigido: 36 créditos (não 30) e mínimo de 1 carta de recomendação. Tuition total recalculada = custo/crédito já registrado x 36 (US$1,528 intl / US$1,250 residente; valores por crédito não reconferidos, a UTD cobra por semestre). Duração: coluna tinha texto; 16 meses = 3 semestres full-time (Flex é autoritmado; com 9 créditos/semestre seriam 4 semestres/~20 meses). Dean's Excellence Scholarship dá tuition de residente a internacionais (só Flex); Cohort tem bolsa de US$15,000 sem tuition de residente. Emprego 83% / US$93,000 confere (pesquisa de 2023). Deadlines não reconferidos (páginas de admissão da Jindal retornaram 'page not found')."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Texas A&M",
+   "Estado": "TX",
+   "Cidade": "Houston"
+  },
+  "updates": {
+   "Formato": "Híbrido (aulas ao vivo às terças e quintas à noite, presencial no CityCentre Houston ou online em tempo real; orientação presencial de 3 dias em agosto)",
+   "Duração (meses)": 17,
+   "Total Créditos": 36,
+   "Custo/Crédito (Intl) USD": 1944.44,
+   "Custo/Crédito (Residente) USD": 1944.44,
+   "Fees Adicionais USD": 0,
+   "Experiência Profissional": "Obrigatória: mínimo de 3 anos de experiência full-time; recém-formados precisam de pelo menos 2 estágios (quem não cumpre não é considerado)",
+   "GMAT/GRE Obrigatório": "Sim, salvo waiver: GMAT no top 25% esperado; waiver possível após análise completa do histórico acadêmico (conversar com a equipe do programa)",
+   "Matérias Pré-Requisito": "1 curso de estatística concluído com nota B ou melhor (ex.: STAT 301/302/303 da TAMU ou equivalente)",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 80 (antes de 21 jan 2026) ou 4.5 na nova escala com mín. 4.0 por seção / IELTS Academic mín. 6.0 (mínimos da Graduate School da Texas A&M; programas podem exigir mais); Duolingo não aceito atualmente (só foi aceito temporariamente no Spring 2022)",
+   "Documentos Necessários": "Participar de uma information session (obrigatório); GPA; resume; essay/statement of purpose (como o mestrado ajudará sua organização); transcript não oficial; comprovação dos pré-requisitos (estatística); GMAT (salvo waiver); teste de inglês; entrevista avaliativa; número de cartas de recomendação não informado na página do programa",
+   "Destaques Currículo": "36 créditos em 4 semestres consecutivos lock-step (fall, spring, summer, fall), 17 meses; ANLY 605 (visualização de dados), liderança, IA e tecnologias emergentes; capstone baseado no trabalho (modelo preditivo com dados reais; valor médio de US$127,8 milhões em 2025); voltado a profissionais já empregados; U.S. News 2026: #1 Online Master's in Business (Public). Métricas de carreira (96% com aumento salarial, 92% com novo cargo) refletem alunos já empregados, não recém-formados"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://mays.tamu.edu/graduate/masters/ms-programs/analytics/",
+   "https://mays.tamu.edu/graduate/masters/ms-programs/analytics/program-details/",
+   "https://grad.tamu.edu/english-language-proficiency-requirements"
+  ],
+  "observacoes": "ALERTA: programa voltado a profissionais já empregados (exige 3 anos de experiência full-time ou 2 estágios para recém-formados), com aulas noturnas 2x/semana que podem ser assistidas online; é ranqueado pela U.S. News como programa ONLINE. Elegibilidade para visto F-1/I-20 não é mencionada e é duvidosa para uma candidata internacional vindo do Brasil; confirmar com o programa antes de aplicar. DET não aceito pela Graduate School da TAMU (só foi aceito no Spring 2022). Custo fechado de US$70,000 (US$17,500 por semestre, incluindo tuition, fees, software, livros e orientação), igual para residentes e não residentes; custo por crédito calculado como 70,000/36. Deadlines Fall 2027 (3 dez / 1 abr bolsa / 25 jun) conferem."
+ }
+]

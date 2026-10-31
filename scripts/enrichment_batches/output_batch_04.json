@@ -1,0 +1,244 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "Stony Brook SUNY",
+   "Estado": "NY",
+   "Cidade": "Long Island"
+  },
+  "updates": {
+   "Formato": "Presencial (full-time; turma prescrita)",
+   "Duração (meses)": 12,
+   "Início": "Fall only",
+   "Destaques Currículo": "Programa novo (lançado Fall 2026); 30 créditos prescritos (10 disciplinas, sem eletivas): Data Visualization & Storytelling, Statistical Foundations, Decision Modeling, Big Data & AI Foundations, Machine Learning & AI for Business, Supply Chain Analytics, Financial Risk Analytics, Database Management, Digital Marketing Analytics, Analytics Practicum",
+   "Custo/Crédito (Intl) USD": 1158,
+   "Tuition Total (Intl) USD": 27800,
+   "Tuition Total (Residente) USD": 11310,
+   "Fees Adicionais USD": 2912,
+   "Seguro Saúde (programa) USD": 5000,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "College of Business NÃO avalia candidatos para bolsa na admissão; algumas bolsas e assistantships podem estar disponíveis a internacionais só depois de iniciar os estudos (sem valores publicados)",
+   "Quão Realista (Intl)": "Baixa — sem bolsa de mérito na admissão; funding só possível após a matrícula e sem valores publicados (a escola argumenta que o tuition baixo compensa)",
+   "Processo TA/RA": "Não há processo na admissão; eventuais assistantships/bolsas só após início do curso, via universidade/departamentos",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 80 (exames antes de 21/01/2026) ou 4.5 na nova escala; IELTS mín. 6.5 (recomendado nenhuma banda < 6); Gateway English Test mín. 495; Duolingo NÃO aceito pela College of Business",
+   "Deadline Aplicação": "Fall 2027: Internacional 1 mai 2027; Doméstico 15 jul 2027 (somente intake de Fall)",
+   "Rounds Aplicação": "Sem rounds numerados; prazo único por categoria (intl 1 mai / doméstico 15 jul), revisão prioritária para aplicações completas até o prazo",
+   "Documentos Necessários": "Aplicação online; transcripts oficiais (tradução oficial em inglês + originais; WES pode ser exigido); resume; personal statement; 3 cartas de recomendação (professores ou empregadores); TOEFL/IELTS/Gateway; GMAT/GRE opcional (recomendado se GPA < 3.2); documentação oficial de Statistics e Precalculus/Calculus",
+   "Matérias Pré-Requisito": "Comprovação oficial de disciplinas de Statistics E Precalculus ou Calculus",
+   "GMAT/GRE Obrigatório": "Opcional (fortemente recomendado se GPA < 3.2)"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.stonybrook.edu/business/graduate/ms-programs/business-analytics-intelligence.html",
+   "https://www.stonybrook.edu/business/graduate/admissions.html",
+   "https://www.stonybrook.edu/business/graduate/international-cost.html",
+   "https://graduateadmissions.stonybrook.edu/portal/deadline_dates?tab=home",
+   "https://www.stonybrook.edu/sfs/tuition-fees/Graduate%20Tuition%20and%20Fee%20Per%20Credit%20Rate%20Chart.pcf.html"
+  ],
+  "observacoes": "Programa novo (1ª turma Fall 2026), sem dados de empregabilidade/turma. Página de admissão da CoB lista só TOEFL/IELTS/Gateway (DET não aceito). Tuition 2026-27 non-resident US$1,158/crédito com teto flat de US$13,900/semestre para 12+ créditos: total assumindo 2 semestres full-time = US$27,800 (residente 2×US$5,655). Fees obrigatórias ~US$1,456/sem (sem seguro). Seguro internacional ~US$2,500/semestre (estimativa da CoB). CoB cita custo total ~US$17,518/semestre (tuition+fees+seguro doméstico). Duração: CoB fala em 'one year' full-time."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Binghamton SUNY",
+   "Estado": "NY",
+   "Cidade": "Binghamton"
+  },
+  "updates": {
+   "Início": "Fall only (aulas de ago a jun: Fall, Winter, Spring, Summer I)",
+   "Destaques Currículo": "Cross-disciplinary (SoM+Harpur+Watson); 30 créditos em ~10 meses (12 cr Fall + 12 cr Spring + 3 cr Winter + 3 cr Summer); projetos aplicados com dados reais de empresas/ONGs parceiras",
+   "Custo/Crédito (Intl) USD": 1130,
+   "Tuition Total (Intl) USD": 33718,
+   "Tuition Total (Residente) USD": 14136,
+   "Fees Adicionais USD": 3067,
+   "Tipos de Bolsa": "Programa NÃO oferece assistantships (FAQ oficial); mestrandos são em geral autofinanciados; Clifford D. Clark Diversity Fellowship (competitiva, só cidadãos/residentes permanentes dos EUA, aplicar até 15 jan); bolsas externas",
+   "Graduate Assistantships": "Não oferecidas pelo programa (FAQ oficial)",
+   "Salário Médio Pós USD": 80000,
+   "Principais Empregadores": "Não divulgados por nome; egressos em saúde, hotelaria, marketing, manufatura, serviços financeiros, seguros e contabilidade (cargos: pricing analyst, systems analyst, data analyst)",
+   "GMAT/GRE Obrigatório": "Não (aceito, mas não exigido)",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 80 (nova escala: 4, nenhuma banda < 4); IELTS mín. 6.5 (nenhuma banda < 5.0); Duolingo mín. 105; PTE Academic mín. 53; TOEFL Essentials mín. 9 (programa segue o padrão da universidade)",
+   "Deadline Aplicação": "Recomendado (consideração plena): 15 mar 2027; rolling depois; somente Fall. Clark Diversity Fellowship (só EUA): 15 jan 2027",
+   "Rounds Aplicação": "Rolling, somente Fall (sem intake de Spring); prazo recomendado 15 mar; sem prazo internacional separado publicado",
+   "Documentos Necessários": "Aplicação online; transcripts não-oficiais de todas as instituições; resume; personal statement (1-2 páginas: coursework, estágios/experiência, carreira); 2 cartas de recomendação; teste de inglês; comprovação financeira e passaporte (internacionais); GMAT/GRE opcional"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://www.binghamton.edu/apps/catalog/application-requirement/view/B56",
+   "https://www.binghamton.edu/academics/programs/data-analytics/admissions.html",
+   "https://www.binghamton.edu/academics/programs/data-analytics/faq.html",
+   "https://www.binghamton.edu/academics/programs/data-analytics/about.html",
+   "https://www.binghamton.edu/apps/academics/program/gd/data-analytics",
+   "https://www.binghamton.edu/admissions/graduate/apply/international-application-requirements.html",
+   "https://www.binghamton.edu/student-accounts/tuition-fees/tuition-semester/fall.html",
+   "https://www.binghamton.edu/student-accounts/tuition-fees/tuition-semester/summer.html"
+  ],
+  "observacoes": "DET aceito: página de requisitos do programa remete a 'University Standards' (DET 105). A página do programa cita só TOEFL/IELTS, mas a de requisitos (que prevalece) usa o padrão da universidade. Tuition Fall 2026 non-resident: US$13,565/semestre full-time (+US$1,320 fees); Winter/Summer por crédito US$1,098 (+US$71.20 fees; tabela de verão pode ser do ano anterior). Total estimado intl = 2×13,565 + 6×1,098 = US$33,718; residente = 2×5,655 + 6×471 = US$14,136. Custo/crédito intl = 13,565/12. Removida a menção a 'bolsa de mérito automática GPA≥3.0' por não aparecer nas fontes oficiais. Salário: 'average starting salary nearly $80,000' (coorte mais recente); 'quase todos' com oferta até a formatura (sem %)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "RIT",
+   "Estado": "NY",
+   "Cidade": "Rochester"
+  },
+  "updates": {
+   "STEM Designated": "Sim",
+   "Início": "Fall ou Spring",
+   "Destaques Currículo": "30 créditos; AI integrada (ML, LLMs, reinforcement learning, SHAP/LIME, governança de dados, AI responsável); eletivas em predictive analytics, financial/marketing/accounting analytics; co-op opcional mas fortemente incentivado; bridge courses se faltar programação OO/estatística",
+   "Custo/Crédito (Intl) USD": 2151,
+   "Custo/Crédito (Residente) USD": 2151,
+   "Tuition Total (Intl) USD": 64542,
+   "Tuition Total (Residente) USD": 64542,
+   "Fees Adicionais USD": 1100,
+   "Tipos de Bolsa": "Bolsas de admissão da Saunders (mérito, decididas junto com a admissão, por ordem de chegada das aplicações completas; valores não publicados); Master Up (mín. 30% do tuition) só p/ cidadãos/residentes EUA ou internacionais residindo nos EUA e com início até ago/2027 — NÃO se aplica; Saunders College Scholarships (após 9 créditos, GPA ≥ 3.5, aplicar até 15 fev); co-op remunerado",
+   "Quão Realista (Intl)": "Moderada — internacionais recebem oferta de bolsa de mérito junto com a admissão (valor não publicado; aplicar cedo aumenta chance), mas as bolsas grandes (Master Up 30%, Master Plan 40%) excluem quem mora fora dos EUA",
+   "GPA Mínimo": 3,
+   "GMAT/GRE Obrigatório": "Obrigatório para diplomas de universidades internacionais (GMAT preferido; GRE aceito); waiver só para diploma de instituição americana credenciada",
+   "Matérias Pré-Requisito": "Experiência esperada em programação orientada a objetos e estatística; sem essa base, bridge courses são atribuídos",
+   "Testes Inglês Aceitos": "TOEFL iBT 88 (4.5 na nova escala); IELTS 6.5; Duolingo 130; PTE Academic 60; LanguageCert Academic 74 (admissão condicional possível abaixo do mínimo)",
+   "Deadline Aplicação": "Prioridade Fall: 1 ago 2027 (rolling; bolsas por ordem de chegada — aplicar o quanto antes); Spring: 1 dez; Summer: 1 abr",
+   "Rounds Aplicação": "Rolling; datas de prioridade 1 ago (Fall), 1 dez (Spring), 1 abr (Summer); bolsas decididas por ordem de recebimento das aplicações completas; aplicação abre 1 ano antes do início",
+   "Documentos Necessários": "Aplicação online + taxa; transcripts (em inglês) de toda graduação/pós; resume/CV; personal statement (2 páginas, espaço duplo); GMAT/GRE (obrigatório p/ diploma internacional); teste de inglês; 0 cartas de recomendação (opcionais)",
+   "Entrevista": "Não exigida"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://www.rit.edu/study/business-analytics-and-ai-ms",
+   "https://www.rit.edu/business/graduate-admissions",
+   "https://www.rit.edu/admissions/tuition-and-fees",
+   "https://www.rit.edu/business/scholarships",
+   "https://www.rit.edu/admissions/masterup"
+  ],
+  "observacoes": "Tuition 2026-27 full-time (12-18 cr/semestre) US$64,542/ano (2 semestres); 30 créditos em 2 semestres = US$64,542 (custo/crédito efetivo 64,542/30; taxa part-time é US$2,690/cr). Fees: activity US$470 + health services US$630 por ano. Seguro internacional é cobrado automaticamente (valor não levantado). Conflito: página de admissão da Saunders ainda cita TOEFL 92/IELTS 7.0 (texto antigo); página do programa 2026-27 lista DET 130/TOEFL 88/IELTS 6.5 — usei a do programa. 86% outcomes rate e US$84K salário conferem com a página oficial. Ranking: #27 TFE Times (não é US News/QS)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Syracuse",
+   "Estado": "NY",
+   "Cidade": "Syracuse"
+  },
+  "updates": {
+   "Início": "Fall only (Spring só para MS Professional Accounting)",
+   "Destaques Currículo": "36 créditos; opções de 16 meses/3 semestres ou 21 meses/4 semestres; combina estatística, TI e negócios (foco em decisão, menos programação que data science); eletivas flexíveis",
+   "Fees Adicionais USD": 2425,
+   "Seguro Saúde (programa) USD": 4948,
+   "Tipos de Bolsa": "Bolsas parciais de mérito da Whitman (percentual do tuition por semestre, toda a duração do programa); consideração automática ao completar a aplicação; recomendado aplicar nos prazos iniciais; valores não publicados",
+   "Quão Realista (Intl)": "Moderada — internacionais recebem a mesma consideração que americanos para as bolsas de mérito (parciais, % do tuition); GMAT/GRE e aplicação cedo (nov/jan) aumentam a chance",
+   "Principais Empregadores": "BAE Systems, Carrols Corporation, Deloitte, Goldman Sachs, T-Mobile (lista oficial de empregadores do MS in Business Analytics)",
+   "GMAT/GRE Obrigatório": "Não exigido no ciclo atual; recomendado (pode aumentar chance de admissão e de bolsa de mérito); GMAT ≥640/GRE ≥320 dá isenção da taxa de aplicação",
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 100 (speaking preferencial 23); IELTS Academic mín. 7.0 (speaking preferencial 7.0); Duolingo mín. 130",
+   "Deadline Aplicação": "Priority: 15 nov 2026; Early: 15 jan 2027; Regular: 15 mar 2027; Final: 15 abr 2027 (internacionais fortemente incentivados a aplicar até nov ou jan)",
+   "Rounds Aplicação": "4 prazos para Fall: Priority 15 nov, Early 15 jan, Regular 15 mar, Final 15 abr; decisão em ~10 dias úteis; bolsas enquanto houver recursos (aplicar cedo)",
+   "Documentos Necessários": "Aplicação online + taxa US$75; 1 essay obrigatório (+1 opcional); business resume; transcript da graduação (e pós, se houver); 2 cartas de recomendação (profissionais sugeridas, acadêmicas aceitas); TOEFL/IELTS/Duolingo; GMAT/GRE opcional; comprovação de fundos para o I-20"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://whitman.syracuse.edu/graduate-programs/full-time-ms-admissions",
+   "https://whitman.syracuse.edu/graduate-programs/full-time-masters-program/admitted-graduate-students/tuition-cost-of-attendance-and-financial-aid",
+   "https://whitman.syracuse.edu/graduate-programs/graduate-employment-outcomes",
+   "https://whitman.syracuse.edu/graduate-programs/full-time-ms-admissions/full-time-ms-admissions",
+   "https://whitman.syracuse.edu/full-time-masters-program/masters-in-business-analytics"
+  ],
+  "observacoes": "Tuition 2026-27 US$2,086/crédito × 36 = US$75,096 (confirmado; 2027-28 deve subir ~3-5%). Fees (opção 16 meses): health & wellness US$425×3 + activity US$50×3 = US$1,425 + depósito de matrícula US$1,000 (creditado) = US$2,425; seguro saúde US$2,474/ano ×2 = US$4,948 (dispensável com seguro ACA). Empregabilidade/salário publicados só para o MBA (81%, US$125,692) — não usados. Taxa de aplicação US$75 com isenção para GMAT ≥640/GRE ≥320."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "BU",
+   "Estado": "MA",
+   "Cidade": "Boston"
+  },
+  "updates": {
+   "Tamanho Turma": 110,
+   "Destaques Currículo": "Trilhas de 9, 12 (com capstone de indústria, set–ago) ou 16 meses (com estágio de 3-6 meses elegível a OPT); concentrações: AI/Data & Methods, Healthcare Analytics (rara em MSBA), Marketing Analytics, eletivas customizadas; ~100 alunos por coorte",
+   "Seguro Saúde (programa) USD": 4054,
+   "Transporte/mês USD": 130,
+   "Outros Gastos/mês USD": 382,
+   "Tipos de Bolsa": "Bolsas de mérito da Questrom: todos os admitidos são considerados automaticamente (sem aplicação separada), desde que apliquem dentro dos rounds; aviso vem no pacote de admissão; 60% da turma recebeu bolsa (valores não publicados); GMAT/GRE competitivo dá preferência",
+   "Quão Realista (Intl)": "Moderada — 60% da turma recebe bolsa de mérito e internacionais são elegíveis (84% da turma é internacional); valores não publicados; sem assistantships",
+   "Taxa Empregabilidade %": 96,
+   "Principais Empregadores": "McKinsey & Company, Dell, BlackRock, Cigna, NBC Universal, Deloitte, Fidelity, AstraZeneca, Amazon (lista oficial do MSBA)",
+   "GPA Médio Admitidos": 3.4,
+   "GMAT Médio": 740,
+   "Testes Inglês Aceitos": "TOEFL iBT mín. recomendado 90 (4.5 na nova escala); IELTS 6.5 em cada banda; Duolingo mín. recomendado 120; PTE aceito (padrão em definição) — dispensa possível com graduação em inglês",
+   "Deadline Aplicação": "Round 1: 13 out 2026; Round 2: 17 nov 2026; Round 3: 7 jan 2027; Round 4: 16 fev 2027; Round 5: 16 mar 2027",
+   "Documentos Necessários": "Aplicação online + taxa US$125 (isenção para quem participa de eventos de admissão); resume (PDF); transcripts não-oficiais (oficiais se matricular); 3 video essays (Kira Talent, 30s preparo/60s resposta, 1 tentativa); GMAT/GRE opcional; TOEFL/IELTS/Duolingo; ensaio opcional; 0 cartas de recomendação exigidas"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/admissions/",
+   "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/admissions/class-profile/",
+   "https://www.bu.edu/questrom/graduate-programs/specialty-masters-programs/ms-in-business-analytics/",
+   "https://questromworld.bu.edu/grad/essentials/financial-aid/cost-of-attendance/"
+  ],
+  "observacoes": "Tuition 2026-27 (12 meses: Fall+Spring+Summer) US$86,716 e fees US$1,823 confirmados (inclui taxa única de US$500 do MSBA); 2027-28 deve subir. Seguro BU US$4,054/ano (internacional não pode dispensar com seguro estrangeiro). COA oficial: transporte US$1,554/ano, pessoal US$4,580/ano. Perfil da turma: 110 matriculados, 997 aplicações (taxa de aceitação não publicada), GPA mediano 3.4, GMAT mediano 740, TOEFL médio 101, 84% internacionais. Empregabilidade 96% em 6 meses (média 3 anos); remuneração total média ano 1 US$98K+ (total comp, não base) — mantido salário base US$93K do relatório 2022. FAQ antigo ainda cita TOEFL 95/DET 110; usei os mínimos atuais (90/120). Página mostra '#3 Full-Time In-Person MSBA (Tech Guide 2026)' — não é US News/QS."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Northeastern",
+   "Estado": "MA",
+   "Cidade": "Boston"
+  },
+  "updates": {
+   "Duração (meses)": 16,
+   "Início": "Fall/Spring/Summer (prazos publicados para Fall 2027)",
+   "Destaques Currículo": "30 créditos (core + 9 créditos de eletivas); Python, R, SQL, Tableau, modelagem preditiva, ML e decisão com AI; capstone; co-op de pós-graduação opcional (pago, geralmente no verão); Community Impact Initiative; créditos empilháveis para MBA (Double Husky 25%); campi Boston/Oakland",
+   "Custo/Crédito (Intl) USD": 1931,
+   "Custo/Crédito (Residente) USD": 1931,
+   "Tuition Total (Intl) USD": 57930,
+   "Tuition Total (Residente) USD": 57930,
+   "Fees Adicionais USD": 2633,
+   "Seguro Saúde (programa) USD": 3049,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas de mérito D'Amore-McKim (consideração automática, redução parcial do tuition, sem contrapartida de trabalho; valores não publicados); Double Husky 25% (só ex-alunos Northeastern / trilha MS→MBA); Parent & Family 25%; African Students Access (até 50%, só graduados de universidades africanas)",
+   "Quão Realista (Intl)": "Moderada — mérito automático e aberto a internacionais, mas parcial e sem valores publicados; as bolsas de 25-50% são restritas a grupos específicos",
+   "TA/RA Disponível": "Não específico do programa — universidade cita assistantships para pós em geral, sem indicação para o MSBA",
+   "Graduate Assistantships": "Não previstos para o MSBA; co-op remunerado é a principal fonte de renda durante o curso",
+   "Matérias Pré-Requisito": "Uma disciplina de Statistics de graduação (semestre completo) antes de matricular",
+   "Testes Inglês Aceitos": "TOEFL iBT, IELTS, Duolingo e PTE Academic aceitos (TOEFL MyBest não aceito); mínimos não publicados pela escola; dispensa com diploma em inglês ou 2 anos de trabalho em ambiente anglófono",
+   "Deadline Aplicação": "Round 1: 1 nov 2026; Round 2: 1 fev 2027; Round 3: 1 mai 2027 (recomendado como limite para quem precisa de visto F-1)",
+   "Rounds Aplicação": "3 rounds para Fall 2027 (campus): 1 nov 2026, 1 fev 2027, 1 mai 2027; decisão ~1 semana após cada prazo; aplicação antecipada tem prioridade",
+   "Documentos Necessários": "Formulário; personal statement (≤500 palavras); resume; 2 cartas de recomendação; transcripts de todas as instituições (diploma estrangeiro: avaliação course-by-course + tradução certificada); disciplina de Statistics; GMAT/GRE opcional; TOEFL/IELTS/Duolingo/PTE; passaporte",
+   "Entrevista": "Entrevista online Kira (somente por convite, após a aplicação)"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://damore-mckim.northeastern.edu/programs/ms-business-analytics/",
+   "https://damore-mckim.northeastern.edu/admissions/faq/",
+   "https://damore-mckim.northeastern.edu/admissions/tuition-aid/",
+   "https://studentfinance.northeastern.edu/billing-payments/tuition-and-fees/",
+   "https://graduate.northeastern.edu/programs/ms-business-analytics/master-of-science-in-business-analytics-boston/"
+  ],
+  "observacoes": "Tuition 2026-27 D'Amore-McKim US$1,931/crédito (era US$1,884 em 2025-26) × 30 = US$57,930. Fees estimadas: program fee US$1,600 (ano 1) + international fee US$450 (única) + student center US$85×2 + recreation US$75×2 + activities US$19×2 + health & counseling US$225 = US$2,633; plano de saúde NU US$3,049/ano (valor da tabela geral). Duração oficial 12-16 meses (16 com co-op). Taxa de aplicação: isenta para programas presenciais com início em 2026 (política de 2027 não confirmada). Mínimos de inglês não publicados; os antigos (TOEFL 79/DET 105) não foram confirmados em fonte oficial. Sem dados oficiais de empregabilidade do MSBA."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "UMass Amherst",
+   "Estado": "MA",
+   "Cidade": "Amherst"
+  },
+  "updates": {
+   "Início": "Fall ou Spring (Amherst); Fall (Newton/Charles River)",
+   "Destaques Currículo": "31 créditos em 3 semestres (~12 meses); opção de campus em Amherst ou Newton (perto de Boston); concentração opcional Field Experience (+1 crédito); curso online de preparação no verão",
+   "Fees Adicionais USD": 1810,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsas de mérito (aplicantes do Early Action têm prioridade; valores não publicados); desconto de 10% para ex-alunos UMass Amherst; benefícios militares; patrocínio de empregador",
+   "Quão Realista (Intl)": "Baixa — há bolsa de mérito com prioridade para Early Action (1 nov), mas sem valores publicados; assistantships não disponíveis para MSBA",
+   "Salário Médio Pós USD": 71420,
+   "Testes Inglês Aceitos": "TOEFL iBT mín. 100 (testes antes de jan/2026) ou 5 na nova escala; IELTS Academic mín. 7.0; Duolingo mín. 120; PTE Academic mín. 68 (sem superscore/MyBest)",
+   "Deadline Aplicação": "Fall 2027 — Early Action: 1 nov 2026 (prioridade para bolsa de mérito); Priority: 1 fev 2027; Regular: 1 jun 2027; Final 1 ago 2027 só para domésticos/internacionais já com visto nos EUA. Spring: Early Action 1 ago; Priority 1 out; Final 30 nov (doméstico)",
+   "Rounds Aplicação": "Early Action (1 nov: prioridade de bolsa + reembolso da taxa de US$90), Priority (1 fev: admissão garantida de consideração + reembolso da taxa), Regular (1 jun), Final (1 ago, só quem já está nos EUA)",
+   "Documentos Necessários": "Aplicação online + taxa US$90 (reembolsada no 1º invoice se aplicar até o Priority); personal statement; resume/CV; transcripts de todas as instituições (não-oficiais na aplicação); 2 cartas de recomendação (profissionais preferidas; 1 acadêmica + 1 profissional aceito); GMAT/GRE (waiver com GPA ≥ 3.0); teste de inglês; avaliação NACES se diploma de 3 anos"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 120,
+  "fontes": [
+   "https://www.isenberg.umass.edu/programs/masters/ms/business-analytics/on-campus/admissions",
+   "https://www.isenberg.umass.edu/programs/masters/ms/business-analytics/on-campus/tuition-aid",
+   "https://www.isenberg.umass.edu/programs/masters/ms/business-analytics/on-campus"
+  ],
+  "observacoes": "Tuition confirmado: US$925/crédito × 31 = US$28,675 (flat residente/intl). Fees: US$507 (única) + US$85 registro × 4 períodos + US$438.50 health fee × 2 + US$86 Graduate Senate Tax = US$1,810 (seguro SHBP à parte). Graduate assistantships NÃO disponíveis (confirmado). Salário médio inicial US$71,420 é número geral do MSBA da Isenberg (pode incluir online). US News #5 é do MSBA ONLINE, não do presencial — não usado. Prazo Final (1 ago) não vale para internacionais fora dos EUA."
+ }
+]

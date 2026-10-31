@@ -1,0 +1,285 @@
+[
+ {
+  "match": {
+   "Nome da Universidade": "West Texas A&M University (WTAMU)",
+   "Estado": "TX",
+   "Cidade": "Canyon"
+  },
+  "updates": {
+   "Duração (meses)": 16,
+   "Custo/Crédito (Intl) USD": 814.06,
+   "Custo/Crédito (Residente) USD": 386.06,
+   "Tuition Total (Intl) USD": 26864,
+   "Tuition Total (Residente) USD": 12740,
+   "Fees Adicionais USD": 4062,
+   "Seguro Saúde (programa) USD": 3450,
+   "Ranking US News": "Verificar",
+   "GPA Mínimo": 3.0,
+   "Testes Inglês Aceitos": "TOEFL iBT 79 / IELTS 6.5 / Duolingo 105 / PTE 58 (mínimos gerais da pós-graduação WTAMU; TOEFL Essentials não aceito); alternativa: ESLI (ELS) Level III",
+   "Deadline Aplicação": "Prioridade de bolsas: 1 fev 2028 (para o ano acadêmico 2028-29); internacionais Fall: aplicação até 15 jun 2028 (taxa até 1 jul, documentos até 15 jul; enviar tudo 3 semanas antes); Spring: 1 nov; Summer: 1 mai; prazo do programa para domésticos: Fall 1 ago",
+   "Caminho Tuition Residente": "Sim, com ressalva -- internacionais com bolsa WT de US$1,000+/ano podem pagar a tarifa in-state (tuition de mestrado cai de ~US$814 para ~US$386/crédito; tabela 2026-27); candidatar-se à bolsa após a admissão. RESSALVA OFICIAL: após 2025-26, nem todos os bolsistas de US$1,000+ vão necessariamente se qualificar; confirmar com o programa",
+   "Dificuldade Entrada": "Acessível"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 105,
+  "fontes": [
+   "https://www.wtamu.edu/academics/college-business/academics/graduate-programs/programs/mscisba-program.html",
+   "https://www.wtamu.edu/_files/docs/student-support/INTERNATIONAL%20OFFICE/Intl%20%20Graduate%20Rate%20Table.pdf",
+   "https://www.wtamu.edu/student-support/international-student-services/Applicants/international-resident-tuition.html",
+   "https://www.wtamu.edu/student-support/international-student-services/Applicants/international-application-dates.html",
+   "https://www.wtamu.edu/student-support/international-student-services/Applicants/INSTRUCTIONS%20TO%20APPLY/international-graduate.html"
+  ],
+  "observacoes": "Tuition recalculada pela tabela oficial 2026-27 (intl): statutory US$478 + designated US$225.97 + graduate US$50 + graduate designated US$22.34 + diferencial de Business US$37.75 por crédito; residente = mesma soma com statutory de US$50. Totais para 33 créditos (36 se precisar do nivelamento CIDM 6300). Fees ~US$1,354/semestre full-time (9 cr) x 3 semestres. Seguro = estimativa I-20 anual 2026-27. Duração: 33 cr a 9 cr/semestre (F-1 exige full-time e no máx. 1 matéria online por semestre) => ~3-4 semestres (12-16 meses). Ranking US News anterior (#18) era de programa ONLINE de IT, não de Business Analytics -> removido. Taxa de aplicação US$90 sem isenção (confirmado)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Texas Tech",
+   "Estado": "TX",
+   "Cidade": "Lubbock"
+  },
+  "updates": {
+   "Fees Adicionais USD": 0,
+   "GPA Mínimo": "Verificar",
+   "GMAT Médio": "Verificar",
+   "Deadline Aplicação": "Internacionais: 15 jan 2028 (recomendado pela Graduate School para entrada Summer/Fall; o programa pede 6+ meses de antecedência); prioridade de fellowships: 3 fev 2028; prazo do programa para Summer: 1 mai 2028; Spring (só online/part-time): 1 dez"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 100,
+  "fontes": [
+   "https://www.depts.ttu.edu/rawlsbusiness/graduate/ms/datascience/faq/",
+   "https://www.depts.ttu.edu/rawlsbusiness/graduate/ms/datascience/"
+  ],
+  "observacoes": "Páginas oficiais do Rawls retornam 403 (bloqueio) neste lote; dados existentes (auditoria anterior) mantidos. Só correções de schema: Fees = 0 porque a estimativa oficial 2026-27 já inclui fees na tuition; GPA Mínimo e GMAT Médio tinham texto em coluna numérica -> 'Verificar' (não há mínimo publicado; o programa só cita GRE ~V150/Q152 sem fonte primária confirmada). Deadline reformatado com a data mais cedo primeiro. DET 100 citado na FAQ do programa (resumo do buscador; página bloqueada para leitura direta). Mercado/mês está 'Verificar' na entrada, não alterado por regra."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Stevens Institute of Technology",
+   "Estado": "NJ",
+   "Cidade": "Hoboken"
+  },
+  "updates": {
+   "Nome Oficial do Programa": "Master of Science in Business Analytics & Artificial Intelligence (sucessor do MS in Business Intelligence & Analytics)",
+   "Formato": "Presencial (também existe versão 100% online, separada)",
+   "Duração (meses)": 16,
+   "Início": "Fall, Spring (Summer só para domésticos)",
+   "Destaques Currículo": "Concentrações Applied Analytics & AI ou Data Science & AI; ML, deep learning, NLP e IA generativa aplicados a negócios, com ética em IA em todas as disciplinas; Industry Capstone Program com empresas; bootcamps técnicos (Python, R, Tableau); a 15 min de NYC",
+   "Total Créditos": 33,
+   "Custo/Crédito (Intl) USD": 2090,
+   "Custo/Crédito (Residente) USD": 2090,
+   "Tuition Total (Intl) USD": 68985,
+   "Tuition Total (Residente) USD": 68985,
+   "Fees Adicionais USD": 2754,
+   "Seguro Saúde (programa) USD": 2504,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Provost Master's Scholarship (bolsa de tuition, muito competitiva, concedida na admissão a alunos full-time); bolsas de mérito consideradas para quem aplica até o prazo preferencial; Stevens Fulbright Fellowship (tuition e/ou posição de 20h/semana) para bolsistas Fulbright",
+   "Quão Realista (Intl)": "Moderada -- internacionais são elegíveis às bolsas de mérito da admissão (só quem aplica até o prazo preferencial); valores não publicados; a Provost (tuition) é rara",
+   "TA/RA Disponível": "Limitado -- assistantships de mérito via departamentos, focadas em doutorado",
+   "Processo TA/RA": "Sem processo publicado para mestrado; a página oficial diz que TA/RA/fellowships são para doutorandos selecionados; perguntar ao departamento",
+   "Caminho Tuition Residente": "Não se aplica (privada: mesma tuition para todos)",
+   "Graduate Assistantships": "Voltadas a Ph.D.; para mestrado, só vagas limitadas por mérito via departamento (não garantidas)",
+   "Principais Empregadores": "Amazon, BlackRock, Capital One, Caterpillar, JPMorgan Chase, Wolters Kluwer (lista da página do programa, sem relatório numérico)",
+   "GMAT/GRE Obrigatório": "Opcional (todos os mestrados da Stevens; notas enviadas contam na admissão e nas bolsas)",
+   "Experiência Profissional": "Não obrigatória",
+   "Matérias Pré-Requisito": "Perfil ideal com cálculo e programação na graduação (engenharia, ciências, computação); candidatos menos técnicos podem conversar com admissões",
+   "Testes Inglês Aceitos": "TOEFL iBT 4 (nova escala) / IELTS 6.0 / Duolingo 110 (mínimos para consideração); sem curso de inglês obrigatório com TOEFL 4.5 / IELTS 7 / Duolingo 120; faixa intermediária (TOEFL 4 / IELTS 6.5 / DET 115) exige curso ELC ou exame",
+   "Deadline Aplicação": "Prazo preferencial Fall (full-time): 15 abr 2028 (necessário para bolsa de mérito e recomendado para visto F-1); Spring: 1 nov; admissão rolling depois disso",
+   "Taxa Aplicação USD": 60,
+   "Rounds Aplicação": "Sem rounds; prazo preferencial + admissão rolling (quem aplica depois do prazo preferencial praticamente não recebe bolsa)",
+   "Documentos Necessários": "Aplicação online; transcripts; 2 cartas de recomendação (acadêmicas/profissionais); resume/CV; Statement of Purpose (500-1.000 palavras); teste de inglês; GRE/GMAT opcional; taxa de US$60",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 110,
+  "fontes": [
+   "https://www.stevens.edu/program/masters-in-business-analytics-and-artificial-intelligence",
+   "https://www.stevens.edu/office-of-student-accounts/tuition-and-fees",
+   "https://www.stevens.edu/admission-aid/tuition-financial-aid/graduate-costs-and-funding",
+   "https://www.stevens.edu/graduate-education/english-language-proficiency-policy",
+   "https://www.stevens.edu/application-requirements",
+   "https://www.stevens.edu/admission-aid/graduate-admissions/application-deadlines",
+   "https://www.stevens.edu/graduate-funding-and-aid/masters-scholarships-and-fellowships",
+   "https://www.stevens.edu/program/business-analytics-and-artificial-intelligence-masters-ssb-grad-online"
+  ],
+  "observacoes": "ALERTA: o MS in Business Intelligence & Analytics foi substituído/renomeado para MS in Business Analytics & AI (a URL antiga redireciona para o novo programa); STEM não confirmado explicitamente na página nova (era STEM como BI&A). Tuition 2026-27: full-time (9-12 créditos) = taxa fixa de US$22,995/semestre; 33 créditos (número da versão online do mesmo grau) = 3 semestres = US$68,985 (por crédito efetivo ~US$2,090; part-time US$2,152/crédito). Fees = general service US$715 + activity US$203 por semestre x3. Seguro anual US$2,504 (dispensável). COA oficial off-campus 2026-27: moradia+alimentação US$20,744/ano, transporte US$350, misc US$1,050. Empregabilidade do programa não publicada (só dashboard geral da universidade)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Lehigh University",
+   "Estado": "PA",
+   "Cidade": "Bethlehem"
+  },
+  "updates": {
+   "Início": "Fall (agosto)",
+   "Custo/Crédito (Intl) USD": 1690,
+   "Custo/Crédito (Residente) USD": 1690,
+   "Tuition Total (Intl) USD": 57460,
+   "Tuition Total (Residente) USD": 57460,
+   "Fees Adicionais USD": 1860,
+   "Seguro Saúde (programa) USD": 2860,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Bolsa de mérito parcial de tuition (revisão automática de todos os admitidos, sem formulário e sem exigir GMAT/GRE; vale só no 1º ano -- Fall e Spring --, não renovável; valores não publicados); Lehigh Graduate Merit Scholarship (1 ano grátis, só para um ex-aluno de graduação da Lehigh por ano)",
+   "Quão Realista (Intl)": "Moderada -- todos os admitidos (inclusive internacionais) são avaliados automaticamente para bolsa parcial; aplicar nos primeiros rounds ajuda; valor típico não divulgado",
+   "TA/RA Disponível": "Não publicado para o MSBAi",
+   "Processo TA/RA": "Verificar",
+   "Caminho Tuition Residente": "Não se aplica (privada: mesma tuition para domésticos e internacionais)",
+   "Graduate Assistantships": "Nenhuma menção na página de financiamento do programa (só bolsas de mérito)",
+   "Taxa Empregabilidade %": 100,
+   "Salário Médio Pós USD": 71689,
+   "Principais Empregadores": "Amazon, Axtria, Charles Schwab, Comcast, Deloitte, EY, Johnson & Johnson, Merck, Pfizer, Verizon (Graduate Next Destination Report; setores: contabilidade, consultoria, finanças, logística)",
+   "GMAT/GRE Obrigatório": "Opcional (GPA de graduação ≥3.3 é citado como evidência suficiente para não enviar)",
+   "Experiência Profissional": "Não obrigatória (candidatos com 0-2 anos são considerados)",
+   "Matérias Pré-Requisito": "Nenhuma formal publicada; incluir habilidades de computação no resume",
+   "Testes Inglês Aceitos": "TOEFL iBT 4.5 recomendado (nova escala; antiga: 90 para MSBA) / IELTS 7 recomendado / Duolingo 125 recomendado / PTE aceito a partir do Spring 2027; abaixo disso, contatar business@lehigh.edu (possível programa StepUp)",
+   "Deadline Aplicação": "Round 1: 15 out 2027; Round 2: 15 jan 2028; Round 3: 1 abr 2028; Round 4: 15 mai 2028 (prazo final para internacionais morando fora dos EUA); prazo final geral: 1 jun 2028",
+   "Taxa Aplicação USD": 50,
+   "Rounds Aplicação": "Round 1: 15 out; Round 2: 15 jan; Round 3: 1 abr; Round 4: 15 mai (final para internacionais fora dos EUA); final 1 jun; admissão rolling; depósito de US$1,000 ao aceitar a oferta",
+   "Documentos Necessários": "Aplicação online (US$50); essay (tema no portal); resume/CV com habilidades de computação; GMAT/GRE opcional; transcripts (não oficiais na aplicação, avaliação curso-a-curso se a escola não enviar); carta(s) de recomendação (a página fala em 'Letter of Recommendation' no singular -- número exato não especificado); teste de inglês",
+   "Entrevista": "Pode ser solicitada pelo comitê, dependendo do perfil (não é obrigatória para todos)",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 125,
+  "fontes": [
+   "https://business.lehigh.edu/academics/graduate/masters-programs/ms-business-analytics/admissions-information",
+   "https://business.lehigh.edu/academics/graduate/masters-programs/ms-business-analytics/tuition-expenses",
+   "https://business.lehigh.edu/graduate/english-language-proficiency",
+   "https://business.lehigh.edu/academics/graduate/masters-programs/ms-business-analytics/career-outcomes"
+  ],
+  "observacoes": "Tuition atualizada para 2026-27: US$1,690/crédito x 34 = US$57,460 (antes US$1,660/US$56,440 de 2025-26). Fees = wellness US$250/ano + technology US$630/ano (x ~2 anos-calendário se trilha estendida) -- usei 1 ano (US$880) + orientação US$100 + ~US$880 de verão/2º ano ≈ US$1,860 (estimativa). Seguro 2026-27 US$2,860. Garantia financeira I-20 (trilha padrão): tuition+fees US$58,440, vida US$23,076, utilities US$3,150, seguro/outros US$6,250 = US$90,916. Moradia: US$700-1,000/mês compartilhada, US$1,000-2,000+ privativa. DET 125 é 'recomendado' (não mínimo rígido). Empregabilidade 100% vem de amostra muito pequena (percentuais em múltiplos de 25%) e o salário médio US$71,689 inclui todos os mestrados especializados de Business (Applied Econ, MSBAi, Management). Duração: 10-16 meses conforme trilha."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Babson College",
+   "Estado": "MA",
+   "Cidade": "Wellesley"
+  },
+  "updates": {
+   "Duração (meses)": 9,
+   "Início": "Fall (fim de agosto)",
+   "Destaques Currículo": "Opções de 9 ou 16 meses; 18 créditos obrigatórios + 12 de eletivas; Consulting Field Project para empresa real com apresentação a executivos; Python, R, SQL, Tableau, IA para negócios; turma: 65% internacionais, 44% mulheres",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 1928,
+   "Custo/Crédito (Residente) USD": 1928,
+   "Tuition Total (Intl) USD": 57840,
+   "Tuition Total (Residente) USD": 57840,
+   "Seguro Saúde (programa) USD": 3132,
+   "Bolsas Disponíveis": "Sim",
+   "Tipos de Bolsa": "Full-Time Merit Awards: de US$5,000 até Full Tuition Fellowship, consideração automática na admissão (liderança, diversidade, desempenho acadêmico); prêmios temáticos (Entrepreneurial Impact, Inclusive Excellence, Innovation Through Action, Academic Excellence, Babson Impact); desconto de 20% para ex-alunos Babson",
+   "Quão Realista (Intl)": "Moderada -- consideração automática para todos os admitidos, incluindo internacionais (65% da turma); piso de US$5,000; as maiores bolsas vão para quem aplica cedo com perfil forte e boa entrevista",
+   "TA/RA Disponível": "Não para o MSBA (Graduate Assistantship só no Full-Time MBA e MSF)",
+   "Processo TA/RA": "Não se aplica ao MSBA",
+   "Caminho Tuition Residente": "Não se aplica (privada: mesma tuition para todos)",
+   "Graduate Assistantships": "Só Full-Time MBA e MSF (80h/semestre); MSBA não elegível",
+   "Taxa Empregabilidade %": 93,
+   "Salário Médio Pós USD": 78868,
+   "Principais Empregadores": "Fidelity Investments, PwC, SAS Institute, DraftKings, Forrester Research, Clarks, Global Partners LP, PACCAR Parts, Barton Associates, Hawk-Eye Innovations (lista de ex-alunos de pós em cargos de analytics)",
+   "GPA Médio Admitidos": 3.43,
+   "GMAT/GRE Obrigatório": "Não (sem exigência de GMAT/GRE)",
+   "Experiência Profissional": "Não obrigatória (média da turma: 1-2 anos)",
+   "Matérias Pré-Requisito": "Nenhuma publicada",
+   "Testes Inglês Aceitos": "Mínimos recomendados: TOEFL iBT 100 / TOEFL Essentials 11 / IELTS 7.5 / PTE 65 / Duolingo 130; dispensa possível (graduação em inglês, país de língua inglesa, 2+ anos trabalhando nos EUA)",
+   "Deadline Aplicação": "Round 1: 21 out 2026; Round 2: 11 jan 2027; Round 3: 29 mar 2027; Round 4: 1 mai 2027; Round 5: 10 jun 2027; depois rolling (datas do ciclo Fall 2027; o ciclo Fall 2028 deve seguir padrão parecido, a partir de ~out 2027)",
+   "Taxa Aplicação USD": 100,
+   "Rounds Aplicação": "5 rounds + rolling: Round 1 (out, decisão meados de dez), Round 2 (jan, decisão meados de mar), Round 3 (fim de mar, decisão início de mai), Round 4 (mai), Round 5 (jun); internacionais que precisam de visto devem aplicar até o Round 3; taxa de US$100 isenta para quem assiste ao Graduate Open House virtual",
+   "Documentos Necessários": "Perguntas curtas (short answers); 1 carta de recomendação (profissional ou acadêmica); resume; transcripts de todas as instituições (traduzidos); essay opcional; teste de inglês; taxa de US$100",
+   "Entrevista": "Possível -- não listada como obrigatória para o MSBA, mas o processo de bolsas cita a entrevista como fator",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://www.babson.edu/graduate/academics/full-time-business-programs/master-of-science-in-business-analytics/",
+   "https://www.babson.edu/graduate/admissions/tuition-and-financial-aid/tuition-and-deadlines/",
+   "https://www.babson.edu/graduate/admissions/how-to-apply/deadlines/",
+   "https://www.babson.edu/graduate/admissions/how-to-apply/application-requirements/",
+   "https://www.babson.edu/graduate/admissions/how-to-apply/international-applicants/",
+   "https://www.babson.edu/graduate/admissions/tuition-and-financial-aid/full-time-merit-awards/"
+  ],
+  "observacoes": "Tuition 2026-27: US$1,928/crédito x 30 créditos = US$57,840 (mesmo valor para domésticos e internacionais). Seguro 2026-27 US$3,132 (obrigatório em MA, dispensável com plano equivalente). Duração: 9 meses (opção de 16). Empregabilidade 93% = aceitaram oferta em até 6 meses, entre os que buscavam emprego (turma 2025); salário médio US$78,868 (MSBA 2025). DET 130 é mínimo recomendado. GMAT/GRE: não exigido (antes 'test-optional'). Taxa de aplicação US$100, com isenção para participantes de eventos (open house)."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Brandeis University",
+   "Estado": "MA",
+   "Cidade": "Waltham"
+  },
+  "updates": {
+   "Business School": "Brandeis International Business School (IBS), School of Business and Economics",
+   "Duração (meses)": 16,
+   "Início": "Fall (fim de agosto); Spring também aceita entrada",
+   "Destaques Currículo": "12 ou 16 meses (16 meses: ago a dez do ano seguinte, com estágio valendo crédito de capstone); 41 créditos (21 core); concentrações em Artificial Intelligence, Sports Analytics, Healthcare Analytics e Marketing Analytics; estágio, field project ou pesquisa; 100% dos que buscaram conseguiram estágio/field project (2025)",
+   "Total Créditos": 41,
+   "Custo/Crédito (Intl) USD": 1300,
+   "Custo/Crédito (Residente) USD": 1300,
+   "Fees Adicionais USD": 340,
+   "Tipos de Bolsa": "Bolsas parciais de mérito na admissão (a 'grande maioria' dos admitidos em mestrado recebe; valor vem na carta de decisão; 100% dos admitidos são considerados); bolsas de parceiros (Peace Corps, AmeriCorps, Teach for America, Beta Gamma Sigma); fellowships endowed por área; desconto para ex-alunos. Para Fall 2026 houve bolsa garantida de US$10,000 a todos os admitidos (não confirmada para 2027/2028)",
+   "Quão Realista (Intl)": "Alta -- a grande maioria dos admitidos recebe bolsa parcial automática, internacionais inclusos; valor típico ~US$10k (garantia de Fall 2026, pode mudar)",
+   "Caminho Tuition Residente": "Não se aplica (privada: mesma tuition para todos)",
+   "Taxa Empregabilidade %": 91,
+   "Salário Médio Pós USD": 80816,
+   "Principais Empregadores": "Exemplos de ex-alunos: The Knot Worldwide, IMF, Takeda, Washington University in St. Louis (sem lista oficial de maiores empregadores)",
+   "GPA Médio Admitidos": 3.3,
+   "GMAT/GRE Obrigatório": "Opcional (inteiramente opcional)",
+   "GMAT Médio": 650,
+   "Testes Inglês Aceitos": "Recomendados: TOEFL iBT 5.0 (nova escala; =100 antigo) / TOEFL ITP 627 / IELTS 7.0 / Duolingo 130 / PTE 68; waiver para graduação em inglês ou trabalho em país anglófono",
+   "Deadline Aplicação": "Prioridade (School of Business and Economics): 1 nov 2027; Round 1: 15 jan 2028; Round 2: 1 mar 2028; Round 3: 15 abr 2028; Spring: prioridade 15 out, final 15 nov",
+   "Taxa Aplicação USD": 75,
+   "Rounds Aplicação": "Round 1: 1 nov (prioridade); Round 2: 15 jan; Round 3: 1 mar; Round 4: 15 abr (datas do ciclo Fall 2027); isenção da taxa de US$75 para elegíveis (página de fee waivers)",
+   "Documentos Necessários": "Aplicação online (US$75); transcripts não oficiais; 1 carta de recomendação obrigatória (até 2); resume; Statement of Purpose; GMAT/GRE opcional; teste de inglês",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "sim",
+  "det_nota_minima": 130,
+  "fontes": [
+   "https://www.brandeis.edu/global/academics/msba/",
+   "https://www.brandeis.edu/graduate-admissions/apply/masters.html",
+   "https://www.brandeis.edu/graduate-admissions/apply/international.html",
+   "https://www.brandeis.edu/global/admissions/index.html",
+   "https://www.brandeis.edu/student-financial-services/tuition-calculator/graduate-tuition.html",
+   "https://www.brandeis.edu/graduate-admissions/tuition-financial-aid/scholarships-fellowships.html"
+  ],
+  "observacoes": "Tuition 2026-27 (MSBA 16 meses): ano 1 US$42,640 + ano 2 US$10,660 = US$53,300 (confirma valor atual); 41 créditos => ~US$1,300/crédito efetivo. Fees: US$220 (ano 1) + US$120 (ano 2). Duração alterada para 16 meses (programa padrão; 12 meses possível com verão). Empregabilidade 91% em 6 meses e salário médio US$80,816 (salário+bônus nos EUA) são das turmas MSBA e BA/MSBA 2025. Perfil da turma: GPA 3.3, GMAT 650, GRE 157V/166Q. DET 130 é recomendado (revisão holística). Seguro saúde não localizado nesta rodada."
+ },
+ {
+  "match": {
+   "Nome da Universidade": "Boston College",
+   "Estado": "MA",
+   "Cidade": "Chestnut Hill"
+  },
+  "updates": {
+   "Business School": "Woods College of Advancing Studies (o Carroll School of Management não oferece MSBA)",
+   "Nome Oficial do Programa": "Master of Science in Applied Analytics (M.S.A.A.) -- equivalente mais próximo; o Carroll não tem MS in Business Analytics",
+   "Formato": "Flexível: aulas presenciais à noite no campus e/ou online (combináveis); internacionais F-1 precisam da modalidade presencial",
+   "Duração (meses)": 12,
+   "Início": "Fall, Spring, Summer",
+   "Destaques Currículo": "30 créditos (10 disciplinas); eletivas por área de foco; projeto aplicado de IA do início ao fim; STEM (OPT estendido); dupla titulação possível com M.S. in Applied Economics; turmas pequenas",
+   "Total Créditos": 30,
+   "Custo/Crédito (Intl) USD": 1490,
+   "Custo/Crédito (Residente) USD": 1490,
+   "Tuition Total (Intl) USD": 44700,
+   "Tuition Total (Residente) USD": 44700,
+   "Fees Adicionais USD": 140,
+   "Bolsas Disponíveis": "Verificar",
+   "Tipos de Bolsa": "Nenhuma bolsa de mérito publicada na página de admissão do M.S.A.A. (só ajuda federal/FAFSA, planos de pagamento e benefícios para empresas parceiras)",
+   "Quão Realista (Intl)": "Baixa -- a página só cita ajuda federal (inacessível a internacionais) e parcerias com empregadores",
+   "Caminho Tuition Residente": "Não se aplica (privada)",
+   "GMAT/GRE Obrigatório": "Não obrigatório (fortemente recomendado se faltar algum pré-requisito)",
+   "Testes Inglês Aceitos": "M.S.A.A. (Woods College): TOEFL iBT 90 / IELTS 6.5 (Duolingo não listado). Para comparação, o Carroll (MBA/MSF) exige TOEFL 100 (5 na nova escala) / IELTS 7.5 / PTE 68 / Duolingo 130",
+   "Deadline Aplicação": "Internacionais Fall: 15 jun 2028 (depois disso vai para Spring); Spring: 15 out; Summer: 1 mar; admissão rolling",
+   "Taxa Aplicação USD": 60,
+   "Rounds Aplicação": "Sem rounds; rolling com prazos para internacionais (Fall 15 jun, Spring 15 out, Summer 1 mar); depósito de US$250 ao aceitar",
+   "Documentos Necessários": "Aplicação (US$60); resume; personal statement (550-750 palavras); 2 cartas de recomendação (profissionais ou acadêmicas); vídeo-essay obrigatório (2 min); transcripts + avaliação curso-a-curso (ECE/WES/CED) para diplomas estrangeiros; TOEFL/IELTS",
+   "Entrevista": "Opcional / a critério do diretor (pode ser solicitada)",
+   "Dificuldade Entrada": "Moderada"
+  },
+  "det_aceito": "nao",
+  "det_nota_minima": null,
+  "fontes": [
+   "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs.html",
+   "https://analytics.bc.edu/master-science-applied-analytics/",
+   "https://analytics.bc.edu/admission/",
+   "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/international-applicants.html"
+  ],
+  "observacoes": "ALERTA: o Carroll School of Management NÃO oferece mais MS in Business Analytics -- a lista oficial de M.S. do Carroll só tem M.S. in Finance e M.S. in Accounting (URLs de MSBA dão 404); analytics só existe como concentração/Data Analytics Sequence no MBA. O programa de analytics da BC é o M.S. in Applied Analytics da Woods College of Advancing Studies (STEM, voltado a profissionais, aulas à noite no campus e/ou online), preenchido aqui como substituto -- avaliar se a linha deve continuar na lista. DET: a página do M.S.A.A. lista só TOEFL (90) e IELTS -> det_aceito='nao' (o DET 130 da entrada vale para programas do Carroll, não para o M.S.A.A.). Tuition é de 2025-26 (US$1,490/crédito; 2026-27 não publicado na página); fees = US$25/semestre (fall/spring) e US$45 no verão (~US$140 no total, estimativa). Prazo de Fall para internacionais (15 jun) inferido do texto da página ('applications received after June 15 will be considered for spring')."
+ }
+]
