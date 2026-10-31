@@ -125,3 +125,7 @@ scripts/               scripts ETL de coleta, correção e auditoria dos dados
 resumo_contexto_tecnico.md   schema, metodologia e histórico das fases
 CLAUDE.md              especificação/convenções lidas pela IA a cada sessão
 ```
+
+## Licença
+
+Código sob a licença [MIT](LICENSE).
