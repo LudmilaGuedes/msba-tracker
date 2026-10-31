@@ -10,8 +10,6 @@ Escolher um mestrado nos EUA olhando só o ranking esconde o que mais pesa para 
 
 **Demo online:** **https://msba-tracker.vercel.app**
 
-![Visão geral do dashboard](docs/screenshots/01-visao-geral-cards.png)
-
 ## Funcionalidades
 
 **Comparação**
@@ -87,16 +85,6 @@ O dataset fica em [`data/msba_programs_database.xlsx`](data/msba_programs_databa
 - **Escopo:** apenas programas **presenciais**, **STEM-designated** e abertos a estudantes com visto **F-1**.
 - **Limitações:** tuition, prazos e requisitos mudam todo ano, e custo de vida e chance de bolsa são estimativas. Campos marcados como `Verificar` não foram confirmados em fonte oficial. **Confirme sempre no site da universidade antes de tomar decisões.**
 
-## Prints da tela
-
-| Visão geral (cards) | Tabela comparativa |
-|---|---|
-| ![Cards](docs/screenshots/01-visao-geral-cards.png) | ![Tabela](docs/screenshots/02-tabela.png) |
-| **Filtros aplicados** | **Gráfico Custo × Salário** |
-| ![Filtros](docs/screenshots/03-filtros.png) | ![Gráfico](docs/screenshots/04-custo-vs-salario.png) |
-| **Detalhes de um programa** | **Estratégia de Aplicação** |
-| ![Detalhes](docs/screenshots/05-detalhes-programa.png) | ![Estratégia](docs/screenshots/06-estrategia-aplicacao.png) |
-
 ## Stack
 
 - **Frontend:** [Vite](https://vite.dev/) 6 · [React](https://react.dev/) 19 · [TypeScript](https://www.typescriptlang.org/) · [Tailwind CSS](https://tailwindcss.com/) 4
@@ -134,7 +122,6 @@ data/                  planilha-fonte (138 programas × 55 campos)
 msba-dashboard/        app React (Vite + TypeScript)
   src/types/columns.ts   schema dos 55 campos (fonte única da verdade)
 scripts/               scripts ETL de coleta, correção e auditoria dos dados
-docs/screenshots/      prints usados neste README
 resumo_contexto_tecnico.md   schema, metodologia e histórico das fases
 CLAUDE.md              especificação/convenções lidas pela IA a cada sessão
 ```
