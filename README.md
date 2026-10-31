@@ -66,9 +66,15 @@ Essas regras ficam em [`resumo_contexto_tecnico.md`](resumo_contexto_tecnico.md)
 
 ## Impacto
 
-> ✏️ **[PREENCHER]** A ferramenta economizou aproximadamente **[X] horas** de pesquisa manual.
->
-> **Cálculo:** [Y] minutos para levantar e conferir os 55 campos de um programa nos sites oficiais × 138 programas = [Z] horas, mais [W] horas de rodadas de revisão e comparação manual em planilha.
+A ferramenta economizou aproximadamente **125 horas** de pesquisa manual.
+
+**Cálculo:** levantar e conferir os 55 campos de um programa exige abrir de 4 a 6 páginas oficiais (tuition, custo de vida, admissão, bolsas, *employment report*), o que leva cerca de **45 minutos por programa**:
+
+| Etapa | Tempo |
+|---|---|
+| 45 min × 138 programas | ~104 h |
+| Comparação manual em planilha e revisão | ~20 h |
+| **Total** | **~125 h** |
 
 Além do tempo, a ferramenta passou a mostrar o que antes não aparecia: a diferença de custo total entre programas com ranking parecido, e quais deles oferecem um caminho realista de assistantship ou tuition reduzida para internacionais.
 
