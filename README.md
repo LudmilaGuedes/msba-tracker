@@ -2,13 +2,13 @@
 
 > **EN —** An interactive dashboard to compare **138 on-campus, STEM-designated Master of Science in Business Analytics (MSBA) programs in the US** by *real total cost* (tuition + living expenses), scholarships/assistantships and employability — not just by ranking. The 55-field dataset was researched from official university sources and the app was built end-to-end with **Claude Code** (AI-assisted "vibe coding"), with every data change scripted and auditable.
 >
-> **Demo:** _[link da demo — preencher após o deploy]_ · **Stack:** Vite · React · TypeScript
+> **Demo:** **https://msba-tracker.vercel.app** · **Stack:** Vite · React · TypeScript
 
 ---
 
 Escolher um mestrado nos EUA olhando só o ranking esconde o que mais pesa para um estudante internacional: **quanto o programa custa de verdade** (tuition + aluguel + seguro + custo de vida durante todo o curso), **qual a chance real de bolsa ou assistantship** e **qual o retorno em empregabilidade e salário**. Essas informações ficam espalhadas por dezenas de páginas de cada universidade. O MSBA Tracker junta tudo num só lugar, com os mesmos critérios para os 138 programas.
 
-**Demo online:** _[link da demo — preencher após o deploy]_
+**Demo online:** **https://msba-tracker.vercel.app**
 
 ![Visão geral do dashboard](docs/screenshots/01-visao-geral-cards.png)
 
