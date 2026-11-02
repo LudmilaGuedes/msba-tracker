@@ -1,5 +1,5 @@
 import { AlertTriangle, GraduationCap } from "lucide-react";
-import type { Folder } from "../../types/program";
+import type { Folder, MergedProgram } from "../../types/program";
 import { useStrategy } from "../../context/StrategyContext";
 import { StarRating } from "../common/StarRating";
 import { ToggleSwitch } from "../common/ToggleSwitch";
@@ -11,9 +11,10 @@ import type { StrategyEntry } from "../../utils/strategyGrouping";
 interface RoundTableProps {
   entries: StrategyEntry[];
   folders: Folder[];
+  onOpenDetail: (program: MergedProgram) => void;
 }
 
-export function RoundTable({ entries, folders }: RoundTableProps) {
+export function RoundTable({ entries, folders, onOpenDetail }: RoundTableProps) {
   return (
     <div className="overflow-x-auto rounded-xl border border-slate-200 bg-white shadow-sm">
       <table className="w-full min-w-[1400px] border-collapse text-sm">
@@ -33,7 +34,7 @@ export function RoundTable({ entries, folders }: RoundTableProps) {
         </thead>
         <tbody className="divide-y divide-slate-100">
           {entries.map((entry) => (
-            <StrategyRow key={entry.program.id} entry={entry} folders={folders} />
+            <StrategyRow key={entry.program.id} entry={entry} folders={folders} onOpenDetail={onOpenDetail} />
           ))}
         </tbody>
       </table>
@@ -41,7 +42,15 @@ export function RoundTable({ entries, folders }: RoundTableProps) {
   );
 }
 
-function StrategyRow({ entry, folders }: { entry: StrategyEntry; folders: Folder[] }) {
+function StrategyRow({
+  entry,
+  folders,
+  onOpenDetail,
+}: {
+  entry: StrategyEntry;
+  folders: Folder[];
+  onOpenDetail: (program: MergedProgram) => void;
+}) {
   const { program, roundText } = entry;
   const { strategyData, updateStrategy } = useStrategy();
   const strategy = strategyData[program.id] ?? {};
@@ -59,7 +68,14 @@ function StrategyRow({ entry, folders }: { entry: StrategyEntry; folders: Folder
   return (
     <tr className="align-top hover:bg-slate-50/60">
       <td className="px-3 py-2.5">
-        <div className="font-medium text-slate-800">{String(program.values.universidade ?? "")}</div>
+        <button
+          type="button"
+          onClick={() => onOpenDetail(program)}
+          title="Ver detalhes do programa"
+          className="text-left font-medium text-slate-800 hover:text-indigo-700 hover:underline"
+        >
+          {String(program.values.universidade ?? "")}
+        </button>
         <div className="text-xs text-slate-400">{String(program.values.businessSchool ?? "")}</div>
         {program.rating > 0 && <StarRating value={program.rating} readOnly size={13} />}
       </td>

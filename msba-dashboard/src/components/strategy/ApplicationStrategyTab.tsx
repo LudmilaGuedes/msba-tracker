@@ -10,10 +10,11 @@ import { RoundTable } from "./RoundTable";
 import { RoundCostPanel } from "./RoundCostPanel";
 import { GlobalCostSummary } from "./GlobalCostSummary";
 import { FolderKanban } from "lucide-react";
+import type { MergedProgram } from "../../types/program";
 
 const [CERTEZA_NAME, DUVIDA_NAME] = STRATEGY_ELIGIBLE_FOLDER_NAMES;
 
-export function ApplicationStrategyTab() {
+export function ApplicationStrategyTab({ onOpenDetail }: { onOpenDetail: (program: MergedProgram) => void }) {
   const { programs, folders, ensureFolders } = useData();
   const { strategyData, settings } = useStrategy();
   const [finalFilter, setFinalFilter] = useState<FinalTotalFilter>("all");
@@ -63,7 +64,7 @@ export function ApplicationStrategyTab() {
               <h2 className="text-base font-semibold text-slate-800">
                 {ROUND_LABELS[group.bucket]} — {LEAD_TIME_BUCKET_LABELS[group.bucket]}
               </h2>
-              <RoundTable entries={group.entries} folders={folders} />
+              <RoundTable entries={group.entries} folders={folders} onOpenDetail={onOpenDetail} />
               <RoundCostPanel costs={computeRoundCosts(group.entries, strategyData, settings)} />
             </div>
           ))}
